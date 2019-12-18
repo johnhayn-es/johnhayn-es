@@ -1,21 +1,22 @@
 ---
 layout: page
-title: About Emerald
+title: About Me
 ---
+
+### John Haynes is a User Experience Designer building a platform for a smarter, fairer entertainment industry at [We Got POP](http://www.wegotpop.com).
+
+
 ## About
-Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
+I am a Senior Product Designer at [We Got POP](http://www.wegotpop.com), formerly CPO at [YourWelcome](http://www.yourwelcome.com) and an erstwhile cameraman and content producer. 
 
-For further details on Emerald, please visit the [repository on Github](https://github.com/KingFelix/emerald/).
+I have considerable experience designing B2B SAAS products; user research & analysis, introducing design systems, improving the navigation and overall information architecture - overseeing the entire design process from ideation to deployment.
 
-![Emerald](img/Emerald01.png "Emerald")
+My background on marketing has lead me to oversee the growth of two successful subscription products from the ground up; the Hairy Bikers’ Diet Club and YourWelcome. I’m currently deploying these skills on POP’s Crew Community.
 
-### Setup
-Emerald may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
+In my spare time: 
 
-After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/emerald/`` and you will find it there.
+* I play guitar as one half of the acoustic duo Stacey & John
+* I enjoy getting out for a run
+* I’m interested in the future of transport and have held an advisory position for GoVia Thameslink since 2015.
 
-Additionally it is possible to fork the repository and use Github Pages as hosting. By following this way it will be enough to change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or simply with a "/" (slash) if you want install Emerald in the root. 
 
-Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best starting point!
-
-Enjoy!
