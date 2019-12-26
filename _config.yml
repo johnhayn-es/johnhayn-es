@@ -7,7 +7,7 @@ author:
   email: "mail@johnhayn.es"
 
 # Build settings
-baseurl: /default.html # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: /
 markdown: kramdown
 source: .
 destination: ./_site
