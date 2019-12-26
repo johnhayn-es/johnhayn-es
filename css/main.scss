@@ -4,3 +4,7 @@
 
 //Import
 @import "base", "mixin", "typography", "layout", "syntax.scss", "custom.scss";
+
+input {
+	width: 100px;
+}
