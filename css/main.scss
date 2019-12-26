@@ -17,4 +17,6 @@ input, input:active {
 
 input[type=text]:focus {
     background-color: $main-color;
+    color: #fff;
+    border:none;
 }
