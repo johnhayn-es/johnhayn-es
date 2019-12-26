@@ -5,7 +5,7 @@
 //Import
 @import "base", "mixin", "typography", "layout", "syntax.scss", "custom.scss";
 
-input {
+input, input:active {
 	width: 100px;
 	border-top: 0;
     border-right: 0;
