@@ -14,3 +14,7 @@ input, input:active {
     background: transparent;
     font-size: 1.6rem;
 }
+
+input[type=text]:focus {
+    background-color: $main-color;
+}
