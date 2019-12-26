@@ -35,3 +35,10 @@ version: "1.1.0"
 custom_header: true
 custom_nav_footer: true
 reverse: false
+
+# search config
+var sjs = SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: '/search.json'
+})
