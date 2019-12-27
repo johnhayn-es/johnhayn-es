@@ -20,3 +20,4 @@ There is no set timeframe for this project, but I will approach the set up in th
 3. Set up / transfer blog content 
 4. Create a page template for portfolio projects
 5. Build-out pages for portfolio projects
+6. Integrate site-search
