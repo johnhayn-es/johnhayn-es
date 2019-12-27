@@ -12,3 +12,11 @@ I made the decision to use this blog to test my design and web development skill
 * Helpful features; can I build upon the simple theme by integrating plugins, such as search?
 * SEO optimisations; can I build a site that generates inbound traffic by optimising blog posts for SEO?
 
+### Roadmap
+There is no set timeframe for this project, but I will approach the set up in the following order: 
+
+1. ~Set up Jekyll~
+2. ~Install a custom theme~
+3. Set up / transfer blog content 
+4. Create a page template for portfolio projects
+5. Build-out pages for portfolio projects
