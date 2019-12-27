@@ -15,7 +15,7 @@ input, input:active {
     font-size: 1.6rem;
 }
 
-input:focus {
+input:focus, input:active {
     background-color: $main-color;
     color: #fff;
     border:none;
