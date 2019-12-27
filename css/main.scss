@@ -20,7 +20,7 @@ input:focus, input:active {
     color: #fff;
     border:none;
     box-shadow: none;
-
+    outline:none;
 }
 
 input:focus::placeholder {
