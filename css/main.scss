@@ -19,6 +19,8 @@ input:focus {
     background-color: $main-color;
     color: #fff;
     border:none;
+    box-shadow: none;
+
 }
 
 input:focus::placeholder {
