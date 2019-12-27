@@ -1,7 +1,7 @@
 ---
 title: Setting up Jekyll
 ---
-I've begun migrating my portfolio and blog from Squarespace to Jekyll, via Github Pages. 
+I've begun to migrate my portfolio and blog from Squarespace to Jekyll, via Github Pages. 
 
 This isn't my first rodeo - I've used Jekyll before, so setting up Jekyll was easy enough. I was also able to install and customise a new theme with relative ease. 
 
