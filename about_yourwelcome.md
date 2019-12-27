@@ -12,7 +12,7 @@ Following YourWelcome's launch, I joined the team as the Head of Growth to focus
 
 ## Projects
 
-* Guest verification
+* [Guest verification](/yourwelcome/)
 * Instant messaging
 * Reservations Calendar
 * Languages
