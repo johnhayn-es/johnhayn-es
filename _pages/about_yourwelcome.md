@@ -3,7 +3,7 @@ YourWelcome is an Android app that runs, in Kiosk mode, on custom-built tablets 
 
 Designed to for guests, the app has features to assist them during their stay. 
 
-Find out more on the [YourWelcome Website](wwww.yourwelcome.com)
+Find out more on the [YourWelcome Website](http://wwww.yourwelcome.com)
 
 
 ### My Role 
@@ -17,4 +17,3 @@ Following YourWelcome's launch, I joined the team as the Head of Growth to focus
 * Reservations Calendar
 * Languages
 * Handling GDPR
-
