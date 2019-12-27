@@ -15,8 +15,12 @@ input, input:active {
     font-size: 1.6rem;
 }
 
-input[type=text]:focus {
+input:focus {
     background-color: $main-color;
     color: #fff;
     border:none;
+}
+
+input:focus::placeholder {
+    color: #fff;
 }
