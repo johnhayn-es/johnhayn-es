@@ -6,7 +6,7 @@ layout: post
 
 # We Got POP
 
-POP build enterprise products for the film an television industry.  Find out more on the <a href="http://www.wegotpop.com" target="_blank">We Got POP Website ◹</a>.
+POP build enterprise products for the film an television industry.  Find out more on the <a href="http://www.wegotpop.com" target="_blank">We Got POP Website ↗</a>.
 
 ## Projects
 A few of my favourite projects...

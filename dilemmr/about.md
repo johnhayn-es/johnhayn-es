@@ -2,11 +2,11 @@
 layout: post
 ---
 
-<span class="breadcrumbs">[Portfolio](../pages/portfolio) / We Got POP</span>
+<span class="breadcrumbs">[Portfolio](../pages/portfolio) / Dilemmr</span>
 
-# We Got POP
+# Dilemmr
 
-POP build enterprise products for the film an television industry.  Find out more on the <a href="http://www.wegotpop.com" target="_blank">We Got POP Website ◹</a>.
+POP build enterprise products for the film an television industry.  Find out more on the <a href="http://www.wegotpop.com" target="_blank">We Got POP Website ↗</a>.
 
 ## Projects
 A few of my favourite projects...
