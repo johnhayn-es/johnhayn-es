@@ -7,7 +7,7 @@ author:
   email: "mail@johnhayn.es"
 
 # Build settings
-baseurl: ../
+baseurl: /
 markdown: kramdown
 source: .
 destination: ./_site
