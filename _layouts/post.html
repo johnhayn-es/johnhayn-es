@@ -2,7 +2,9 @@
 layout: default
 ---
 <article id="post-page">
+	{% if page.title %}
 	<h2>{{ page.title }}</h2>		
+	{% endif %}
 	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
 	<div class="content">
 
