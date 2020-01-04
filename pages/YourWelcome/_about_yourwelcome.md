@@ -1,4 +1,5 @@
 ---
+layout: post
 title: YourWelcome
 ---
 
@@ -13,8 +14,8 @@ As the company continued to grow, I was asked to oversee the design & delivery o
 
 ## Projects
 
-* [Guest verification](./yourwelcome/guest_verification)
-* Instant messaging
-* Reservations Calendar
+* [Guest verification](./yourwelcome/_guest_verification)
+* [Instant messaging](./yourwelcome/_instant_messaging)
+* [Reservations Calendar](./yourwelcome/_reservation_calendar)
 * Languages
-* Handling GDPR
+* [Handling GDPR](./yourwelcome/_gdpr)
