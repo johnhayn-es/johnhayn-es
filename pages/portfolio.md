@@ -1,8 +1,7 @@
 ---
+layout: post
 title: Portfolio
 ---
-
-## Projects
 
 * [**We Got POP**](../wegotpop/about); building enterprise products for film and television professionals
 * [**YourWelcome**](../yourwelcome/about); a hardware device for short-term rental guests
