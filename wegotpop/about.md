@@ -1,9 +1,9 @@
 ---
 layout: post
+title: We Got POP
 ---
 
-# We Got POP
-POP build enterprise products for the film an television industry.  Find out more on the [We Got POP Website](http://wwww.wegotpop.com)
+POP build enterprise products for the film an television industry.  Find out more on the [We Got POP Website](http://wwww.wegotpop.com).
 
 ### My Role 
 #### Senior Product Designer
