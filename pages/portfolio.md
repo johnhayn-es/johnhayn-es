@@ -15,7 +15,7 @@ An iOS and web app for sharing your favourite places with friends
 #### [Dilemmr](../dilemmr/about)
 An iOS app for making decisions
 
-#### [Twee V](../tweev/about)
+#### [TweeV](../tweev/about)
 A fresh approach to writing your resume
 
 #### [Hairy Bikers' Diet Club](../hbdc/about)
