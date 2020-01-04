@@ -14,8 +14,9 @@ Following YourWelcome's launch, I joined the team as the Head of Growth to focus
 As the company continued to grow, I was asked to oversee the design & delivery of the YourWelcome's apps and web dashboard as the Chief Product Officer.
 
 ## Projects
+A few of my favourite projects...
 
-* [Guest verification](guest_verification)
+* [Guest Verification](guest_verification)
 * [Instant messaging](instant_messaging)
 * [Reservations Calendar](reservation_calendar)
 <!-- * Languages -->

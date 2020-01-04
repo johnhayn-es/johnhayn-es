@@ -10,6 +10,7 @@ POP build enterprise products for the film an television industry.  Find out mor
 I joined the POP team to help build out their enterprise products for film and television professionals; consolidating a disparate design system, providing user engagement insights and overseeing the output of a growing design team.
 
 ## Projects
+A few of my favourite projects...
 
 * Crew Community
 * Distro
