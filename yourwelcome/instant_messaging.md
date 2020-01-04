@@ -7,6 +7,8 @@ layout: post
 # Instant Messaging via Slack
 This feature was prioritised after inbound requests increased, following a period of significant growth. The resulting Slack app is something that I’m hugely proud of; not only did we exceed the original objectives, but this feature has enabled our customers to provide a significantly better experience for their guests.
 
+![Messages](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--notifications--messages+grey.png)
+
 ### Objective(s)
 
 * Make it easy for anyone to connect their Slack & YourWelcome accounts
@@ -19,8 +21,6 @@ We built a slack app that connects to Slack’s Real Time Messaging API. The app
 * All properties that a user wants to connect to Slack appear as individual channels, enabling our customers to manage who from their team is involved in conversations at a per-property level
 * We replace the bot user’s name with the name and language of the guest, making it easy to personalise the chat and to anticipate any language barriers
 * The tablet app wipes the chat history on device with each new reservation so that guests cannot see previous conversations, but the full conversation is retained in Slack for the property manager
-
-[Image Placeholder]
 
 ### Results
 Instant messaging is a polarising feature. For some of our customers, the thought of more communication with their guests goes against the reason they bought the tablets in the first place. For others, this feature has become key to their day-to-day operations. Our Slack app has proven to be a key driver of customer retention.

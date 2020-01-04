@@ -29,6 +29,8 @@ The secure check-in was released as an opt-in feature to existing users; we made
 
 Watch the secure check-in process in action:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fbrxIgafArI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Results
 
 * One week after launch, the secure check-in had been adopted by around half of YourWelcome’s users (opt-in) – which is higher than the projected number.

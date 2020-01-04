@@ -27,8 +27,6 @@ The calendar has become the backbone of a number of systems in the YourWelcome e
 * Can integrate 7+ external calendars, including HomeAway and Booking.com
 * Enables property managers to sell of late check-outs, via YourWelcome services
 
-[Image Placeholder]
-
 ### Impact
 
 This key feature has enabled us to link in-app events to individual bookings; we now customise the guest’s experience based on past behaviour, as well as providing more detailed sales and analytical reporting to our clients.
