@@ -15,6 +15,8 @@ A few of my favourite projects...
 * Dashboard Navigation
 
 ## My Role 
+Nov 2013 - Apr 2014
+
 ### Senior Product Designer
 I joined the POP team to help build out their enterprise products for film and television professionals; consolidating a disparate design system, providing user engagement insights and overseeing the output of a growing design team.
 
