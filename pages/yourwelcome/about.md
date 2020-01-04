@@ -14,8 +14,8 @@ As the company continued to grow, I was asked to oversee the design & delivery o
 
 ## Projects
 
-* [Guest verification](./yourwelcome/_guest_verification)
-* [Instant messaging](./yourwelcome/_instant_messaging)
-* [Reservations Calendar](./yourwelcome/_reservation_calendar)
+* [Guest verification](yourwelcome/guest_verification)
+* [Instant messaging](yourwelcome/instant_messaging)
+* [Reservations Calendar](yourwelcome/reservation_calendar)
 * Languages
-* [Handling GDPR](./yourwelcome/_gdpr)
+* [Handling GDPR](yourwelcome/gdpr)
