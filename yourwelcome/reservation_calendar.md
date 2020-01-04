@@ -7,6 +7,8 @@ layout: post
 # Reservations Calendar
 It became clear that the YourWelcome tablet would become a much more powerful tool if we were able to attribute in-app behaviour to a particular guest. This would provide a wealth of guest data that we now take for granted.
 
+![calendar](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/Calendar+-+booking+slide.png)
+
 ### Objective(s)
 Users should be able to create, edit and delete a variety of events in a calendar.
 
