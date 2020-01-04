@@ -1,5 +1,5 @@
 ---
-title: Calendar
+layout: post
 ---
 
 [Portfolio](../pages/portfolio) / [YourWelcome](about) / Calendar

@@ -1,5 +1,5 @@
 ---
-title: Guest Verification
+layout: post
 ---
 
 [Portfolio](../pages/portfolio) / [YourWelcome](about) / Guest Verification

@@ -1,5 +1,5 @@
 ---
-title: GDPR
+layout: post
 ---
 
 [Portfolio](../pages/portfolio) / [YourWelcome](about) / GDPR

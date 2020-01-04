@@ -1,5 +1,5 @@
 ---
-title: Instant Messaging
+layout: post
 ---
 
 [Portfolio](../pages/portfolio) / [YourWelcome](about) / Instant Messaging
