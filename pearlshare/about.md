@@ -5,6 +5,8 @@ layout: post
 <span class="breadcrumbs">[Portfolio](../pages/portfolio) / Pearlshare</span>
 
 # Pearlshare
+Jan 2015 - Jul 2016
+
 At Pearlshare I implemented user acquisition & retention strategies, focusing on the onboarding experience.
 
 ## Projects
