@@ -1,6 +1,3 @@
----
-title: About Me
----
 
 ### John Haynes is a User Experience Designer building a platform for a smarter, fairer entertainment industry at [We Got POP](http://www.wegotpop.com).
 
