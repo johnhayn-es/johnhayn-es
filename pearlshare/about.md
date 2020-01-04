@@ -15,10 +15,13 @@ A few of my favourite projects...
 
 
 ## My Roles
-Jan 2015 - Jul 2016
 ### Growth Lead
+Jan 2015 - Feb 2016
+
 I joined Pearlshare to lead user acquisition & retention for Pearlshare's iOS app; creating automated email campaigns, setting up Google Analytics funnels & goals, establishing an editorial voice/tone for in-app content.
 
 ### User Experience Lead
+Mar 2016 - Jul 2016
+
 I later took the role of User Experience Lead and focused on Pearlshare's design and user experience, overseeing the development of the popular iOS app and the launch of pearlshare.com.
 
