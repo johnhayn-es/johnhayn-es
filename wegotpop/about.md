@@ -1,5 +1,5 @@
 ---
-title: We Got POP
+layout: post
 ---
 
 # We Got POP
