@@ -1,6 +1,9 @@
 ---
 title: GDPR
 ---
+
+[Portfolio](../pages/portfolio) / [YourWelcome](about)
+
 # GDPR and Terms
 In order to help our clients adhere to GDPR, YourWelcome needed to introduce new features in our app and dashboard. Survey results indicated that clients were confused by what GDPR was, whether it affected them and how to ensure their business was compliant.
 

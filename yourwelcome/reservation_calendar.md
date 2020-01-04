@@ -1,6 +1,9 @@
 ---
 title: Calendar
 ---
+
+[Portfolio](../pages/portfolio) / [YourWelcome](about) / Calendar
+
 # Reservations Calendar
 It became clear that the YourWelcome tablet would become a much more powerful tool if we were able to attribute in-app behaviour to a particular guest. This would provide a wealth of guest data that we now take for granted.
 
