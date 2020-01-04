@@ -2,7 +2,7 @@
 layout: post
 ---
 
-[Portfolio](../pages/portfolio) / [YourWelcome](about) / Instant Messaging
+<span class="breadcrumbs">[Portfolio](../pages/portfolio) / [YourWelcome](about) / Instant Messaging</span>
 
 # Instant Messaging via Slack
 This feature was prioritised after inbound requests increased, following a period of significant growth. The resulting Slack app is something that I’m hugely proud of; not only did we exceed the original objectives, but this feature has enabled our customers to provide a significantly better experience for their guests.

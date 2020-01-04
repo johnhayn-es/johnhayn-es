@@ -2,7 +2,7 @@
 layout: post
 ---
 
-[Portfolio](../pages/portfolio) / We Got POP
+<span class="breadcrumbs">[Portfolio](../pages/portfolio) / We Got POP</span>
 
 # We Got POP
 

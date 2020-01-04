@@ -2,7 +2,7 @@
 layout: post
 ---
 
-[Portfolio](../pages/portfolio) / [YourWelcome](about) / Calendar
+<span class="breadcrumbs">[Portfolio](../pages/portfolio) / [YourWelcome](about) / Calendar</span>
 
 # Reservations Calendar
 It became clear that the YourWelcome tablet would become a much more powerful tool if we were able to attribute in-app behaviour to a particular guest. This would provide a wealth of guest data that we now take for granted.
