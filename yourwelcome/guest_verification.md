@@ -9,6 +9,8 @@ We were planning to release an online check-in/account portal for guests to mana
 
 Another challenge faced by accommodation providers are the proxy email addresses used by Online Travel Agents for their internal messaging systems. The proxy system use addresses such as `john34566@guest.airbnb.com`; the internal systems obsure links, email addresses and URLs – making it hard to communicate with the guest.
 
+![Guest Check-In](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--check-in--modal--welcome.png)
+
 ### Objective(s)
 
 * Verify guest emails upon their arrival at the property
