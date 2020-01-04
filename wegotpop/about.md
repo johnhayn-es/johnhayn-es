@@ -7,7 +7,7 @@ POP build enterprise products for the film an television industry.  Find out mor
 
 ### My Role 
 #### Senior Product Designer
-I joined the POP team as Senior Product Designer to help build out their enterprise products for film and television professionals; consolidating a disparate design system, providing user engagement insights and overseeing the output of a growing design team.
+I joined the POP team to help build out their enterprise products for film and television professionals; consolidating a disparate design system, providing user engagement insights and overseeing the output of a growing design team.
 
 ### Projects
 
