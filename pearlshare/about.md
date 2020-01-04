@@ -10,7 +10,9 @@ At Pearlshare I implemented user acquisition & retention strategies, focusing on
 ## Projects
 A few of my favourite projects...
 
+* [Web App](web-app)
 * [Location Picker](location_picker)
+
 
 ## My Roles
 Jan 2015 - Jul 2016
