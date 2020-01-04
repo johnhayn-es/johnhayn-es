@@ -4,7 +4,7 @@ layout: post
 
 <span class="breadcrumbs">[Portfolio](../pages/portfolio) / [YourWelcome](about) / Guest Check-In</span>
 
-# Checking in to your short term rental
+# Self Check-In for Short Term Rentals
 A majority of short-term rental hosts manage their property remotely, so the touchpoints between them and their guests are few and far-between (and can often feel very formal). 
 
 YourWelcome's self check-in options enable property hosts to provide a warm welcome to guests and capture vital details, in the guests' first language. 
