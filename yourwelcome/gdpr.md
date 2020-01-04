@@ -19,8 +19,6 @@ We created a configurable check-in screen, managed via the dashboard, that enabl
 
 Guests must scroll through the list and tap the checkboxes to demonstrate that they agree to the items within – they cannot complete their check-in without completing all mandatory fields.
 
-[Image Placeholder]
-
 ### Impact
 
 * At the time this feature was release YourWelcome was seeing an average of 5000 check-ins per month; >85% of check-ins are fully GDPR compliant

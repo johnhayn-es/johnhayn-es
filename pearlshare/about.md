@@ -5,15 +5,12 @@ layout: post
 <span class="breadcrumbs">[Portfolio](../pages/portfolio) / Pearlshare</span>
 
 # Pearlshare
-
-POP build enterprise products for the film an television industry.  Find out more on the <a href="http://www.wegotpop.com" target="_blank">We Got POP Website ↗</a>.
+At Pearlshare I implemented user acquisition & retention strategies, focusing on the onboarding experience.
 
 ## Projects
 A few of my favourite projects...
 
-* Crew Community
-* Distro
-* Dashboard Navigation
+* [Location Picker](location_picker)
 
 ## My Roles
 ### Growth Lead
