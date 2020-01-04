@@ -19,7 +19,7 @@ An online coomunity focused on weight-loss journeys of real people
 
 
 ## Side Projects
-### [Dilemmr](../dilemmr/about)
+### [Dilemmr](./dilemmr/about)
 An iOS app for making decisions
 
 ### [TweeV](../tweev/about)
