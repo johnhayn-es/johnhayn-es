@@ -35,6 +35,7 @@ This key feature has enabled us to link in-app events to individual bookings; we
 * 70% YourWelcome customers have connected a third party calendar
 * Late check-outs have become YourWelcome’s most-sold additional service
 
+
 ### Links
 
 * [Supporting docs](https://www.yourwelcome.com/help/calendar/)
