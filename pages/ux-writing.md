@@ -1,9 +1,9 @@
 ---
 layout: post
-title: UX writing
 ---
 
-## Examples
+## Writing Examples
+I enjoy writing. Throughout my career I have written and published many blog articles, tutorials and advertising copy.  At one point, I found myself ghost-writing a weekly column for the Hairy Bikers.
 
 ### UX Principles
 * [POP's UX Principles ↗](https://wegotpop.github.io/styleguide/?p=%2Fux-principles)
