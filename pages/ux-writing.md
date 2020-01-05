@@ -1,8 +1,8 @@
 ---
 layout: post
+title: Writing Examples
 ---
 
-## Writing Examples
 I enjoy writing. Throughout my career I have written and published many blog articles, tutorials and advertising copy.  At one point, I found myself ghost-writing a weekly column for the Hairy Bikers.
 
 ### UX Principles
