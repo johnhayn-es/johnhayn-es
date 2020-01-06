@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Setting up Jekyll
 ---
 I've begun to migrate my portfolio and blog from Squarespace to Jekyll, via Github Pages. 
@@ -15,9 +16,9 @@ I made the decision to use this blog to test my design and web development skill
 ### Roadmap
 There is no set timeframe for this project, but I will approach the set up in the following order: 
 
-1. ~Set up Jekyll~
-2. ~Install a custom theme~
-3. Set up / transfer blog content 
-4. Create a page template for portfolio projects
-5. Build-out pages for portfolio projects
+1. <strike>Set up Jekyll</strike>
+2. <strike>Install a custom theme</strike>
+3. <strike>Set up / transfer blog content</strike>
+4. <strike>Create a page template for portfolio projects</strike>
+5. <strike>Build-out pages for portfolio projects</strike>
 6. Integrate site-search
