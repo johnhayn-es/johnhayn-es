@@ -12,7 +12,7 @@ After 2 years of working very closely with Si and Dave as their online content p
 We focused on real food, for real people - sharing real results! The Diet Club quickly became one of the largest communities of its type in the UK, spawning three best-selling cookbooks. To help spread this message, I recruited eight Bikers super-fans to help manage the dedicated Facebook page to share their own stories (in exchange for signed goodies and a few meet-and-greet opportunities).
 
 ### Highlights
-* Most impactful ThunderClap campaign of 2013/14, with more than 1,000,000 
+* Most impactful ThunderClap campaign of 2013/14, with a message shared to more than 1,000,000 people on the day of launch
 * Created the logo and influenced the branding
 * Arranged a Quid Pro Quo deal with Trinity Mirror Group to publish a weekly weight-loss column, which I ghost-wrote
 * Organised a special diet-themed shoot for Waitrose TV
