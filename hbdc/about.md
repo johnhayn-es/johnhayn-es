@@ -5,7 +5,7 @@ layout: post
 <span class="breadcrumbs">[Portfolio](../pages/portfolio) / Hairy Bikers' Diet Club</span>
 
 # Hairy Bikers' Diet Club
-![HBDC Website]()
+![HBDC Website](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/website.jpeg)
 
 After 2 years of working very closely with Si and Dave as their online content producer, I was asked to assume the role of project manager for the Hairy Bikers' Diet Club - an online weight-loss community based on the very popular Hairy Dieters series. 
 
@@ -24,7 +24,3 @@ Nov 2013 - Apr 2014
 
 ### Project Manager
 I managed internal and external stakeholders through the launch of the Diet Club, built the online community and lined up content product and PR opportunities. 
-
-
-
-
