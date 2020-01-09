@@ -9,7 +9,7 @@ layout: post
 
 After 2 years of working very closely with Si and Dave as their online content producer, I was asked to assume the role of project manager for the Hairy Bikers' Diet Club - an online weight-loss community based on the very popular Hairy Dieters series. 
 
-We focused on real food, for real people - sharing real results! The Diet Club quickly became one of the largest communities of its type in the UK, spawning three best-selling cookbooks. To help spread this message, I recruited 8 Bikers super-fans to help manage the dedicated Facebook page to share their own stories (in exchange for signed goodies and a few meet-and-greet opportunities).
+We focused on real food, for real people - sharing real results! The Diet Club quickly became one of the largest communities of its type in the UK, spawning three best-selling cookbooks. To help spread this message, I recruited eight Bikers super-fans to help manage the dedicated Facebook page to share their own stories (in exchange for signed goodies and a few meet-and-greet opportunities).
 
 ### Highlights
 * Most impactful ThunderClap campaign of 2013/14, with more than 1,000,000 
