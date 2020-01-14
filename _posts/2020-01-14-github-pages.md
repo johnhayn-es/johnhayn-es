@@ -11,7 +11,7 @@ I'm currently involved in a couple of musical projects, so it felt like a good p
 ## Stacey & John
 [View the WIP site](https://staceyandjohn.github.io/staceyandjohn)
 
-My Fiancée and I have been playing music together for the entirety of our relationship. I had originally hosted our page over on Squarespace, but we decided that their costly monthly fees could be better spent on marketing eclectic acoustic act. 
+My Fiancée and I have been playing music together for the entirety of our relationship. I had originally hosted our page over on Squarespace, but we decided that their costly monthly fees could be better spent on marketing our eclectic acoustic act. 
 
 ### Design Criteria
 * Simple, one-page layout; optimised for traffic from social networks
