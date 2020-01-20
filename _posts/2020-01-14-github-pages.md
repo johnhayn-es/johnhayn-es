@@ -25,7 +25,7 @@ After about 4 hours work, I'm pleased with the result.
 ### Next Steps
 * Add a set list page
 * Add SEO-targeting pages
-* Hook up our custom URL and complete the switch over
+* <strike>Hook up our custom URL and complete the switch over</strike>
 
 ## The Great Fire
 [View the WIP site](https://thegreatfire.github.io/thegreatfire)
@@ -41,7 +41,7 @@ I used the [Forty template](https://github.com/andrewbanchich/forty-jekyll-theme
 I immediately replaced the naff header with an SVG, something I've never implemented myself before. Getting the SVG added was easy, but I probably spent 2 hours learning how to scale it on multiple screens and devices. I'm also currently struggling with some wayward CSS that means I'm currently unable to use it as a link.
 
 ### Next Steps
-* Continue building out the site content
-* Get that SVG logo linked to the root of the page
+* <strike>Continue building out the site content</strike>
+* <strike>Get that SVG logo linked to the root of the page</strike> (this was much harder than I thought!)
 * Add SEO-targeting pages
-* Purchase a URL and link it up
+* <strike>Purchase a URL and link it up</strike>
