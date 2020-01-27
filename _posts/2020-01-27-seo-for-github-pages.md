@@ -21,7 +21,7 @@ Before I got too carried away creating content for the site, I wanted to make su
 
 I updated the page header as below.
 
-> <code style="width:100%">
+> ```
 	<title>{{ site.title }}</title>
 	<meta name="description" content="{{ page.seo_description }}"/>
 	<meta charset="utf-8" />
@@ -45,7 +45,7 @@ I updated the page header as below.
 	<link type="image/x-icon" sizes="180x180" href="../images/the-great-fire--sussex-cover-band--favicon-100.ico">
 	<link rel="icon" type="image/png" href="../assets/images/the-great-fire--sussex-cover-band--favicon-32.png" sizes="32x32">
 	<link rel="icon" type="image/png" href="../assets/images/the-great-fire--sussex-cover-band--favicon-16.png" sizes="16x16">
-</code>
+```
 
 Let's take a look at what I did: 
 
