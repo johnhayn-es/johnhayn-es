@@ -26,3 +26,8 @@ input:focus, input:active {
 input:focus::placeholder {
     color: #fff;
 }
+
+.highlight {
+    display:block;
+    white-space:inherit;
+}
