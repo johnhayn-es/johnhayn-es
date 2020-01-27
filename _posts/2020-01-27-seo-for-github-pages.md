@@ -21,7 +21,7 @@ Before I got too carried away creating content for the site, I wanted to make su
 
 I updated the page header as below.
 
-<code style="width:100%">
+> <code style="width:100%">
 	<title>{{ site.title }}</title>
 	<meta name="description" content="{{ page.seo_description }}"/>
 	<meta charset="utf-8" />
