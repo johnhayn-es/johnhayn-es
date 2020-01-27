@@ -21,7 +21,7 @@ Before I got too carried away creating content for the site, I wanted to make su
 
 I updated the page header as below.
 
-<code>
+<code style="width:100%">
 	<title>{{ site.title }}</title>
 	<meta name="description" content="{{ page.seo_description }}"/>
 	<meta charset="utf-8" />
@@ -30,7 +30,6 @@ I updated the page header as below.
 	<link rel="stylesheet" href="{{ "assets/css/main.css" | relative_url }}" />
 	<!--[if lte IE 9]><link rel="stylesheet" href="{{ "assets/css/ie9.css" | relative_url }}" /><![endif]-->
 	<!--[if lte IE 8]><link rel="stylesheet" href="{{ "assets/css/ie8.css" | relative_url }}" /><![endif]-->
-	
 	<!-- Open Graph -->
 	<meta property="og:locale" content="en_GB">
 	<meta property="og:type" content="article">
@@ -42,7 +41,6 @@ I updated the page header as below.
 	<meta property="article:author" content="https://www.facebook.com/greatfireband" />
 	<meta property="article:published_time" content="{{ page.date }}" />
 	<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-
 	<!-- Favicon -->
 	<link type="image/x-icon" sizes="180x180" href="../images/the-great-fire--sussex-cover-band--favicon-100.ico">
 	<link rel="icon" type="image/png" href="../assets/images/the-great-fire--sussex-cover-band--favicon-32.png" sizes="32x32">
