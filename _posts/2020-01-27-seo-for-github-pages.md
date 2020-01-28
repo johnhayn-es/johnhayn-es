@@ -25,12 +25,19 @@ The Meta
 {% raw  %}
 ```
 	<title>{{ site.title }}</title>
+
 	<meta name="description" content="{{ page.seo_description }}"/>
+	
 	<meta charset="utf-8" />
+	
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	
 	<!--[if lte IE 8]><script src="{{ "assets/js/ie/html5shiv.js" | relative_url }}"></script><![endif]-->
+	
 	<link rel="stylesheet" href="{{ "assets/css/main.css" | relative_url }}" />
+	
 	<!--[if lte IE 9]><link rel="stylesheet" href="{{ "assets/css/ie9.css" | relative_url }}" /><![endif]-->
+	
 	<!--[if lte IE 8]><link rel="stylesheet" href="{{ "assets/css/ie8.css" | relative_url }}" /><![endif]-->
 ```
 
@@ -58,6 +65,8 @@ Favicon
 ```
 {% endraw  %}
 
+
+### What I Did
 Let's take a look at what I did: 
 
 * As my template uses `page.description` elsewhere in the template, I include a new page element, `page.seo_description`, which enabled me to control how the page would appear when indexed
