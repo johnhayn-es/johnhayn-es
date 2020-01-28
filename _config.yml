@@ -36,6 +36,11 @@ custom_header: true
 custom_nav_footer: true
 reverse: false
 
+# Sitemap
+url: "https://example.com" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
+
 # search config
 # var sjs = SimpleJekyllSearch({
 #   searchInput: document.getElementById('search-input'),
