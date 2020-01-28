@@ -22,6 +22,7 @@ Before I got too carried away creating content for the site, I wanted to make su
 I updated the page header as below.
 
 The Meta
+{% raw  %}
 ```
 	<title>{{ site.title }}</title>
 	<meta name="description" content="{{ page.seo_description }}"/>
@@ -55,6 +56,7 @@ Favicon
 	<link rel="icon" type="image/png" href="../assets/images/the-great-fire--sussex-cover-band--favicon-32.png" sizes="32x32">
 	<link rel="icon" type="image/png" href="../assets/images/the-great-fire--sussex-cover-band--favicon-16.png" sizes="16x16">
 ```
+{% endraw  %}
 
 Let's take a look at what I did: 
 
