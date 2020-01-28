@@ -27,8 +27,12 @@ input:focus::placeholder {
     color: #fff;
 }
 
+.code {
+    background-color: #fdfdfd;
+    color: #222222;
+}
+
 .highlight {
     display:block;
     white-space:inherit;
-    background: #fdfdfd;
 }
