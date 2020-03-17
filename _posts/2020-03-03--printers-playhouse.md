@@ -5,6 +5,9 @@ title: Printers Playhouse
 
 In a [recent post](/jekyll-for-good), I mentioned that I would be continuing to teach myself how to build and deploy websites via Github Pages by building websites for good causes. 
 
+The [new site for Printers Playhouse](https://www.printersplayhouse.co.uk) has been live for just over two weeks and we've already seen more than 500 people come to the site.
+
+## Why Printers?
 At the end of 2017 I was in a bad place. Recently separated from a partner of 10 years, sharing a bunk bed at my parents house with brother (who was going through a similar situation). I needed to throw myself into something new and spend some time figuring out what was important to me. I've played guitar for a few years and decided this was probably the best vehicle to get out and meet new people.
 
 The Open Mic night at Printers Playhouse was my salvation. 2 years on and everything has changed. Printers is where my Fiancée and I first met (we're in the house band together). 
@@ -24,6 +27,4 @@ I worked with the Printers team to identify the key requirements of their ideal 
 Outside of this meager list, I was given a free reign. 
 
 ### The Events Page
-This was tricky. I'm very new to Jekyll, so I started out by getting a better understanding of the possibilities and limitations of Liquid. 
-
-Once I had read Xs article 
+More info to come
