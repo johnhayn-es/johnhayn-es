@@ -29,7 +29,7 @@ After the success of building and maintaining a website for my friends at Printe
 ### August 2019: Finding the right client
 I first came across [Moar Guitars on Instagram](https://instagram.com/moarguitars) in August 2019 and almost immediately messaged Dan offering to build him a website (Looking back, I’m not sure how I would have delivered it then). It wasn’t until I got back in touch in February 2020 and explained the nature of the project (no need for any compensation) that we finally agreed to go ahead. 
 
-<img src="{{'img/first-contact.png' | relative_url }}">
+<img src="{{'img/first-contact.PNG' | relative_url }}">
 
 ###  March 2020: Work begins
 Work began in March and the first month was a good test of working together. Like other recent builds, we started by using the [Forty theme by Andrew Banchich](https://andrewbanchich.github.io/forty-jekyll-theme/) to lay the groundwork:
@@ -68,10 +68,15 @@ Dan [launched the site with this video](https://www.instagram.com/p/B_pd42gJ0Yc/
 This is what Dan had to say about working together: 
 
 > I have been working closely with John Haynes over the past 3 months to build a website for my business, Moar Guitars.
+
 > He has been so good to work with. 
+
 > I have dabbled in web design myself, and worked with web designers in the past, and what has really set John apart from my past experiences is his keenness to try, and learn, new things. Whenever I came up with an idea that he didn't have an immediate solution for rather then trying to brush the idea to the side, or compromise it ,he seemed to really genuinely enjoy the challenge of figuring out how to make it work. 
+
 >I live in Copenhagen, and John is in Sussex, so we have never met, but working with him remotely has worked very smoothly. Communication is almost instant, always very clear, and positive. 
+
 > A month into the site, and after many many hours of work I decided that the site wasn't targeting my audience, so suggested a redesign. John didn't complain at all. The whole experience has been that he has been trying to make me as happy, and the site as good, as possible, rather then "just getting it done".
+
 > He obviously loves the work, is very good at it and is a genuine pleasure to work with.
 
 
