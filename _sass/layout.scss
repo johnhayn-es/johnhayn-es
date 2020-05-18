@@ -175,8 +175,13 @@ html, body {
     background-color: lighten($text-color, 70%);
   }
 
+.date-cal {
+  display: inline-block;
+  color: lighten($text-color, 25%);
+}
+
 .by-line {
-  display: block;
+  display: inline-block;
   color: lighten($text-color, 25%);
   line-height: 1.5em; /* 24px/16px */
   margin-bottom: 1.5em; /* 24px/16px */
