@@ -5,7 +5,9 @@ layout: default
 	{% if page.title %}
 	<h2>{{ page.title }}</h2>		
 	{% endif %}
+	{% if page.date %}
 	<i class="far fa-calendar-alt date-cal"></i><time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
+	{% endif %}
 	<div class="content">
 
 		{{ content }}
