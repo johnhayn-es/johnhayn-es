@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Printers Playhouse
+title: How I built... Printers Playhouse
 ---
 
 In a [recent post](/jekyll-for-good), I mentioned that I would be continuing to teach myself how to build and deploy websites via Github Pages by building websites for good causes. 

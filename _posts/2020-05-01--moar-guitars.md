@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Moar Guitars
+title: How I built... Moar Guitars
 ---
 
 ### TL;DR
