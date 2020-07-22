@@ -3,7 +3,7 @@ layout: post
 title: About Me
 ---
 
-### John Haynes is a Senior Product Designer building a platform for a smarter, fairer entertainment industry at <a href="http://www.wegotpop.com" target+_blank">We Got POP</a>
+John Haynes is a Senior Product Designer building a platform for a smarter, fairer entertainment industry at <a href="http://www.wegotpop.com" target+_blank">We Got POP</a>
 
 ## As a professional...
 I am a Senior Product Designer with experience designing B2B SAAS products; conducting user research & analysis, introducing design systems, improving the navigation and overall information architecture - overseeing the entire design process from ideation to deployment.
