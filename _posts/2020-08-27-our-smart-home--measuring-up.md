@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our (smart) home: Measuring up
+title: Our smart home: Measuring up
 ---
 This post is the first in what will no-doubt be a preposterously long series about purchasing and modernising our first home.
 
