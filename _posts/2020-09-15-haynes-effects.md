@@ -15,6 +15,8 @@ Haynes Effects, as a "brand", was created in order to package and sell a proprie
 
 The pedal is simple and consists of two circuits; the first is a simple algorythmic boost and the second is a loop and flipper switch. 
 
+<img style="width:100%" src="{{ 'img/haynes-effects--positional-boost--pb-1--top.jpg' | relative_url }}" alt="The Haynes Effects positional boost pedal from the back, showing the arrangement of the line input and outputs">
+
 Placing the boost before another pedal increases the velocity of the effect, placing it after simply makes that effect louder. The loop enables you introduce other pedals into the circuit and use the flipper switch to choose whether the boost circuit comes before or after the pedals in the loop. 
 
 Here's a video where I demo the pedal concept: 
