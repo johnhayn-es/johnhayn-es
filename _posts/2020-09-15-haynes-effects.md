@@ -27,7 +27,7 @@ After building myself a prototype I posted a video and blurb to `r/guitarpedals`
 
 After much soldering, swearing and burned-fingers I had six limited-edition gold sparkle positional boosts that we ready to send to new homes. 
 
-I threw together a 1-page website using my favoured Jekyll template and created an SVG of the pedal in a free version of Adobe XD, to help explain the design. Within 6 weeks I sold 4 pedals, keeping one for myself and giving another ot a friend, almost recouping the total I spent. 
+I threw together a [1-page website](http://hayneseffects.com) using my favoured Jekyll template and created an SVG of the pedal in a free version of Adobe XD, to help explain the design. Within 6 weeks I sold 4 pedals, keeping one for myself and giving another ot a friend, almost recouping the total I spent. 
 
 This project ticked off a lot of aesthetic hardware design goals for me: 
 * I designed stickers for the box
