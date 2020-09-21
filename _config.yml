@@ -1,7 +1,6 @@
 # Site settings
 title: Seeking attention
 description: "John Haynes, product and service designer"
-url: "johnhayn.es"
 author:
   name: "John Haynes"
   email: "mail@johnhayn.es"
@@ -37,7 +36,7 @@ custom_nav_footer: true
 reverse: false
 
 # Sitemap
-url: "https://example.com" # the base hostname & protocol for your site
+url: "https://johnhayn.es" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
 
