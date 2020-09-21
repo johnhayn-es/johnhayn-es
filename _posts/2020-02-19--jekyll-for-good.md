@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Jekyll for Good
+image: 
+categories: [Jekyll]
 ---
 
 Earlier this year I challenged myself to start building websites (again), using Jekyll via Github Pages. Since January, I have published three sites:

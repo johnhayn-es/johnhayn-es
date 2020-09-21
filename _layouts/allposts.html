@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %} 
+    
+    
+    <!-- Main -->
+    <div id="main" class="alt">
+      <div class="inner">
+        <h4 style="margin-bottom:0;">Categories</h4>
+        <section style="display: inline-block; width: auto; margin-bottom: 2em;">
+          <div class="button-group filter-button-group">
+            <a class="button active" data-filter="*">All</a>
+            {% for category in site.categories %}
+              <a class="button" data-filter=".{{ category | first }}">{{ category | first }}</a>
+            {% endfor %}
+          </div> 
+        </section>
+      </div>
+
+      <section class="grid row">
+      {% for post in site.posts %}
+        <a href="{{ post.url}}" class="3u 12u(small) blogpost element-item {{ post.categories | join: ' ' }}" style="border: 0; text-decoration: none;">
+            <div class="box" style="background-image: url('../assets/images/{{ post.image }}'); background-position: center; background-size: cover; height:15em; padding: 0;">
+                <div style="width: 100%; height: 100%;  margin: 0; display: flex; align-items:flex-end; flex-wrap: wrap; border-radius: 8px;">
+                    <span style="width:100%; height:auto; padding: 1em; box-sizing: border-box; background-image:linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.8)); border-radius: 0 0 8px 8px ;">
+                        <h4 style="color: #ffffff;" >{{ post.title }}</h4>
+                    </span>
+                </div>
+            </div>
+        </a>
+      {% endfor %}
+      </section>
+        
+
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
+
+<script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/isotope-layout@3.0/dist/isotope.pkgd.js"></script>
+<script>
+  // init Isotope
+  var $grid = $('.grid').isotope({
+    // options
+    
+  });
+  // filter items on button click
+  $('.filter-button-group').on( 'click', 'a', function() {
+    var filterValue = $(this).attr('data-filter');
+    $grid.isotope({ filter: filterValue });
+  });
+  $('.button-group a.button').on('click', function(){
+    $('.button-group a.button').removeClass('active');
+    $(this).addClass('active');
+  });
+</script>

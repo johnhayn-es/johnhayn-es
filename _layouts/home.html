@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+{% include head.html %}
+
+<body>
+
+    {% include header.html %}
+
+<div id="main">
+    <!-- <section class="inner row" style="background:#2F2F30; color:#EDEBF2;"> -->
+    <section class="inner row">
+        <!-- Image -->
+<!--         <div class="4u 12u(small)">
+        </div> -->
+        <!-- Intro text -->
+        <div class="12u 12u(small)" style="margin-bottom: 2em;">
+            <p>I'm John, a product & service designer from England. If you're new, let me <a href="/about">introduce myself.</a></p>
+        </div>
+    </section>
+
+
+    <!-- Blog -->
+    <section class="inner">
+        <h3>Latest posts</h3>
+        <section class="row">
+            <!-- Articles -->
+            {% for post in site.posts limit:3 %}
+            <a href="{{ post.url}}" class="3u 4u(medium) 12u(small) blogpost" style="border: 0; text-decoration: none;">
+                <div class="box" style="background-image: url('../assets/images/{{ post.image }}'); background-position: center; background-size: cover; height:15em; padding: 0;">
+                    <div style="width: 100%; height: 100%;  margin: 0; display: flex; align-items:flex-end; flex-wrap: wrap; border-radius: 8px;">
+                        <span style="width:100%; height:auto; padding: 1em; box-sizing: border-box; background-image:linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.8)); border-radius: 0 0 8px 8px ;">
+                            <h4 style="color: #ffffff;" >{{ post.title }}</h4>
+                        </span>
+                    </div>
+                </div>
+            </a>
+            {% endfor %}
+
+            <!-- More Articles -->
+            <div class="3u 4u(large) 12u(medium)" style="height:15em; padding: 0;">
+                <div style="width: 100%; height: 100%;  margin: 0; display: flex; align-items: center; justify-content: center; flex-wrap: wrap; border-radius: 8px;">
+                    <ul class="actions vertical" style="margin: 0;">
+                        <li><a href="/blog" class="button next">View All</a></li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+    </section>
+
+
+    {% include footer.html %}
+
+</div>
+</body>
+
+</html>

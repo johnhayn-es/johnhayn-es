@@ -1,17 +1,40 @@
----
-layout: default
----
-<article id="post-page">
-	{% if page.title %}
-	<h2>{{ page.title }}</h2>		
-	{% endif %}
-	{% if page.date %}
-	<i class="far fa-calendar-alt date-cal"></i><time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
-	{% endif %}
-	<div class="content">
+<!DOCTYPE html>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
 
-		{{ content }}
-		
+{% include head.html %}
+
+<body>
+	{% include header.html %} 
+	<div id="main">
+		<h2>{{ page.title }}</h2>
+		<div class="inner row">
+			<div class="8u 12u(small)">
+			{{ content }} 	
+			</div>	
+			<div class="4u 12u(small)">
+				<div class="row">
+					<div class="12u 12u(small)">
+						{% if page.image %}
+						<img style="width:100%" src="../assets/images/{{ page.image}}" alt="{{ page.image-alt }}">
+						{% endif %}
+					</div>
+					<div class="12u 12u(small)">
+						{% if page.video %}
+						<div class="resp-container">
+						    <iframe class="resp-iframe" src="https://www.youtube.com/embed/{{ page.video }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>	
+						{% endif %}
+					</div>
+				</div>
+			</div>	
+		</div>
 	</div>
-</article>
+	{% include footer.html %}
+</body>
 
+</html>

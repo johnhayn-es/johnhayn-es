@@ -1,6 +1,34 @@
-<header id="header">
-	<a href="{{ site.baseurl }}">
-		<img src="{{ "/img/emerald.svg" | prepend: site.baseurl | replace: '//', '/' }}" alt="Emerald Logo">
-	  <h1>emerald</h1>
-	</a>
-</header>
+<!-- Wrapper -->
+<div id="wrapper">
+
+	<!-- Header -->
+	<!-- <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}> -->
+	<header id="header" class="alt">
+		<a href="{{ "" | absolute_url }}/" style="text-decoration: none; margin: 0; border: 0;" >
+			<h1 style=" margin: 0; line-height: 1.4;">{{ site.title }}</h1>
+			<p style=" margin: 0; line-height: 1;">{{ site.description }}</p>
+			<!-- <img id="header-logo" src="{{ '/assets/images/logo.svg' | relative_url}}"> -->
+		</a>
+		<nav>
+			<a href="#menu" style="text-transform: uppercase;">Menu</a>
+		</nav>
+	</header>
+
+	<!-- Menu -->
+	<nav id="menu">
+		<ul class="links">
+	        {% for page in site.pages %}
+			    {% if page.layout == "home"%}
+			        <li><a href="{{ '../' | relative_url }}">{{ page.title }}</a></li>
+		    	{% endif %}
+			{% endfor %}
+			{% assign sorted_pages = site.html_pages | sort:"order" %}
+			{% for page in sorted_pages %}
+			    {% if page.layout != "home" and page.nav-menu == true | sort:"order" %}
+			        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+			    {% endif %}
+			{% endfor %}
+		</ul>
+	</nav>
+
+</div>

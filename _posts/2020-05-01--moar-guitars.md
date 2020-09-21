@@ -1,10 +1,12 @@
 ---
 layout: post
-title: How I built... Moar Guitars
+title: How I built Moar Guitars
+image: wayfair-bigsby-held.jpg
+categories: [Design]
 ---
 
 ### TL;DR
-This is probably the most challenging website build of my career thus far. 
+This is probably the most challenging website build of my career thus far. You can view the live results on the [Moar Guitars website](http://www.moarguitars.com).
 
 On this project, I had the pleasure of:
 * Furthering my understanding of Liquid syntax
@@ -29,7 +31,6 @@ After the success of building and maintaining a website for my friends at Printe
 ### August 2019: Finding the right client
 I first came across [Moar Guitars on Instagram](https://instagram.com/moarguitars) in August 2019 and almost immediately messaged Dan offering to build him a website (Looking back, I’m not sure how I would have delivered it then). It wasn’t until I got back in touch in February 2020 and explained the nature of the project (no need for any compensation) that we finally agreed to go ahead. 
 
-<img src="{{'img/first-contact.PNG' | relative_url }}">
 
 ###  March 2020: Work begins
 Work began in March and the first month was a good test of working together. Like other recent builds, we started by using the [Forty theme by Andrew Banchich](https://andrewbanchich.github.io/forty-jekyll-theme/) to lay the groundwork:

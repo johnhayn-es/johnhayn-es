@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Our (smart) home: Measuring up"
+title: "Measuring up"
+image: floorplans.png
+categories: [Design, Smart-Home]
 ---
 This post is the first in what will no-doubt be a preposterously long series about purchasing and modernising our first home.
 
@@ -20,8 +22,6 @@ Doing this has enabled us to:
 * plan the placement of furniture and smart home devices
 * make decisions about new purchases
 * visualise how ideas for future renovations would change the house
-
-<image src="../img/floorplans.png"/>
 
 ### Visualising our new home
 Though we’re busy building a budget to spend money we haven’t earned yet - we haven’t actually moved in to the property yet and we’re not due to complete until later this year. 

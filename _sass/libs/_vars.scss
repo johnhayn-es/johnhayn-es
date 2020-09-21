@@ -1,0 +1,45 @@
+// Misc.
+	$misc: (
+		z-index-base:		10000
+	);
+
+// Duration.
+	$duration: (
+		menu:				0s,
+		transition:			0s,
+		banner:				0s,
+	);
+
+// Size.
+	$size: (
+		border-radius:		4px,
+		element-height:		2.75em,
+		element-margin:		2em,
+		inner:				65em
+	);
+
+// Font.
+	$font: (
+		family:				('Muli', 'Source Sans Pro', Helvetica, sans-serif),
+		header:				('Merriweather', 'cursive'),
+		family-fixed:		('Muli', Sans-Serif),
+		weight:				300,
+		weight-bold:		600,
+		letter-spacing:		0.025em,
+		letter-spacing-alt:	0.25em
+	);
+ 
+// Palette.
+	$palette: (
+		bg:					#f8f8f8,
+		bg-alt:				#ffffff,
+		fg:					#18033A,
+		fg-bold:			#510AC2,
+		fg-light:			#772AF4,
+		border:				#D11149,
+		border-bg:			#772AF4,
+		highlight:			#EE2F65,
+		accent1:			#510AC2,
+		accent2:			#EE2F65,
+		accent3:			#9C64F7,
+	);

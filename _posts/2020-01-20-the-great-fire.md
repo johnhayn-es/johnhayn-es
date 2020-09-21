@@ -1,6 +1,8 @@
 ---
 layout: post
 title: The Great Fire
+image: 
+categories: [Music]
 ---
 
 At the end of 2019, Stacey and I made a decision. We've been playing music together as an acoustic duo for more than a year and it has been one hell of a ride; we started out by playing a family member's wedding and ended the year playing to 450 people at Twickenham Stadium. 
