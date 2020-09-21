@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Underway with Github Pages
-image: 
+image: 'jekyll.jpg'
 categories: [Jekyll, Design]
 ---
 At the start of the year, I challenged myself to rebuild my personal site using Github Pages. Since then, I've been on a small spree - working on numerous sites to further my understanding of front-end design, styling and deploying to multiple sites via Github. 
