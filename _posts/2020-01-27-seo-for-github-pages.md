@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SEO for Github Pages
-image: 
+image: 'jekyll.jpg'
 categories: [Jekyll, SEO]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I built Printers Playhouse
-image: 
+image: 'theatre--group-of-players.jpg'
 categories: [Design]
 ---
 

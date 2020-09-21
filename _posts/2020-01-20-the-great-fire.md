@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Great Fire
-image: 
+image: 'great-fire-promo.jpg'
 categories: [Music]
 ---
 
