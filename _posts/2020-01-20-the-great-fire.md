@@ -1,7 +1,8 @@
 ---
 layout: post
 title: The Great Fire
-image: 'great-fire-promo.jpg'
+description: Look at us, we formed a band
+publish: true
 categories: [Music]
 ---
 

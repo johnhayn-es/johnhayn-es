@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Jekyll for Good
-image: 'jekyll.jpg'
-categories: [Jekyll]
+published: false
 ---
 
 Earlier this year I challenged myself to start building websites (again), using Jekyll via Github Pages. Since January, I have published three sites:
@@ -20,7 +19,11 @@ Rather than needlessly experimenting on sites that I've already published, I dec
 ### Jekyll For Good
 The premise is simple; identify good causes with no or nascent web presence, then spend a couple of weeks building them something (in my spare time). This is not a professional service - I just want to use my spare time and experience to support others. If anyone insists, I will ask them to [make a donation to my chosen charity](http://www.tuesdayoharafund.co.uk/). 
 
-Completed Websites:
+Currently underway:
 
-* [Printers Playhouse](http://printersplayhouse.co.uk); a local community arts hub that I've become increasingly involved with. 
-* [Moar Guitars](http://moarguitars.com); a tiny independent luthier whose guitars I greatly admire
+* Printers Playhouse; a local community arts hub that I've become increasingly involved with. 
+* Moar Guitars; a tiny independent luthier whose guitars I greatly admire
+
+Potential projects: 
+
+* [The Tuesday Ohara Fund](http://www.tuesdayoharafund.co.uk/); a local charity that is very close to my heart

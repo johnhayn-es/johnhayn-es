@@ -1,8 +1,9 @@
 ---
 layout: post
 title: SEO for Github Pages
-image: 'jekyll.jpg'
-categories: [Jekyll, SEO]
+description: What I've learned about SEO and Jekyll
+published: true
+categories: [SEO, Design, Jekyll]
 ---
 
 You've got Github Pages up and running, installed your Jekyll theme and added a custom domain. Your site is looking great, but when you're looking for it on Google (as you hope so many others are) you can't find any trace if it. 

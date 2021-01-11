@@ -1,12 +1,13 @@
 ---
 layout: post
-title: How I built Moar Guitars
-image: wayfair-bigsby-held.jpg
-categories: [Design]
+title: Building Moar Guitars
+description: How to tune a website
+published: true
+categories: [Design, Jekyll]
 ---
 
 ### TL;DR
-This is probably the most challenging website build of my career thus far. You can view the live results on the [Moar Guitars website](http://www.moarguitars.com).
+This is probably the most challenging website build of my career thus far. 
 
 On this project, I had the pleasure of:
 * Furthering my understanding of Liquid syntax
@@ -31,6 +32,7 @@ After the success of building and maintaining a website for my friends at Printe
 ### August 2019: Finding the right client
 I first came across [Moar Guitars on Instagram](https://instagram.com/moarguitars) in August 2019 and almost immediately messaged Dan offering to build him a website (Looking back, I’m not sure how I would have delivered it then). It wasn’t until I got back in touch in February 2020 and explained the nature of the project (no need for any compensation) that we finally agreed to go ahead. 
 
+<img src="{{'assets/images/first-contact.PNG' | relative_url }}">
 
 ###  March 2020: Work begins
 Work began in March and the first month was a good test of working together. Like other recent builds, we started by using the [Forty theme by Andrew Banchich](https://andrewbanchich.github.io/forty-jekyll-theme/) to lay the groundwork:
@@ -40,7 +42,7 @@ Work began in March and the first month was a good test of working together. Lik
 By the end of the first four weeks we had a launch-able site, pending a few minor copy amends.
 
 
-### April 2020: The redesign
+### April 2020: When it fell flat
 After about 5 weeks, Dan messaged me to say he had shown the site to his partner for the first time and that he had been thinking about making some fairly fundamental changes to the site.In my eyes, the success of this project relied on having a happy “client” - so, rather than see it as wasted time, I took this as an opportunity to take a step back and look at the site through fresh eyes. 
 
 After discussing what we could do, I spent the next few weeks rolling out some changes to the site:

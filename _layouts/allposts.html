@@ -11,31 +11,58 @@
     <!-- Main -->
     <div id="main" class="alt">
       <div class="inner">
-        <h4 style="margin-bottom:0;">Categories</h4>
+        <h1 style="margin-bottom:0;">Live Classes</h1>
         <section style="display: inline-block; width: auto; margin-bottom: 2em;">
           <div class="button-group filter-button-group">
             <a class="button active" data-filter="*">All</a>
-            {% for category in site.categories %}
+            <a class="button" data-filter=".strong">Strong</a>
+            <a class="button" data-filter=".de-stress">De-Stress</a>
+            <a class="button" data-filter=".beginners">Beginners</a>
+            <a class="button" data-filter=".total-body">Total Body</a>
+            <!-- {% for category in site.categories %}
               <a class="button" data-filter=".{{ category | first }}">{{ category | first }}</a>
-            {% endfor %}
+            {% endfor %} -->
           </div> 
         </section>
       </div>
 
-      <section class="grid row">
-      {% for post in site.posts %}
-        <a href="{{ post.url}}" class="3u 12u(small) blogpost element-item {{ post.categories | join: ' ' }}" style="border: 0; text-decoration: none;">
-            <div class="box" style="background-image: url('../assets/images/{{ post.image }}'); background-position: center; background-size: cover; height:15em; padding: 0;">
-                <div style="width: 100%; height: 100%;  margin: 0; display: flex; align-items:flex-end; flex-wrap: wrap; border-radius: 8px;">
-                    <span style="width:100%; height:auto; padding: 1em; box-sizing: border-box; background-image:linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.8)); border-radius: 0 0 8px 8px ;">
-                        <h4 style="color: #ffffff;" >{{ post.title }}</h4>
-                    </span>
-                </div>
-            </div>
-        </a>
-      {% endfor %}
-      </section>
+
+
         
+      <!-- Airtable Content -->
+      <div class="inner" style="padding-top: 0;">
+        <div class="grid" style="position: relative; display: flex; align-items: flex-start; flex-flow: column wrap; justify-content: flex-start;">
+          {% assign sortedRecords = site.data.classes.records | sort: 'fields.date-time' %}
+          {% for record in sortedRecords %}
+          {% capture currentDate %}{{ 'now' | date: '%s'}}{% endcapture %}
+          {% capture postDate %}{{ record.fields.date-time | date: '%s'}}{% endcapture %}
+          {% if currentDate < postDate %}
+          <div class="element-item {{ record.fields.category | join: ' ' }} 4u 12u$(medium)" style="padding: 1em">
+            <div class="box" style="margin-bottom:.5em;">
+              <h3 style="text-decoration: capitalize; margin-bottom: 0;">{{ record.fields.title }}</h3>
+              {% if record.fields.category %}<span style="text-transform: uppercase"><p style="margin:0;">{{ record.fields.category | Titlecase }}</p></span>{% endif %}
+              {% if record.fields.date-time %}<p>{{ record.fields.date-time | date: "%R %A %-d %b %Y" }}</p>{% endif %}
+              {% if record.fields.price %}<p>{{ record.fields.price }}</p>{% endif %}
+              {% if record.fields.content %}<p>{{ record.fields.content }}</p>{% endif %}
+              <ul class="actions vertical">
+                {% capture currentDate %}{{ 'now' | date: '%s'}}{% endcapture %}
+                {% capture postDate %}{{ record.fields.date-time | date: '%s'}}{% endcapture %}
+                {% if currentDate > postDate %}
+                {% if record.fields.patreon-link %}<li><a href="{{ record.fields.patreon-link }}" class="button">Watch On-Demand</a></li>{% endif %}
+                {% else %}
+                <li><a href="../book-class#class_name={{ record.fields.title | replace: " ", "+" }}&date={{ record.fields.date-time | date: "%-d-%b-%Y" }}" class="button">Book Now</a></li>
+                {% endif %}
+                
+              </ul>
+            </div>
+            <span class="image"><img src="{{ record.fields.thumbnail[0].url }}"/></span>
+          </div>
+          {% endif %}
+          {% else %}
+          <p>There are no classes</p>
+          {% endfor %}
+        </div>
+      </div>
 
     </div>
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Setting up Jekyll
-image: 'jekyll.jpg'
+description: Setting up my first Jekyll site
+published: true
 categories: [Jekyll]
 ---
 I've begun to migrate my portfolio and blog from Squarespace to Jekyll, via Github Pages. 

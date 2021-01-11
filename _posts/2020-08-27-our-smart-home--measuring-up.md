@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Measuring up"
-image: floorplans.png
-categories: [Design, Smart-Home]
+title: Measuring up
+description: Being smart about moving home
+published: true
+categories: [Design]
 ---
 This post is the first in what will no-doubt be a preposterously long series about purchasing and modernising our first home.
 
@@ -23,6 +24,8 @@ Doing this has enabled us to:
 * make decisions about new purchases
 * visualise how ideas for future renovations would change the house
 
+<image src="../img/floorplans.png"/>
+
 ### Visualising our new home
 Though we’re busy building a budget to spend money we haven’t earned yet - we haven’t actually moved in to the property yet and we’re not due to complete until later this year. 
 
@@ -33,3 +36,5 @@ Instead, we used the [Matterport](www.matterport.com) capture app (using my phon
 [View our new downstairs](https://my.matterport.com/show/?m=T55F6xVr3Zq).
 
 We’ve regularly been using both models throughout the planning process. The 3D floor plan has been an invaluable asset for making decisions, particularly when it comes to deciding which combination of sofas to purchase. The Matterport scans may seem like a gimmick, but they have also proven useful for helping ourselves and loved ones interpret our plans by better visualising the space.
+
+<img style="width:100%" src="{{ 'assets/images/floorplans.png' | relative_url }}" alt="A computer-generated three dimensional floorplan, accurate to a few millimetres, which I'm using to plan the position of furniture.">

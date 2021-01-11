@@ -12,7 +12,7 @@
 			'-webkit-filter #{_duration(menu)} ease',
 			'opacity 0.375s ease-out'
 		));
-		padding-top: 3.25em;
+		/*padding-top: 3.25em;*/
 
 		&.is-transitioning {
 			opacity: 0;

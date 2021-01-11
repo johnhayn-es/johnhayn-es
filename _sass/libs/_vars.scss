@@ -20,9 +20,10 @@
 
 // Font.
 	$font: (
-		family:				('Muli', 'Source Sans Pro', Helvetica, sans-serif),
-		header:				('Merriweather', 'cursive'),
-		family-fixed:		('Muli', Sans-Serif),
+		family:				('Libre Baskerville', serif),
+		header:				('Six Caps', sans-serif),
+		family-fixed:		('Libre Baskerville', serif),
+		cursive:			('Libre Baskerville', serif),
 		weight:				300,
 		weight-bold:		600,
 		letter-spacing:		0.025em,
@@ -31,15 +32,18 @@
  
 // Palette.
 	$palette: (
-		bg:					#f8f8f8,
-		bg-alt:				#ffffff,
-		fg:					#18033A,
-		fg-bold:			#510AC2,
-		fg-light:			#772AF4,
-		border:				#D11149,
-		border-bg:			#772AF4,
-		highlight:			#EE2F65,
-		accent1:			#510AC2,
-		accent2:			#EE2F65,
-		accent3:			#9C64F7,
+		bg:					#F6F5F4,
+		bg-alt:				#EDEBE9,
+		fg:					#463F3A,
+		fg-bold:			#463F3A,
+		fg-light:			#BCB8B1,
+		border:				#EDEBE9,
+		border-bg:			#EDEBE9,
+		highlight:			#EDEBE9,
+		accent1:			#ef476f,
+		accent2:			#118ab2,
+		accent3:			#06d6a0,
+		accent4:			#ffd166,
+		accent5:			#073b4c,
+		accent6:			#fb8b24,
 	);

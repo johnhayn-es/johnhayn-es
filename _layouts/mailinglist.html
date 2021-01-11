@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+{% include head.html %}
+
+<body>
+
+    {% include header.html %}
+
+<div id="main">
+    <section class="inner row">
+        <!-- Contact -->
+        <section>
+            <h2>Sign-up to my mailing list</h2>
+            <form action="https://formspree.io/xvowjeen" method="POST">
+                <div class="field half first">
+                    <label for="name">Name</label>
+                    <input type="text" name="name" required/>
+                </div>
+                <div class="field half">
+                    <label for="email">Email</label>
+                    <input type="text" name="_replyto" id="email" required/>
+                </div>
+                <ul class="actions">
+                    <li><input type="submit" value="Book Now & Pay" class="special" /></li>
+                    <li><input type="reset" value="Clear" /></li>
+                </ul>
+            </form>
+        </section>     
+
+    </section>
+    {% include footer.html %}
+
+</div>
+</body>
+
+</html>
+
+<!-- URL Parameters -->
+<script type="text/javascript">
+    var hashParams = window.location.hash.substr(1).split('&'); // substr(1) to remove the `#`
+    for(var i = 0; i < hashParams.length; i++){
+        var p = hashParams[i].split('=');
+        document.getElementById(p[0]).value = decodeURIComponent(p[1]).replace('+', ' ').replace('+', ' ');;
+    }
+</script>

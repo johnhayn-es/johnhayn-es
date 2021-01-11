@@ -1,48 +1,47 @@
-# Site settings
-title: Seeking attention
-description: "John Haynes, product and service designer"
+# site settings
+title: Blank Template
+subtitle: 
+email: mail@johnhayn.es
+description: 
+logo: '/assets/images/logo.svg'
+
+# Contact Details
 author:
-  name: "John Haynes"
-  email: "mail@johnhayn.es"
+street_address: 
+city: 
+state: 
+zip_code: 
+country: 
+phone: 
+facebook_url: 
+instagram_url: 
+youtube_url: 
 
-# Build settings
-baseurl: "/"
-markdown: kramdown
-source: .
-destination: ./_site
-permalink: /:title
-paginate: 8
-paginate_path: /page:num/
+# Action Buttons
+actions:  
+  # - label: 'Book'
+  #   url: '/book'
+  # - label: 'Test'
+  #   url:  '/test' 
+  # - label: 'Test2'
+  #   url:  '/test2' 
 
-# Default values
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
+# Formspree
 
-# Plugins
-gems:
-  - jekyll-paginate
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 5
 
-# Custom variables
-version: "1.1.0"
-
-# Options
-custom_header: true
-custom_nav_footer: true
-reverse: false
-
-# Sitemap
-url: "https://johnhayn.es" # the base hostname & protocol for your site
+# sitemap
 plugins:
-  - jekyll-sitemap
 
-# search config
-# var sjs = SimpleJekyllSearch({
-#   searchInput: document.getElementById('search-input'),
-#   resultsContainer: document.getElementById('results-container'),
-#   json: '/search.json'
-# })
+# config
+setup: blog # airtable or blog; controls the section on the home page and other parts of the site
+repository: 
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: johnhayn.es # the base hostname & protocol for your site
+permalink: /:title/
+future: true
+markdown: kramdown
+sass:
+  style: compressed

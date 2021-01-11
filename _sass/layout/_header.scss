@@ -6,23 +6,20 @@
 
 
 /* Header Logo */
-#header-logo-container {
-	text-decoration:none;
-	display:flex;
-	justify-content: flex-start;
-	width:30%;
-	height:inherit;
-	max-width: calc(50% - 2em);
-	max-height:120px;
-	border:0;
+#header-logo {
+	height: 100%;
 }
 
-#header-logo {
-	width:100%;
-	max-width:100%;
-	display:block;
-	margin:0;
+#header-logo-container {
+	display:flex;
+	justify-content: flex-start;
+	text-decoration:none;
+	border:none;
+	max-height: 80px;
+	max-width: 60%;
 }
+
+
 
 
 /* Header */
@@ -34,16 +31,18 @@
 
 	#header {
 		@include vendor('display', 'flex');
-		background-color: _palette(bg);
-		color: _palette(accent1);
+		background-color: _palette(bg-alt);
+		color: _palette(fg-bold);
+		/*box-shadow: 0 0 0.25em 0 rgba(0,0,0,0.15);*/
 		cursor: default;
 		font-weight: _font(weight-bold);
 		height: auto;
 		padding: 4em;
 		left: 0;
-		/*letter-spacing: _font(letter-spacing-alt);*/
+		letter-spacing: _font(letter-spacing-alt);
 		line-height: 3.25em;
-		position: fixed;
+		position: relative;
+		text-transform: uppercase;
 		top: 0;
 		width: 100%;
 		z-index: _misc(z-index-base);
@@ -62,7 +61,7 @@
 					'color #{_duration(transition)} ease-in-out'
 				));
 				background-color: _palette(fg-bold);
-				color: _palette(bg);
+				color: _palette(fg);
 				display: inline-block;
 				line-height: 1.65em;
 				margin-right: 0.325em;
@@ -71,7 +70,7 @@
 
 			&:hover {
 				strong {
-					background-color: _palette(highlight);
+					background-color: _palette(fg-bold);
 				}
 			}
 
@@ -155,9 +154,10 @@
 			@include vendor('transition', 'opacity #{_duration(banner)} ease');
 			@include vendor('transition-delay', '0.5s');
 			@include vendor('animation', 'none');
-			background-color: _palette(bg-alt);
+			background-color: _palette(bg);
+			color: _palette(fg-bold);
 			box-shadow: none;
-			position: absolute;
+			position: relative;
 
 			&.style1 { .logo { strong { color: _palette(accent1); } } }
 			&.style2 { .logo { strong { color: _palette(accent2); } } }
@@ -205,20 +205,7 @@
 		@include breakpoint(small) {
 			/* height: 2.75em; */
 			line-height: 2.75em;
-			padding: 1em;
-
-			.logo {
-				padding: 0 1em;
-				width: 60%;
-				
-			}
-
-
-			#header-logo-container {
-			width:100%;
-			max-width:100%;
-			height: 8rem;
-			}
+			padding: 2em;
 
 			nav {
 				a {

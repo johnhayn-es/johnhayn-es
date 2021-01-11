@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %} 
+    
+    
+    <!-- Main -->
+    <div id="main" class="alt">
+      <div class="inner">
+        <h1 style="margin-bottom:0;">On-Demand Classes</h1>
+        <section style="display: inline-block; width: auto; margin-bottom: 2em;">
+          <div class="button-group filter-button-group">
+
+            <!-- Categories -->
+            <a class="button active" data-filter="*">All</a>
+            <a class="button" data-filter=".strong">Strong</a>
+            <a class="button" data-filter=".de-stress">De-Stress</a>
+            <a class="button" data-filter=".beginners">Beginners</a>
+            <a class="button" data-filter=".total-body">Total Body</a>
+            <!-- {% for category in site.categories %}
+              <a class="button" data-filter=".{{ category | first }}">{{ category | first }}</a>
+            {% endfor %} -->
+          </div> 
+        </section>
+      </div>
+
+        
+      <!-- Airtable Content -->
+      <div class="inner" style="padding-top: 0;">
+        <div class="grid" style="position: relative; display: flex; align-items: flex-start; flex-flow: column wrap; justify-content: flex-start;">
+          {% assign sortedRecords = site.data.classes.records | sort: 'fields.date-time' %}
+          {% for record in sortedRecords %}
+          {% capture currentDate %}{{ 'now' | date: '%s'}}{% endcapture %}
+          {% capture postDate %}{{ record.fields.date-time | date: '%s'}}{% endcapture %}
+          {% if currentDate > postDate  %}
+          <div class="element-item {{ record.fields.category | join: ' ' }} 4u 12u$(medium)" style="padding: 1em">
+            <div class="box">
+              <h2 style="text-decoration: capitalize; margin-bottom: 0;">{{ record.fields.title }}</h2>
+              <p>{{ record.fields.category | Titlecase }}<br />{{ record.fields.date-time | date: "%R %A %-d %b %Y" }}<br />{{ record.fields.price }}</p>
+              <p>{{ record.fields.content }}</p>
+              <ul class="actions vertical">
+                {% capture currentDate %}{{ 'now' | date: '%s'}}{% endcapture %}
+                {% capture postDate %}{{ record.fields.date-time | date: '%s'}}{% endcapture %}
+                {% if currentDate > postDate %}
+                {% if record.fields.patreon-link %}<li><a href="{{ record.fields.patreon-link }}" class="button">Watch On-Demand</a></li>{% endif %}
+                {% else %}
+                <li><a href="/book-class?class_name={{ record.fields.title | replace: ' ','' }}&date={{ record.fields.date-time | date: "%-d-%b-%Y" }}" class="button">Book Now</a></li>
+                {% endif %}
+                
+              </ul>
+            </div>
+            <span class="image"><img src="{{ record.fields.thumbnail[0].url }}"/></span>
+          </div>
+          {% endif %}
+          {% endfor %}
+        </div>
+      </div>
+
+      </div>
+
+<script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/isotope-layout@3.0/dist/isotope.pkgd.js"></script>
+<script>
+  // init Isotope
+  var $grid = $('.grid').isotope({
+    // options
+    
+  });
+  // filter items on button click
+  $('.filter-button-group').on( 'click', 'a', function() {
+    var filterValue = $(this).attr('data-filter');
+    $grid.isotope({ filter: filterValue });
+  });
+  $('.button-group a.button').on('click', function(){
+    $('.button-group a.button').removeClass('active');
+    $(this).addClass('active');
+  });
+</script>
+
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

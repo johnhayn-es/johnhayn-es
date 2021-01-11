@@ -10,11 +10,10 @@
 
 <body>
 	{% include header.html %} 
-	<div id="main">
-		<div class="inner row">
-			<div class="12u 12u(small)">
-			{{ content }} 	
-			</div>	
+    <div id="main">
+    	<div class="classes">
+    		<h2>{{ page.title }}</h2>
+    		{{ content }} 
 		</div>
 	</div>
 	{% include footer.html %}

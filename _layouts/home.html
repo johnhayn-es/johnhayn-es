@@ -1,62 +1,89 @@
 <!DOCTYPE html>
-<!--
-	Forty by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
 <html>
 
-{% include head.html %}
+    {% include head.html %}
 
-<body>
+    <body>
 
-    {% include header.html %}
+        {% include header.html %}
 
-<div id="main">
-    <!-- <section class="inner row" style="background:#2F2F30; color:#EDEBF2;"> -->
-    <section class="inner row">
-        <!-- Image -->
-<!--         <div class="4u 12u(small)">
-        </div> -->
-        <!-- Intro text -->
-        <div class="12u 12u(small)" style="margin-bottom: 2em;">
-            <p>I'm John, a product & service designer from England. If you're new, let me <a href="/about">introduce myself.</a></p>
-        </div>
-    </section>
-
-
-    <!-- Blog -->
-    <section class="inner">
-        <h3>Latest posts</h3>
-        <section class="row">
-            <!-- Articles -->
-            {% for post in site.posts limit:3 %}
-            <a href="{{ post.url}}" class="3u 4u(medium) 12u(small) blogpost" style="border: 0; text-decoration: none;">
-                <div class="box" style="background-image: url('../assets/images/{{ post.image }}'); background-position: center; background-size: cover; height:15em; padding: 0;">
-                    <div style="width: 100%; height: 100%;  margin: 0; display: flex; align-items:flex-end; flex-wrap: wrap; border-radius: 8px;">
-                        <span style="width:100%; height:auto; padding: 1em; box-sizing: border-box; background-image:linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.8)); border-radius: 0 0 8px 8px ;">
-                            <h4 style="color: #ffffff;" >{{ post.title }}</h4>
-                        </span>
+        <div id="main">
+            <!-- <section class="inner row" style="background:#2F2F30; color:#EDEBF2;"> -->
+            {% if site.description %}
+            <section class="inner row">
+                <!-- Image -->
+                <div class="4u 12u(small)">
                     </div>
-                </div>
-            </a>
-            {% endfor %}
+                    <!-- Intro text -->
+                    <div class="8u 12u(small)">
+                        {% if site.subtitle %}
+                        <h2 style="margin-bottom:0.5em">{{ site.subtitle }}</h2>
+                        {% endif %}
+                        {% if site.description %}
+                        <p>{{ site.description }}</p>
+                        {% endif %}
+                        <ul class="actions">
+                            {% for action in site.actions limit:1 %}
+                            <li><a href="{{ action.url | absolute_url }}" class="special button fit">{{ action.label }}</a></li>
+                            {% endfor %}
+                            {% for action in site.actions offset:1 %}
+                            <li><a href="{{ action.url | absolute_url }}" class="button fit">{{ action.label }}</a></li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+            </section>
+            {% endif %}
 
-            <!-- More Articles -->
-            <div class="3u 4u(large) 12u(medium)" style="height:15em; padding: 0;">
-                <div style="width: 100%; height: 100%;  margin: 0; display: flex; align-items: center; justify-content: center; flex-wrap: wrap; border-radius: 8px;">
-                    <ul class="actions vertical" style="margin: 0;">
-                        <li><a href="/blog" class="button next">View All</a></li>
-                    </ul>
-                </div>
-            </div>
-        </section>
-    </section>
+            <!-- Recent Records -->
+            {% if site.setup == "airtable" %}
+                {% if site.data.classes %}
+                <section class="classes alternate">
+                    {% include recent_records.html %}
+                </section>
+                {% endif %}
+            {% endif %}
+
+            <!-- Blog Articles -->
+            {% if site.setup == "blog" %}
+                {% include recent_posts.html %}
+            {% endif %}
 
 
-    {% include footer.html %}
+            <!-- Free Class -->
+            <!-- <section class="freeclass" style="background:#2F2F30; color:#EDEBF2;">
+                {% include free_class.html %}
+            </section> -->
 
-</div>
-</body>
+            <!-- Testimonials -->
+            <!-- <section class="inner">
+                <section class="row">
+                    <div class="4u 12u(small)">
+                        <div class="box" style="margin-bottom:.5em; text-align: center">
+                            <h2 style="width: 2em; height: 2em; line-height: 2em; border-radius: 100%; margin: 1em auto; background: #EDEBF2; color:#8E8D91;">A</h2>
+                            <h4>Alexandra</h4>
+                            <p>"I have only recently started training with Becki, and was so impressed with her dedication and commitment to making sure everyone attending has the best experience from her classes. To say she’s passionate is an understatement! She is full of positive energy, extremely knowledgeable, and always smiling & encouraging us. She goes the extra mile in her communication to all her clients on and off the screen."</p>                
+                        </div>
+                    </div>
+                    <div class="4u 12u(small)">
+                        <div class="box" style="margin-bottom:.5em; text-align: center">
+                            <h2 style="width: 2em; height: 2em; line-height: 2em; border-radius: 100%; margin: 1em auto; background: #EDEBF2; color:#8E8D91;">G</h2>
+                            <h4>Gemma</h4>
+                            <p>"Becki's energy is absolutely brilliant!!! She is one of the few instructors that enables me to fully get lost in a class .  The vibe, the energy is infectious and dont get me started on the playlist these are AMAZING. Her classes can work for all for abilities too, breaking down positions easily but it does not detract against thosse who are more experienced either."</p>
+                        </div>
+                    </div>
+                    <div class="4u 12u(small)">
+                        <div class="box" style="margin-bottom:.5em; text-align: center">
+                            <h2 style="width: 2em; height: 2em; line-height: 2em; border-radius: 100%; margin: 1em auto; background: #EDEBF2; color:#8E8D91;">P</h2>
+                            <h4>Patricia</h4>
+                            <p>"Becki is seriously the absolute best instructor! Her yoga classes are my go to favorite — her voice is very calming, her readings make your soul happy and her classes are both powerful and rejuvenating. She has the brightest, happiest spirit and it is truly contagious. You leave her classes feeling uplifted and like you can take on the day (and world)"</p>                
+                        </div>
+                    </div>
+                </section>
+            </section> -->
+
+            {% include footer.html %}
+        </div>
+
+    </body>
 
 </html>

@@ -10,11 +10,10 @@
 
 	#main {
 		/*background-color: _palette(bg-alt);*/
-		margin-top:10em;
-		padding: 4em;
+		/*margin-top:10em;*/
 
 		@include breakpoint(small) {
-		margin-top: 6em !important;
+		/*margin-top: 6em !important;*/
 		margin: 0 auto;
 		}
 

@@ -30,17 +30,17 @@
 					    background-color: _palette(fg-bold);
 					    display: block;
 					    height: 0;
-					    margin: 0.325em 0 0.5em 0;
+					    /*margin: 0.325em 0 0.5em 0;*/
 					    width: 100%;
 				  }
 			}
 
 			> p {
-				font-size: 0.7em;
-				font-weight: _font(weight-bold);
-				letter-spacing: _font(letter-spacing-alt);
+				font-size: 1em;
+				/*font-weight: _font(weight-bold);*/
+				/*letter-spacing: _font(letter-spacing-alt);*/
 				margin-bottom: 0;
-				text-transform: uppercase;
+				/*text-transform: uppercase;*/
 			}
 
 			body.is-ie & {

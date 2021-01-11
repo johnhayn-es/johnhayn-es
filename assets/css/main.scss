@@ -13,20 +13,6 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 	
-	.resp-container {
-    position: relative;
-    overflow: hidden;
-    padding-top: 56.25%;
-	}
-
-	.resp-iframe {
-	    position: absolute;
-	    top: 0;
-	    left: 0;
-	    width: 100%;
-	    height: 100%;
-	    border: 0;
-	}
 
 	@include skel-breakpoints((
 		xlarge: '(max-width: 1680px)',
@@ -53,7 +39,7 @@
 
 	@mixin inner {
 		> .inner {
-			@include padding(2em, 2em);
+			@include padding(4em, 4em);
 			/*max-width: _size(inner);*/
 			/*width: calc(100% - 4em);
 			margin-right:0;*/

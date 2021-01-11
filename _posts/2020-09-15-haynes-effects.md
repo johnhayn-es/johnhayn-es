@@ -1,15 +1,13 @@
 ---
 layout: post
-title: How I built Haynes Effects
-image: haynes-effects--positional-boost--pb-1--top.jpg
-image-alt: 
-video: 'ahUmgHxqVqY'
+title: Haynes Effects
+description: How I designed and built my first guitar pedal
+published: true
 categories: [Design]
 ---
-
 What did you do when we first went into lockdown? I did what anyone would do... I designed a new guitar pedal.
 
-This build is a little more special than usual. Not only did I build a release a new, one-page website - after many months of working on the concept I also designed, built and released the guitar pedal that is on offer. 
+This build is a little more special than usual. Not only did I build a release a new, one-page website - after many months of working on the concept I also designed, built and released the guitar pedals that are on offer. 
 
 On this project, I learned about the following:
 * Designing and exporting SVGs
@@ -17,16 +15,21 @@ On this project, I learned about the following:
 * Soldering, drilling Aluminium and water-slide decals
 * Ordering and importing hardware components from China
 
-### The Pedal
+## Effects Pedal: Positional Boost
 Haynes Effects, as a "brand", was created in order to package and sell a proprietary guitar pedal design that I created in the first few months of lockdown. 
 
-The pedal is a positional boost. It's simple design and consists of two circuits; the first is a simple algorythmic boost and the second is a loop and flipper switch. 
+The pedal is simple and consists of two circuits; the first is a simple algorythmic boost and the second is a loop and flipper switch. 
+
+<img style="width:100%" src="{{ 'assets/images/haynes-effects--positional-boost--pb-1--top.jpg' | relative_url }}" alt="The Haynes Effects positional boost pedal from the back, showing the arrangement of the line input and outputs">
 
 Placing the boost before another pedal increases the velocity of the effect, placing it after simply makes that effect louder. The loop enables you introduce other pedals into the circuit and use the flipper switch to choose whether the boost circuit comes before or after the pedals in the loop. 
 
-Watch the video where I demo the pedal concept.
+Here's a video where I demo the pedal concept: 
+<div class="resp-container">
+    <iframe class="resp-iframe" src="https://www.youtube.com/embed/ahUmgHxqVqY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-### Website
+## Website
 After building myself a prototype I posted a video and blurb to `r/guitarpedals`, explaining the concept, which garnered a lot of interest. I decided to build a (very!) limited run of "production" models, to test the water and release my first pedals into the wild.
 
 After much soldering, swearing and burned-fingers I had six limited-edition gold sparkle positional boosts that we ready to send to new homes. 
@@ -39,5 +42,5 @@ This project ticked off a lot of aesthetic hardware design goals for me:
 * I got to cut out foam inlays for the box that held the pedal in position
 * I got to pick the colour of the pedal (gold), the knobs (purple) and even the colour and brightness of the LEDs (purple with a 22k resistor)
 
-### Next Steps
+## Next Steps
 I've listened to initial feedback and have a few tweaks lined up for the next batch. I am also exploring the cost and timeframe of designing and printing my own PCBs to make the construction of each pedal more robust. 

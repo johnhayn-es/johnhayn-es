@@ -1,6 +1,7 @@
 ---
-layout: post
-title: Digital Consultancy
+layout: page
+title: Consulting
+nav-menu: true
 ---
 
 ## Consultancy 
