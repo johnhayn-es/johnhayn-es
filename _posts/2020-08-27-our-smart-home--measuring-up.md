@@ -24,7 +24,7 @@ Doing this has enabled us to:
 * make decisions about new purchases
 * visualise how ideas for future renovations would change the house
 
-<image src="../img/floorplans.png"/>
+<image src="../assets/images/floorplans.png"/>
 
 ### Visualising our new home
 Though we’re busy building a budget to spend money we haven’t earned yet - we haven’t actually moved in to the property yet and we’re not due to complete until later this year. 
