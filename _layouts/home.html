@@ -19,9 +19,9 @@
                         {% if site.subtitle %}
                         <h2 style="margin-bottom:0.5em">{{ site.subtitle }}</h2>
                         {% endif %}
-                        <!-- {% if site.description %}
+                        {% if site.description %}
                         <p>{{ site.description }}</p>
-                        {% endif %} -->
+                        {% endif %}
                         <ul class="actions">
                             {% for action in site.actions limit:1 %}
                             <li><a href="{{ action.url | absolute_url }}" class="special button fit">{{ action.label }}</a></li>
