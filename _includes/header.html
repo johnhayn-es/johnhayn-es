@@ -4,7 +4,7 @@
 	<!-- Header -->
 	<header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
 		{% if site.logo %}
-		<a href="{{ "/" | absolute_url }}" id="header-logo-container">
+		<a href="{{ "" | absolute_url }}" id="header-logo-container">
 			<img id="header-logo" src="{{ site.logo | relative_url}}">
 		</a>
 		{% else %}
