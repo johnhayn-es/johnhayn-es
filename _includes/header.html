@@ -3,13 +3,13 @@
 
 	<!-- Header -->
 	<header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
-		{% if site.logo %}
+		<!-- {% if site.logo %}
 		<a href="{{ '../' | relative_url }}" id="header-logo-container">
 			<img id="header-logo" src="{{ site.logo | relative_url}}">
 		</a>
-		{% else %}
-		<a href="{{ '../' | relative_url }}" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
-		{% endif %}
+		{% else %} -->
+		<a href="{{ '../' | relative_url }}" class="logo"><h1>{{ site.title }}</h1></a>
+		<!-- {% endif %} -->
 		<nav>
 			<a href="#menu" style="text-decoration: none;"><h2 style="margin: 0;">Menu</h2></a>
 		</nav>
