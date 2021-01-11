@@ -38,8 +38,8 @@ plugins:
 # config
 setup: blog # airtable or blog; controls the section on the home page and other parts of the site
 repository: 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: johnhayn.es # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: https://johnhayn.es # the base hostname & protocol for your site
 permalink: /:title/
 future: true
 markdown: kramdown
