@@ -33,7 +33,6 @@ tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 5
 
 # sitemap
-plugins:
 
 # config
 setup: blog # airtable or blog; controls the section on the home page and other parts of the site
