@@ -19,7 +19,7 @@ As we're our own clients, the brief was simple:
 * There should be a space for a 47-inch television
 
 ## The Process
-I'm no stranger to DIY, but I've never built anything this complex before - I needed help. I turned to YouTube to gather tips about building cabinets with MDF and stumbled upon an utter goldmine. Peter Millard's Ten Minute Workshop series has more than 400 videos relating to the topic of cabinetry, including very specific tips about working with MDF. 
+I'm no stranger to DIY, but I've never built anything this complex before - I needed help. I turned to YouTube to gather tips about building cabinets with MDF and stumbled upon an utter goldmine. [Peter Millard's Ten Minute Workshop](https://www.youtube.com/user/petermillard1) series has more than 400 videos relating to the topic of cabinetry, including very specific tips about working with MDF. 
 
 After plotting a basic design on paper, I brought the designs to life using the Sketchup model of the house that I'd put together previously. 
 
