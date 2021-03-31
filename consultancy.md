@@ -1,15 +1,16 @@
 ---
 layout: page
 title: Consulting
-nav-menu: true
+nav-menu: false
 ---
 
 ## Consultancy 
 
 I am available on an ad hoc basis for consultancy: 
 
-* Streaming, video production and online content; I'm an erstwhile video producer for well-known TV faces and have produced, developed and sold multiple digital formats. I can advise you from ideation and strategy through to distribtuion, whatever the scale of you production.
+
 * Product design and UX; I have extensive cross-platform experience and can help with planning & conducting research, designing solutions and testing/analysing success.
+* Streaming, video production and online content; I'm an erstwhile video producer for well-known TV faces and have produced, developed and sold multiple digital formats. I can advise you from ideation and strategy through to distribtuion, whatever the scale of you production.
 * Simple static websites; I've taught myself how to build websites on the Jekyll framework - building simple websites that perform the way you need them to.
 
 If you think I can help, please email consultancy@johnhayn.es 
