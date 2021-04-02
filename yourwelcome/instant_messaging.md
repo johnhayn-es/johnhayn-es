@@ -1,5 +1,7 @@
 ---
 layout: post
+nav-menu: false
+show_tile: false
 ---
 
 <span class="breadcrumbs">[Portfolio](../portfolio) / [YourWelcome](../yourwelcome) / Instant Messaging</span>
