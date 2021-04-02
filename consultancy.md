@@ -2,6 +2,7 @@
 layout: page
 title: Consulting
 nav-menu: false
+show_tile: false
 ---
 
 ## Consultancy 

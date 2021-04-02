@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: 'Becki Baldwin'
-description: Fitness + Movement
+landing-title: 'John Haynes'
+description: Product Designer
 author: null
 show_tile: false
 ---

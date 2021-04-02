@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fitted Furniture Pt. 1
+title: Designing our bedroom
 description: The design, budget and project plan.
 published: true
 categories: [Design, Jekyll]

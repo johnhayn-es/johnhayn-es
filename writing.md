@@ -1,10 +1,11 @@
 ---
 layout: page
-title: UX Writing
+title: Writing
 nav-menu: true
+show_tile: false
 ---
 
-I enjoy writing. Throughout my career I have written and published many blog articles, tutorials and advertising copy.  
+I enjoy writing and throughout my career I have written and published many blog articles, tutorials and advertising copy.  
 
 ### UX Principles
 * [POP's UX Principles ↗](https://wegotpop.github.io/styleguide/?p=%2Fux-principles)

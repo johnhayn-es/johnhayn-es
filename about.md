@@ -2,6 +2,7 @@
 layout: page
 title: About Me
 nav-menu: true
+show_tile: false
 ---
 
 John Haynes is a Senior Product Designer building a platform for a smarter, fairer entertainment industry at <a href="http://www.wegotpop.com target+_blank">We Got POP  ↗</a>.

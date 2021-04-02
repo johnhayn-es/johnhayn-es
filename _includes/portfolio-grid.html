@@ -1,0 +1,13 @@
+{% assign tiles = site.html_pages | where_exp: "item", "item.show_tile != false" %}
+<section id="one" class="tiles">
+  {% for tile in tiles limit:site.tiles-count %}
+  <article>
+    <span class="image">
+      <img src="{{ tile.image }}" alt="{{ tile.title }}" />
+    </span>
+    <header class="major">
+      <h2><a href="{{ tile.url  | relative_url }}" class="link">{{ tile.title }}</a></h2>
+      <p>{{ tile.description }}</p>
+    </header>
+  </article>
+  {% endfor %}
