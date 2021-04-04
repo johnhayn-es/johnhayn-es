@@ -5,6 +5,7 @@ description: A suite of web-based tools that help people manage film and televis
 image: '../wegotpop/screens.png'
 nav-menu: false
 show_tile: true
+sort: 3
 ---
 
 <span class="breadcrumbs">[Portfolio](../portfolio) / We Got POP</span>
@@ -20,9 +21,9 @@ I joined the POP team to help build out their enterprise products for film and t
 ## Projects
 I can't share everything that we're working on just yet, but here's a few that I can:
 
-* Digital timesheet schedules
+* Digital timesheets
 * POP's Crew Community
-* Overhauling POP's messaging system
+* Improving messages & document distribution
 * Dashboard navigation
 * UX principles
 

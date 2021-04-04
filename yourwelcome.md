@@ -5,6 +5,7 @@ description: A custom-built tablet for the vacation rental industry
 image: '../yourwelcome/tablet-png.webp'
 nav-menu: false
 show_tile: true
+sort: 2
 ---
 
 <span class="breadcrumbs">[Portfolio](../portfolio) / YourWelcome</span>
@@ -20,11 +21,11 @@ Following YourWelcome's launch, I joined the team as the Head of Growth to focus
 ### Projects
 A few of my favourite projects from my time as Head of Product
 
-* [Guest Check-In](check_in)
-* [Guest Verification](guest_verification)
-* [Instant messaging](instant_messaging)
-* [Reservations Calendar](reservation_calendar)
-* [Handling GDPR](gdpr)
+* [Guest Check-In](../yourwelcome/check_in)
+* [Guest Verification](../yourwelcome/guest_verification)
+* [Instant messaging](../yourwelcome/instant_messaging)
+* [Reservations Calendar](../yourwelcome/reservation_calendar)
+* [Guest check-in and GDPR](../yourwelcome/gdpr)
 
 
 ![A vacation rental guest using a video tutorial, on a YourWelcome tablet, to operate a microwave](../assets/images/yourwelcome-tablet-hero.png)
