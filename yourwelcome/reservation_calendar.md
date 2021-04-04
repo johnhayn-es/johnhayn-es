@@ -4,7 +4,7 @@ nav-menu: false
 show_tile: false
 ---
 
-<span class="breadcrumbs">[Portfolio](../portfolio) / [YourWelcome](../yourwelcome) / Calendar</span>
+<span class="breadcrumbs">[Portfolio](../portfolio.md) / [YourWelcome](../yourwelcome.md) / GDPR</span>
 
 # Reservations Calendar
 It became clear that the YourWelcome tablet would become a much more powerful tool if we were able to attribute in-app behaviour to a particular guest. This would provide a wealth of guest data that we now take for granted.

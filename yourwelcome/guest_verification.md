@@ -4,7 +4,7 @@ nav-menu: false
 show_tile: false
 ---
 
-<span class="breadcrumbs">[Portfolio](../portfolio) / [YourWelcome](../yourwelcome) / Guest Verification</span>
+<span class="breadcrumbs">[Portfolio](../portfolio.md) / [YourWelcome](../yourwelcome.md) / GDPR</span>
 
 # Guest Verification
 We were planning to release an online check-in/account portal for guests to manage their booking(s), view/purchase services and manage their data. Email verification was a necessary precursor to the release of this new platform, to ensure that we could securely communicate sensitive information to guests.

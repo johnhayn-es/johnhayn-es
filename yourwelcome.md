@@ -8,7 +8,7 @@ show_tile: true
 sort: 2
 ---
 
-<span class="breadcrumbs">[Portfolio](../portfolio) / YourWelcome</span>
+<span class="breadcrumbs">[Portfolio](../portfolio.md) / YourWelcome</span>
 
 ![A YourWelcome tablet leaning on a stand, with various tourist attraction offers on screen](../yourwelcome/tablet-png.webp)
 

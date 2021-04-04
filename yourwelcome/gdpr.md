@@ -4,7 +4,7 @@ nav-menu: false
 show_tile: false
 ---
 
-<span class="breadcrumbs">[Portfolio](../portfolio) / [YourWelcome](../yourwelcome) / GDPR</span>
+<span class="breadcrumbs">[Portfolio](../portfolio.md) / [YourWelcome](../yourwelcome.md) / GDPR</span>
 
 # GDPR and Terms
 In order to help our clients adhere to GDPR, YourWelcome needed to introduce new features in our app and dashboard. Survey results indicated that clients were confused by what GDPR was, whether it affected them and how to ensure their business was compliant.
