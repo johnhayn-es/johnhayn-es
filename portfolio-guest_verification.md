@@ -1,12 +1,14 @@
 ---
-layout: post
+title: Guest Verification
+description: Check a guest's identity to protect against fraud
+date: 2018-10-10
+image: 'https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--check-in--modal--welcome.png'
+categories: portfolio
+layout: item
 nav-menu: false
-show_tile: false
+show_tile: true
 ---
 
-<span class="breadcrumbs">[Portfolio](../portfolio.md) / [YourWelcome](../yourwelcome.md) / GDPR</span>
-
-# Guest Verification
 We were planning to release an online check-in/account portal for guests to manage their booking(s), view/purchase services and manage their data. Email verification was a necessary precursor to the release of this new platform, to ensure that we could securely communicate sensitive information to guests.
 
 Another challenge faced by accommodation providers are the proxy email addresses used by Online Travel Agents for their internal messaging systems. The proxy system use addresses such as `john34566@guest.airbnb.com`; the internal systems obsure links, email addresses and URLs – making it hard to communicate with the guest.

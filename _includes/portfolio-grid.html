@@ -1,13 +1,37 @@
-{% assign tiles = site.html_pages | where_exp: "item", "item.show_tile != false" | sort:'sort' | reverse  %}
 <section id="one" class="tiles">
-  {% for tile in tiles limit:site.tiles-count %}
+{% assign tiles = site.html_pages | where_exp: "page", "page.categories == 'portfolio'" | sort: 'date' | reverse %}
+  {% for tile in tiles %}
   <article>
     <span class="image">
       <img src="{{ tile.image }}" alt="{{ tile.title }}" />
     </span>
     <header class="major">
+      {% if tile.password %}
+      <h2><a href="{{ '#' | relative_url }}" onclick="passwordPrompt()" class="link">{{ tile.title }} <i class="fa fa-lock" aria-hidden="true"></i></a></h2>
+      {% else %}
       <h2><a href="{{ tile.url  | relative_url }}" class="link">{{ tile.title }}</a></h2>
-      <p>{{ tile.description }}</p>
+      {% endif %}
+      <p style="margin-top:1em">{{ tile.description }}</p>
     </header>
   </article>
-  {% endfor %}
+
+{% if tile.password %}
+<!-- "Password" protection -->
+<!-- If you're reading this, I understand that this is not a secure way of protecting this information and that smart people like you will look for janky javascript lik this. I have omitted sensitive data from the example that you're trying to access, as well as taking steps to ensure this page isn't indexable. -->
+<script type="text/javascript">
+
+  function passwordPrompt() {
+    var y = "{{ tile.password }}";
+    var x = prompt("Enter in the password "," ");
+    console.log(password)
+    if (x.toLowerCase() == y) {
+      window.location = "{{ tile.url  | relative_url }}";
+      }
+    else {
+      window.location = "{{ 'wrong-password' | absolute_url }}";
+    }
+    }
+</script>
+{% endif %}
+{% endfor %}
+</section>

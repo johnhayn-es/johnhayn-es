@@ -5,12 +5,24 @@ nav-menu: true
 show_tile: false
 ---
 
-John Haynes is a Senior Product Designer building a platform for a smarter, fairer entertainment industry at <a href="http://www.wegotpop.com target+_blank">We Got POP  ↗</a>.
+I'm a Senior Product Designer building a platform for a smarter, fairer entertainment industry at <a href="http://www.wegotpop.com">We Got POP ↗</a>.
 
-## Professional Experience
-I am a Senior Product Designer with experience designing B2B SAAS products; conducting user research & analysis, introducing design systems, improving the navigation and overall information architecture - overseeing the entire design process from ideation to deployment.
+I consider myself a full-stack designer, seeing the design process through from end to end:
 
-My background on marketing has lead me to oversee the growth of two successful subscription products from the ground up; the Hairy Bikers’ Diet Club and YourWelcome. I’m currently deploying these skills on POP’s Crew Community.
+* User research, ideation and validation; I'm a proponent for <a href="https://www.interaction-design.org/literature/topics/user-centered-design">User Centered Design ↗</a>, focusing on the user's needs at each stage of the process.
+* Design iterations; I use the principles of <a href="https://bradfrost.com/blog/post/atomic-web-design/">Atomic Design ↗</a> to establish a library of reusable components that enable me to quickly create high-fidelity prototypes for user testing.
+* Developer handover; I believe that design and development is a collaborative process and make efforts to bring developers into the design process as early as possible, in order to deeply understand the technical challenges or opportunities that can be taken. I combine prototypes with annotated project files and, where necessary, author specific documentation to communicate how something is intended to work.
+* Measuring value; I am data-driven and well-versed in writing SQL (PostgresQL and MySQL) queries to surface data, then reporting the results (via a Google Sheets or data-vis tools like Domo or Data Studio). I use these skills at all stages of the design process and have also built reports for other key stakeholders to help them measure the impact of my designs. 
+
+In the last 7+ years I have worked on a variety of digital products and services including:
+
+* Native iOS and Android apps
+* B2C subscription services
+* SaaS web platforms 
+* White-label enterprise software
+* Designing and publishing design systems
+
+
   
 ## Outside of Work
 In my spare time:

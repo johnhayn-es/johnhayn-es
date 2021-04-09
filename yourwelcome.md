@@ -2,7 +2,7 @@
 layout: page
 title: YourWelcome
 description: A custom-built tablet for the vacation rental industry
-image: '../yourwelcome/tablet-png.webp'
+image: '../portfolio/tablet-png.webp'
 nav-menu: false
 show_tile: true
 sort: 2

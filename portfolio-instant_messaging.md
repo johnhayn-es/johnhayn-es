@@ -1,12 +1,14 @@
 ---
-layout: post
+title: Guest Messaging
+description: An instant messenger powered by Slack
+date: 2018-08-01
+image: 'https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--notifications--messages+grey.png'
+categories: portfolio
+layout: item
 nav-menu: false
-show_tile: false
+show_tile: true
 ---
 
-<span class="breadcrumbs">[Portfolio](../portfolio.md) / [YourWelcome](../yourwelcome.md) / GDPR</span>
-
-# Instant Messaging via Slack
 This feature was prioritised after inbound requests increased, following a period of significant growth. The resulting Slack app is something that I’m hugely proud of; not only did we exceed the original objectives, but this feature has enabled our customers to provide a significantly better experience for their guests.
 
 ![Messages](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--notifications--messages+grey.png)

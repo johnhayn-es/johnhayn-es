@@ -1,12 +1,14 @@
 ---
-layout: post
+title: Self Check-In 
+description: Self check-in for vacation rental guests
+date: 2018-10-01
+image: 'https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--check-in--modal--rating.png'
+categories: portfolio
+layout: item
 nav-menu: false
-show_tile: false
+show_tile: true
 ---
 
-<span class="breadcrumbs">[Portfolio](../portfolio) / [YourWelcome](../yourwelcome) / Guest Check-In</span>
-
-# Self Check-In for Short Term Rentals
 A majority of short-term rental hosts manage their property remotely, so the touchpoints between them and their guests are few and far-between (and can often feel very formal). 
 
 YourWelcome's self check-in options enable property hosts to provide a warm welcome to guests and capture vital details, in the guests' first language. 
@@ -14,7 +16,6 @@ YourWelcome's self check-in options enable property hosts to provide a warm welc
 ![Property Rating](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--check-in--modal--rating.png)
 
 ### Objective(s)
-
 * Provide a platform to personally welcome guests
 * Collect vital information upon arrival, such as expected departure time
 * Provide a platform to sell in-stay services and extensions to the booking

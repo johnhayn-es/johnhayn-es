@@ -1,12 +1,14 @@
 ---
-layout: post
+title: Terms of Stay
+description: How to ensure your vacation rental is GDPR compliant
+date: 2018-11-01
+image: 'https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--check-in--modal--rating.png'
+categories: portfolio
+layout: item
 nav-menu: false
-show_tile: false
+show_tile: true
 ---
 
-<span class="breadcrumbs">[Portfolio](../portfolio.md) / [YourWelcome](../yourwelcome.md) / GDPR</span>
-
-# GDPR and Terms
 In order to help our clients adhere to GDPR, YourWelcome needed to introduce new features in our app and dashboard. Survey results indicated that clients were confused by what GDPR was, whether it affected them and how to ensure their business was compliant.
 
 ### Objective(s)

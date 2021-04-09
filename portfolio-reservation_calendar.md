@@ -1,12 +1,15 @@
 ---
-layout: post
+title: Reservations Calendar
+description: Manage your vacation rental property bookings
+date: 2018-06-01
+image: 'https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/Calendar+-+booking+slide.png'
+categories: portfolio
+layout: item
 nav-menu: false
-show_tile: false
+show_tile: true
 ---
 
-<span class="breadcrumbs">[Portfolio](../portfolio.md) / [YourWelcome](../yourwelcome.md) / GDPR</span>
 
-# Reservations Calendar
 It became clear that the YourWelcome tablet would become a much more powerful tool if we were able to attribute in-app behaviour to a particular guest. This would provide a wealth of guest data that we now take for granted.
 
 ![calendar](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/Calendar+-+booking+slide.png)

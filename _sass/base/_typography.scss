@@ -65,9 +65,8 @@
 		font-style: normal;
 		color: _palette(fg-bold);
 		font-weight: _font(weight-bold);
-		line-height: 1.65;
+		line-height: 1;
 		margin: (_size(element-margin) * 0.5) 0 0 0;
-		text-transform: uppercase;
 		letter-spacing:	0.1em;
 
 		a {
@@ -77,23 +76,23 @@
 	}
 
 	h1 {
-		font-size: 5em;
-	}
-
-	h2 {
 		font-size: 3em;
 	}
 
-	h3 {	
-		font-size: 2.4em;
+	h2 {
+		font-size: 2em;
 	}
 
-	h4 {
+	h3 {	
 		font-size: 1.8em;
 	}
 
+	h4 {
+		font-size: 1.4em;
+	}
+
 	h5 {
-		font-size: 1.6em;
+		font-size: 1em;
 	}
 
 	h6 {

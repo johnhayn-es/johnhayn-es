@@ -2,7 +2,7 @@
 layout: page
 title: We Got POP
 description: A suite of web-based tools that help people manage film and television productions
-image: '../wegotpop/screens.png'
+image: '../portfolio/screens.png'
 nav-menu: false
 show_tile: true
 sort: 3
