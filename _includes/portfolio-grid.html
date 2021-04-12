@@ -1,6 +1,7 @@
 <section id="one" class="tiles">
-{% assign tiles = site.html_pages | where_exp: "page", "page.categories == 'portfolio'" | sort: 'date' | reverse %}
+{% assign tiles = site.html_pages | where_exp: "page", "page.categories contains 'portfolio'" | sort: 'date' | reverse %}
   {% for tile in tiles %}
+  {% if tile.show_tile == true %}
   <article>
     <span class="image">
       <img src="{{ tile.image }}" alt="{{ tile.title }}" />
@@ -14,6 +15,7 @@
       <p style="margin-top:1em">{{ tile.description }}</p>
     </header>
   </article>
+  {% endif %}
 
 {% if tile.password %}
 <!-- "Password" protection -->
@@ -23,12 +25,13 @@
   function passwordPrompt() {
     var y = "{{ tile.password }}";
     var x = prompt("Enter in the password "," ");
-    console.log(password)
     if (x.toLowerCase() == y) {
+      console.log(y)
       window.location = "{{ tile.url  | relative_url }}";
       }
     else {
-      window.location = "{{ 'wrong-password' | absolute_url }}";
+      console.log('fuck')
+      window.location = "{{ 'wrong-password' | relative_url }}";
     }
     }
 </script>

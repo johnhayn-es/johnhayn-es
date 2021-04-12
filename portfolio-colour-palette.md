@@ -1,13 +1,13 @@
 ---
-title: Crew Community
-description: A subscription service for entertainment professionals
+title: Colour Palette
+description: Defining our brand and assigning meaning to colour
 date: 2019-09-01
 image: ''
 categories: portfolio
 layout: item
 nav-menu: false
 show_tile: true
-password: 'popcrew'
+password: 'rainbow'
 ---
 
 My Role## My Role

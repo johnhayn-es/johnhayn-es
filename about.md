@@ -24,7 +24,7 @@ In the last 7+ years I have worked on a variety of digital products and services
 
 
   
-## Outside of Work
+### Outside of Work
 In my spare time:
 
 * I play guitar as one half of the acoustic duo <a href="https://staceyandjohn.co.uk">Stacey & John</a> and lead guitar for <a href="https://thegreatfire.co.uk">The Great Fire</a>
