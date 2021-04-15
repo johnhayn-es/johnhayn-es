@@ -60,14 +60,14 @@
 		margin: 0 0 _size(element-margin) 0;
 	}
 
-	h1, h2, h3, h4, h5, h6 {
-		font-family: _font(header); 
+	h1, h2, h3, h4, h5, h6 { 
+		font-family: _font(family);
 		font-style: normal;
 		color: _palette(fg-bold);
 		font-weight: _font(weight-bold);
 		line-height: 1;
 		margin: (_size(element-margin) * 0.5) 0 0 0;
-		letter-spacing:	0.1em;
+		/*letter-spacing:	0.1em;*/
 
 		a {
 			color: inherit;
@@ -76,12 +76,13 @@
 	}
 
 	h1 {
-		font-size: 3em;
-		margin-bottom: 1em;
+		font-size: 4em;
+		font-family: _font(header);
 	}
 
 	h2 {
 		font-size: 2em;
+		font-family: _font(header);
 		margin-bottom: 1em;
 	}
 
