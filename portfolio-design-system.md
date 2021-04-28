@@ -1,5 +1,5 @@
 ---
-title: Design System
+title: Component Library
 description: How I established POP's Design System and component library in Figma
 date: 2021-01-01
 image: ''
@@ -10,7 +10,6 @@ show_tile: true
 password: 'component'
 ---
 
-## My Role
 
 ## Objectives
 

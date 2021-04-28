@@ -1,6 +1,6 @@
 ---
 title: Crew Community
-description: Launching a b2c subscription for entertainment professionals
+description: Launching a subscription product for entertainment professionals
 date: 2019-09-01
 image: ''
 categories: portfolio
@@ -15,35 +15,30 @@ The POP Crew Community is an ambitious, horizon three initiative that launched i
 
 ### My role
 As part of the founding Crew Community team, I have played a hybrid role on the project: 
-
-* Reporting; consolidating queries from our database with reporting from Stripe, Google Analytics to provide one view on all our KPIs
-* Strategy; setting out the monthly initiatives and reporting results to our internal governance team
 * Design; research and design for all features in discovery
+* Strategy; setting out the monthly initiatives and reporting results to our internal governance team
+* Reporting; consolidating queries from our database with reporting from Stripe, Google Analytics to provide one view on all our KPIs
 
-### Objectives
+### Project Objectives
 In the first twelve months:
-
-* Grow the community to ~29,000 free members; 12,000 UK/EU and 17,000 US
+* Grow the community to 29,000 free members; 12,000 UK/EU and 17,000 US
 * Launch subscription product(s) and grow to 357 annual subscribers (£107k ARR)
 
+<section class="greysection">
+	<h2>Research</h2>
+	<h3>Launching a subscription service</h3>
+	<p>User interviews</p>
+	<ul>
+		<li>Value</li>
+		<li>Pricing</li>
+		<li>Building a business case</li>
+	</ul>
+</section>
 
-## Research
-Since launch, there have been two key phases of research activity; launching the subscription service and then iterative design of new value-adding features.
+## Design
+For the MVP: 
+* Leveraging existing POP platform technology
+* mapping user flows for MVP
 
-### Launching a subscription service
-* Engaging stakeholders
-* Pricing
-* Research plan
-
-### Adding value (discovery)
-* User interviews
 
 ## Strategy and Approach
-
-* User Flows
-* Partnerships
-
-## Result
-
-* Colours
-* Pairings

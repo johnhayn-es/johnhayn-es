@@ -6,11 +6,11 @@ image: ''
 categories: portfolio
 layout: item
 nav-menu: false
-show_tile: true
+show_tile: false
 password: 'rainbow'
 ---
 
-My Role## My Role
+## My Role
 
 ## Objectives
 
