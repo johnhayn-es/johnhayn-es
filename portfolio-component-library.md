@@ -1,7 +1,7 @@
 ---
 title: Component Library
 description: How I established POP's Design System and component library in Figma
-date: 2021-01-01
+date: 2019-09-01
 image: ''
 categories: portfolio
 layout: item

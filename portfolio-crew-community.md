@@ -1,7 +1,7 @@
 ---
 title: Crew Community
 description: Launching a subscription product for entertainment professionals
-date: 2019-09-01
+date: 2019-09-02
 image: ''
 categories: portfolio
 layout: item
@@ -23,17 +23,6 @@ As part of the founding Crew Community team, I have played a hybrid role on the 
 In the first twelve months:
 * Grow the community to 29,000 free members; 12,000 UK/EU and 17,000 US
 * Launch subscription product(s) and grow to 357 annual subscribers (£107k ARR)
-
-<section class="greysection">
-	<h2>Research</h2>
-	<h3>Launching a subscription service</h3>
-	<p>User interviews</p>
-	<ul>
-		<li>Value</li>
-		<li>Pricing</li>
-		<li>Building a business case</li>
-	</ul>
-</section>
 
 ## Design
 For the MVP: 
