@@ -1,7 +1,6 @@
 <section id="one" class="tiles">
-{% assign tiles = site.html_pages | where_exp: "page", "page.categories contains 'portfolio'" | sort: 'date' | reverse %}
+{% assign tiles = site.html_pages | where_exp: "page", "page.categories contains 'portfolio'", "page.show_tile == true" | sort: 'date' | reverse %}
   {% for tile in tiles %}
-  {% if tile.show_tile == true %}
   <article>
     <span class="image">
       <img src="{{ tile.image }}" alt="{{ tile.title }}" />
@@ -15,7 +14,6 @@
       <p style="margin-top:1em">{{ tile.description }}</p>
     </header>
   </article>
-  {% endif %}
 
 {% if tile.password %}
 <!-- "Password" protection -->

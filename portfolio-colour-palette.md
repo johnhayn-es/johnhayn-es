@@ -3,7 +3,7 @@ title: Colour Palette
 description: Defining our brand and assigning meaning to colour
 date: 2019-09-01
 image: ''
-categories: portfolio
+categories: 
 layout: item
 nav-menu: false
 show_tile: false
