@@ -7,7 +7,6 @@ categories:
 layout: item
 nav-menu: false
 show_tile: false
-password: 'rainbow'
 ---
 
 ## My Role
