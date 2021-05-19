@@ -24,14 +24,15 @@
 
   function passwordPrompt() {
     var y = "{{ tile.password }}";
-    var x = prompt("Enter in the password "," ");
+    var x = prompt("Enter in the password ","");
     if (x.toLowerCase() == y) {
-      console.log(y)
       window.location = "{{ tile.url  | relative_url }}";
+      console.log(y)
       }
     else {
-      console.log('fuck')
       window.location = "{{ 'wrong-password' | relative_url }}";
+      console.log('wrong password, sorry')
+      console.log(y)
     }
     }
 </script>
