@@ -6,7 +6,7 @@ image: ''
 categories: portfolio
 layout: item
 nav-menu: false
-show_tile: false
+show_tile: true
 password: 'getpaid'
 ---
 
