@@ -26,7 +26,7 @@
     var y = "{{ tile.password }}";
     var x = prompt("Enter in the password ","");
     if (x.toLowerCase() == y) {
-      window.location = "{{ tile.url  | relative_url }}";
+      window.location = "{{ 'tile.url'  | relative_url }}";
       console.log(y)
       }
     else {

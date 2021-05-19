@@ -6,8 +6,8 @@ image: ''
 categories: portfolio
 layout: item
 nav-menu: false
-show_tile: false
-password: 'popcrew'
+show_tile: true
+password: popcrew
 ---
 
 ## About the project 

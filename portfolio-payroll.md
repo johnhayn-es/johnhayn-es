@@ -7,7 +7,7 @@ categories: portfolio
 layout: item
 nav-menu: false
 show_tile: true
-password: 'getpaid'
+password: getpaid
 ---
 
 ## My Role
