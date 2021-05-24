@@ -5,9 +5,11 @@ nav-menu: true
 show_tile: false
 ---
 
-I'm a Senior Product Designer building a platform for a smarter, fairer entertainment industry at <a href="http://www.wegotpop.com">We Got POP ↗</a>.
+Hello. Thank you for being curious enough to find this page. 
 
-I consider myself a full-stack designer, seeing the design process through from end to end:
+If you read my CV you will notice that my career combines three interconnected disciplines; design, growth and storytelling. This combination enables me to do thw work I do today. I am a full-stack designer; not only seeing the design process through from end-to-end, but also building a deep understanding of the levers for commercial and customer success. 
+
+I'm a jack of all trades:
 
 * User research, ideation and validation; I'm a proponent for <a href="https://www.interaction-design.org/literature/topics/user-centered-design">User Centered Design ↗</a>, focusing on the user's needs at each stage of the process.
 * Design iterations; I use the principles of <a href="https://bradfrost.com/blog/post/atomic-web-design/">Atomic Design ↗</a> to establish a library of reusable components that enable me to quickly create high-fidelity prototypes for user testing.
@@ -22,6 +24,7 @@ In the last 7+ years I have worked on a variety of digital products and services
 * White-label enterprise software
 * Designing and publishing design systems
 
+I'm a Senior Product Designer building a platform for a smarter, fairer entertainment industry at <a href="http://www.wegotpop.com">We Got POP ↗</a>.
 
   
 ### Outside of Work
