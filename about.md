@@ -7,7 +7,7 @@ show_tile: false
 
 Hello. Thank you for being curious enough to find this page. 
 
-If you read my CV you will notice that my career combines three interconnected disciplines; design, growth and storytelling. This combination enables me to do the work I do today. I am a full-stack designer; not only seeing the design process through from end-to-end, but also building a deep understanding of the levers for commercial and customer success. 
+If you read my résumé you will notice that my career combines three interconnected disciplines; design, growth and storytelling. This combination enables me to do the work I do today. I am a full-stack designer; not only seeing the design process through from end-to-end, but also building a deep understanding of the levers for commercial and customer success. 
 
 I'm a jack of all trades:
 
@@ -26,8 +26,13 @@ In the last 7+ years I have worked on a variety of digital products and services
 
 I'm a Senior Product Designer building a platform for a smarter, fairer entertainment industry at <a href="http://www.wegotpop.com">We Got POP ↗</a>.
 
+
+## Résumé
+
+
+
   
-### Outside of Work
+## Outside of Work
 In my spare time:
 
 * I play guitar as one half of the acoustic duo <a href="https://staceyandjohn.co.uk">Stacey & John</a> and lead guitar for <a href="https://thegreatfire.co.uk">The Great Fire</a>
