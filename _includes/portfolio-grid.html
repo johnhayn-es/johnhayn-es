@@ -1,5 +1,5 @@
 <section id="one" class="tiles">
-{% assign tiles = site.html_pages | where_exp: "page", "page.categories contains 'portfolio'", "page.show_tile == true" | sort: 'date' | reverse %}
+{% assign tiles = site.html_pages | where_exp: "page", "page.categories contains 'portfolio'" | sort: 'date' %}
   {% for tile in tiles %}
   <article>
     <span class="image">
