@@ -7,7 +7,7 @@ show_tile: false
 
 Hello. Thank you for being curious enough to find this page. 
 
-If you read my CV you will notice that my career combines three interconnected disciplines; design, growth and storytelling. This combination enables me to do thw work I do today. I am a full-stack designer; not only seeing the design process through from end-to-end, but also building a deep understanding of the levers for commercial and customer success. 
+If you read my CV you will notice that my career combines three interconnected disciplines; design, growth and storytelling. This combination enables me to do the work I do today. I am a full-stack designer; not only seeing the design process through from end-to-end, but also building a deep understanding of the levers for commercial and customer success. 
 
 I'm a jack of all trades:
 
