@@ -26,11 +26,6 @@ In the last 7+ years I have worked on a variety of digital products and services
 
 I'm a Senior Product Designer building a platform for a smarter, fairer entertainment industry at <a href="http://www.wegotpop.com">We Got POP ↗</a>.
 
-
-## Résumé
-
-
-
   
 ## Outside of Work
 In my spare time:
