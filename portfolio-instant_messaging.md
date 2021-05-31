@@ -19,8 +19,6 @@ This feature was prioritised after inbound requests increased, following a perio
 * Allow hosts to message their guests, in real time, sharing photos and links
 * Customise the experience to make it clear to hosts & guests who they are speaking to
 
-### Research
-
 ## Design
 We built a slack app that connects to Slack’s Real Time Messaging API. The app is self-installed by YourWelcome’s customers via the Slack marketplace. The app is simple to use and has useful features designed to help our customers manage this new communication channel:
 
