@@ -1,5 +1,5 @@
 <section id="one" class="tiles">
-{% assign tiles = site.html_pages reversed | where_exp: "page", "page.categories contains 'portfolio'" | sort: 'date' %}
+{% assign tiles = site.html_pages | where_exp: "page", "page.categories contains 'portfolio'" | sort: 'date' | reverse %}
   {% for tile in tiles %}
   <article>
     <span class="image">
@@ -21,10 +21,10 @@
 <script type="text/javascript">
 
   function passwordPrompt() {
-    var y = "{{ tile.password }}";
+    var y = "{{ site.portfoliopassword }}";
     var x = prompt("Enter in the password ","");
     if (x.toLowerCase() == y) {
-      window.location = "{{ 'tile.url'  | relative_url }}";
+      window.location = "{{ tile.url  | relative_url }}";
       console.log(y)
       }
     else {
