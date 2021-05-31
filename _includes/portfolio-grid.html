@@ -13,27 +13,26 @@
       {% endif %}
       <p style="margin-top:1em">{{ tile.description }}</p>
     </header>
+    {% if tile.password %}
+    <!-- "Password" protection -->
+    <!-- If you're reading this, I understand that this is not a secure way of protecting this information and that smart people like you will look for janky javascript lik this. I have omitted sensitive data from the example that you're trying to access, as well as taking steps to ensure this page isn't indexable. -->
+    <script type="text/javascript">
+
+      function passwordPrompt() {
+        var y = "{{ site.portfoliopassword }}";
+        var x = prompt("Enter in the password ","");
+        if (x.toLowerCase() == y) {
+          window.location = "{{ tile.url  | relative_url }}";
+          console.log(y)
+          }
+        else {
+          window.location = "{{ 'wrong-password' | relative_url }}";
+          console.log('wrong password, sorry')
+          console.log(y)
+        }
+        }
+    </script>
+    {% endif %}
   </article>
-
-{% if tile.password %}
-<!-- "Password" protection -->
-<!-- If you're reading this, I understand that this is not a secure way of protecting this information and that smart people like you will look for janky javascript lik this. I have omitted sensitive data from the example that you're trying to access, as well as taking steps to ensure this page isn't indexable. -->
-<script type="text/javascript">
-
-  function passwordPrompt() {
-    var y = "{{ site.portfoliopassword }}";
-    var x = prompt("Enter in the password ","");
-    if (x.toLowerCase() == y) {
-      window.location = "{{ tile.url  | relative_url }}";
-      console.log(y)
-      }
-    else {
-      window.location = "{{ 'wrong-password' | relative_url }}";
-      console.log('wrong password, sorry')
-      console.log(y)
-    }
-    }
-</script>
-{% endif %}
 {% endfor %}
 </section>
