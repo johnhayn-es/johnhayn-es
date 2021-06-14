@@ -63,48 +63,6 @@
 		}
 	}
 
-	.freeclass {
-		padding: 0;
-		@include breakpoint(small) {
-		@include padding(2em, 2em);
-		margin: 0 auto;
-	}
-	}
-
-
-	.classes {
-		padding: 4em;
-		@include breakpoint(small) {
-		@include padding(2em, 2em);
-		margin: 0 auto;
-		}
-
-		.box {
-			border: #fff solid 1px;
-		}
-
-		.button {
-			border: #fff solid 1px;
-			color: #fff;	
-		}
-
-		&.special {
-			background-color: _palette(bg);
-			box-shadow: none;
-			color: _palette(fg-bold);
-
-			&:hover, &:active {
-				background-color: _palette(highlight);
-				color: _palette(bg) !important;
-			}
-
-			&:active {
-				background-color: desaturate(darken(_palette(highlight), 15), 5);
-			}
-		}
-
-	}
-
 	.flexor {
 		display: flex; 
 		align-items: center;

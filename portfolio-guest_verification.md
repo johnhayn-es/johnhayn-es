@@ -3,7 +3,8 @@ title: Guest Verification
 description: Check a guest's identity to protect against fraud
 date: 2018-10-10
 image: 'https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--check-in--modal--welcome.png'
-categories: portfolio
+categories: [portfolio, design]
+project: YourWelcome
 layout: item
 nav-menu: false
 show_tile: true

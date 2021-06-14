@@ -1,38 +1,37 @@
-<section id="one" class="tiles">
+<section id="one" class="tiles grid">
 {% assign tiles = site.html_pages | where_exp: "page", "page.categories contains 'portfolio'" | sort: 'date' | reverse %}
   {% for tile in tiles %}
-  <article>
+  <article class="{{ tile.categories | join: ' ' }}">
     <span class="image">
       <img src="{{ tile.image }}" alt="{{ tile.title }}" />
     </span>
     <header class="major">
       {% if tile.password %}
       <h2><a href="{{ '#' | relative_url }}" onclick="passwordPrompt()" class="link">{{ tile.title }} <i class="fa fa-lock" aria-hidden="true"></i></a></h2>
+      <!-- "Password" protection -->
+      <!-- If you're reading this, I understand that this is not a secure way of protecting this information and that smart people like you will look for janky javascript lik this. I have omitted sensitive data from the example that you're trying to access, as well as taking steps to ensure this page isn't indexable. -->
+      <script type="text/javascript">
+
+        function passwordPrompt() {
+          var y = "{{ site.portfoliopassword }}";
+          var x = prompt("Enter in the password ","");
+          if (x.toLowerCase() == y) {
+            window.location = "{{ tile.url | relative_url }}";
+            console.log(y)
+            }
+          else {
+            window.location = "{{ 'wrong-password' | relative_url }}";
+            console.log('wrong password, sorry')
+            console.log(y)
+          }
+          };
+      </script>
       {% else %}
       <h2><a href="{{ tile.url  | relative_url }}" class="link">{{ tile.title }}</a></h2>
       {% endif %}
-      <p style="margin-top:1em">{{ tile.description }}</p>
+      <p style="margin-top:1em;">{{ tile.description }}</p>
+      <p>Project: {{ tile.project }}</p>
     </header>
-    {% if tile.password %}
-    <!-- "Password" protection -->
-    <!-- If you're reading this, I understand that this is not a secure way of protecting this information and that smart people like you will look for janky javascript lik this. I have omitted sensitive data from the example that you're trying to access, as well as taking steps to ensure this page isn't indexable. -->
-    <script type="text/javascript">
-
-      function passwordPrompt() {
-        var y = "{{ site.portfoliopassword }}";
-        var x = prompt("Enter in the password ","");
-        if (x.toLowerCase() == y) {
-          window.location = "{{ tile.url  | relative_url }}";
-          console.log(y)
-          }
-        else {
-          window.location = "{{ 'wrong-password' | relative_url }}";
-          console.log('wrong password, sorry')
-          console.log(y)
-        };
-        };
-    </script>
-    {% endif %}
   </article>
 {% endfor %}
 </section>

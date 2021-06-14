@@ -3,7 +3,8 @@ title: Location Picker
 description: Override an address with an exact location
 date: 2015-11-01
 image: 'https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/IMG_4761.PNG'
-categories: portfolio
+categories: [portfolio, design]
+project: Pearlshare
 layout: item
 nav-menu: false
 show_tile: true

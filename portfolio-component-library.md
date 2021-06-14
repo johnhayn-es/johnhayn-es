@@ -1,9 +1,10 @@
 ---
-title: Component Library
-description: How I established POP's Design System and component library in Figma
+title: Switching to Figma
+description: How switching to Figma 
 date: 2019-09-01
 image: ''
-categories: portfolio
+categories: [portfolio, leadership]
+project: We Got POP
 layout: item
 nav-menu: false
 show_tile: true

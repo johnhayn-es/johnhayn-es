@@ -3,7 +3,8 @@ title: Guest Messaging
 description: An instant messenger powered by Slack
 date: 2018-08-01
 image: 'https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--notifications--messages+grey.png'
-categories: portfolio
+categories: [portfolio, design]
+project: YourWelcome
 layout: item
 nav-menu: false
 show_tile: true

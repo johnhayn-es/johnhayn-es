@@ -3,7 +3,8 @@ title: Web App
 description: Opening the pearly gates
 date: 2014-01-01
 image: 'https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/Calendar+-+booking+slide.png'
-categories: portfolio
+categories: [portfolio, design]
+project: Pearlshare
 layout: item
 nav-menu: false
 show_tile: true

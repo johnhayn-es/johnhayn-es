@@ -3,7 +3,8 @@ title: Self Check-In
 description: Self check-in for vacation rental guests
 date: 2018-10-01
 image: 'https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--check-in--modal--rating.png'
-categories: portfolio
+categories: [portfolio, design]
+project: YourWelcome
 layout: item
 nav-menu: false
 show_tile: true
