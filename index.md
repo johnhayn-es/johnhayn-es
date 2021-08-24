@@ -9,14 +9,14 @@ show_tile: false
 
 Hello. Here's a little information about me. 
 
-If you read my résumé you will notice that my career combines three interconnected disciplines; design, growth and storytelling. This combination enables me to do the work I do today. I am a full-stack designer; not only seeing the design process through from end-to-end, but also building a deep understanding of the levers for commercial and customer success. 
+If you read my résumé you will notice that my career combines three interconnected disciplines; design, growth and storytelling. This combination enables me to do the work I do today. 
 
-I'm a jack of all trades:
+I am a full-stack product designer and a jack of all trades:
 
-* User research, ideation and validation; I'm a proponent for <a href="https://www.interaction-design.org/literature/topics/user-centered-design">User Centered Design ↗</a>, focusing on the user's needs at each stage of the process.
-* Design iterations; I use the principles of <a href="https://bradfrost.com/blog/post/atomic-web-design/">Atomic Design ↗</a> to establish a library of reusable components that enable me to quickly create high-fidelity prototypes for user testing.
-* Developer handover; I believe that design and development is a collaborative process and make efforts to bring developers into the design process as early as possible, in order to deeply understand the technical challenges or opportunities that can be taken. I combine prototypes with annotated project files and, where necessary, author specific documentation to communicate how something is intended to work.
-* Measuring value; I am data-driven and well-versed in writing SQL (PostgresQL and MySQL) queries to surface data, then reporting the results (via a Google Sheets or data-vis tools like Domo or Data Studio). I use these skills at all stages of the design process and have also built reports for other key stakeholders to help them measure the impact of my designs. 
+* Strategy, vision and mission; crafting design strategies to help the company reach its goals and communicate them across the team
+* User research and validation; I'm a proponent for placing <a href="https://www.interaction-design.org/literature/topics/user-centered-design">User Centered Design ↗</a> at the heart of the agile process, surfacing research insights quickly so that we can make faster decisions
+* Design assets; I use the principles of <a href="https://bradfrost.com/blog/post/atomic-web-design/">Atomic Design ↗</a> to establish a library of reusable components that enable me to quickly create high-fidelity prototypes to communicate my ideas
+* Measuring value; I am data-driven and well-versed in writing SQL (PostgresQL and MySQL) queries to surface data, then reporting the results (via a Google Sheets or data-vis tools like Domo or Data Studio).
 
 In the last 7+ years I have worked on a variety of digital products and services including:
 
