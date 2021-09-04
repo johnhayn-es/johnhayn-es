@@ -52,7 +52,7 @@
 
 				a {
 					&:hover {
-						color: inherit !important;
+						color: _palette(bg) !important;
 					}
 				}
 			}
@@ -68,7 +68,7 @@
 			}
 
 			&:before {
-				@include vendor('transition', 'opacity 0.4s ease');
+				@include vendor('transition', 'opacity 0.9s ease');
 				bottom: 0;
 				content: '';
 				display: block;
