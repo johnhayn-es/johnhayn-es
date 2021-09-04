@@ -83,6 +83,9 @@
 	h1 {
 		font-size: 4em;
 		font-family: _font(header);
+		background: linear-gradient(90deg, rgba(0,31,32,1) 0%, rgba(195,0,110,1) 100%);
+		  -webkit-background-clip: text;
+		  -webkit-text-fill-color: transparent;
 	}
 
 	h2 {

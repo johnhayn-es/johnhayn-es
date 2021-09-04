@@ -15,8 +15,8 @@ I'm a Senior Product Designer building a platform for a smarter, fairer entertai
 My career, thus far, has combined three interconnected disciplines; design, growth and storytelling. This combination enables me to do the work I do today:
 
 * Strategy, vision and mission; crafting design strategies to help the company reach its goals and communicate them across the team
-* User research and validation; I'm a proponent for placing <a href="https://www.interaction-design.org/literature/topics/user-centered-design">User Centered Design ↗</a> at the heart of the Agile process, conducting field studies and surfacing insights quickly so that the team can make faster decisions
-* Design assets; I use the principles of <a href="https://bradfrost.com/blog/post/atomic-web-design/">Atomic Design ↗</a> to establish a library of reusable components that enable me to quickly create high-fidelity prototypes to communicate my ideas
+* User research and validation; I'm a proponent for placing user-centred design at the heart of the Agile process, conducting field studies and surfacing insights quickly so that the team can make faster decisions
+* Design assets; I use Figma to create boards and prototypes to communicate my ideas 
 * Measuring value; I am data-driven and well-versed in writing SQL (PostgresQL and MySQL) to query databases and building custom reports to visualise and interpret the data
 
 I offer coaching and mentorship sessions over lunch, email me to find out more and book a slot (mail [at] johnhayn.es).
