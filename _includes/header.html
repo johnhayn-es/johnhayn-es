@@ -5,12 +5,15 @@
 	<header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
 		<a href="{{ '../' | relative_url }}" class="logo"><h1 style="margin: 0;">John Haynes</h1></a>
 		<nav>
-			<a href="#menu" ><button class="special big">View menu</button></a>
+			<a href="{{ '../' | relative_url }}" style="text-decoration: none;"><h4>About</h4></a>
+			<a href="{{ '../portfolio' | relative_url }}" style="text-decoration: none;"><h4>Portfolio</h4></a>
+			<a href="{{ '../blog' | relative_url }}" style="text-decoration: none;"><h4>Blog</h4></a>
+			<!-- <a href="#menu" ><button class="special big">View menu</button></a> -->
 		</nav>
 	</header>
 
 	<!-- Menu -->
-	<nav id="menu">
+<!-- 	<nav id="menu">
 		<ul class="links">
 	        {% for page in site.pages %}
 			    {% if page.layout == "home"%}
@@ -27,4 +30,4 @@
 	            <li><a href="{{ action.url | absolute_url }}" class="special button fit">{{ action.label }}</a></li>
             {% endfor %}
 	    </ul>
-	</nav>
+	</nav> -->
