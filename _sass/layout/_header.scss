@@ -31,8 +31,7 @@
 
 	#header {
 		@include vendor('display', 'flex');
-		background: rgb(222,176,207);
-		background: linear-gradient(0deg, rgba(222,176,207,1) 0%, rgba(213,245,244,1) 100%);
+		background: _palette(bg);
 		color: _palette(fg-bold);
 		/*box-shadow: 0 0 0.25em 0 rgba(0,0,0,0.15);*/
 		cursor: default;
