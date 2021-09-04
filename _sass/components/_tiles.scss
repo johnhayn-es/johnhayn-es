@@ -82,6 +82,10 @@
 				position: absolute;
 				width: 100%;
 				z-index: 2;
+				background-color: _palette(accent2);
+				-webkit-transition: background 1s ease;
+			    -ms-transition: background 1s ease;
+			    transition: background 1s ease;
 			}
 
 			&:after {
@@ -94,9 +98,6 @@
 				top: 0;
 				width: 100%;
 				z-index: 1;
-				-webkit-transition: background 1000ms ease;
-			    -ms-transition: background 1000ms ease;
-			    transition: background 1000ms ease;
 			}
 
 			&:hover {
