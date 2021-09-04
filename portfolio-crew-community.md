@@ -7,8 +7,7 @@ categories: [portfolio, analysis]
 project: We Got POP
 layout: item
 nav-menu: false
-show_tile: true
-password: true
+show_tile: false
 ---
 
 ## About the project 

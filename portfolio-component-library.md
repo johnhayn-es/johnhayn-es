@@ -8,13 +8,9 @@ project: We Got POP
 layout: item
 nav-menu: false
 show_tile: true
-password: true
 ---
 
 POP had a problem. Business was ramping up and clients were demanding more and more from the software. Design resource was thin on the ground and struggling to keep up with increasing demand. With no component library in place and an inexperienced designer at the helm, the design process was fraught with delays and tensions were running high. 
-
-**Platform:** Web
-**Role:** Senior Product Designer
 
 ## Objective(s)
 
