@@ -16,9 +16,7 @@ I'm a Senior Product Designer and lead the design team building a platform for a
 
 Over the last 8+ years I have held product and growth roles on a variety of projects including native apps, SaaS web platforms, B2C subscription services and enterprise software.
 
-My career combines three interconnected disciplines; product design, growth and storytelling. 
-
-This combination enables me to do the work I do today:
+My career combines three interconnected disciplines; product design, growth and storytelling. This combination enables me to do the work I do today:
 
 * Principles; Establishing the fundamental purpose of the design function within the organisation
 * Strategy; implementing strategies to help the organisation reach its goals
