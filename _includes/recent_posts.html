@@ -7,7 +7,6 @@
     </span>
     <header class="major">
       <h2><a href="{{ post.url  | relative_url }}" class="link">{{ post.title }}</a></h2>
-<!--       <h5>{% for category in post.categories limit:1 %}{{ category }}{% endfor %}{% for category in post.categories offset:1 %}, {{ category }}{% endfor %}</h5> -->
       {% if post.description %}<p style="text-transform: normal; ">{{ post.description }}</p>{% endif %}
     </header>
   </article>
