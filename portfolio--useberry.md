@@ -1,6 +1,6 @@
 ---
 title: Remote Field Studies
-description: Customer journey mapping in Useberry
+description: Using customer journey maps to validate UX
 date: 2021-01-01
 image: ''
 categories: [portfolio, research, payroll]
