@@ -71,13 +71,13 @@
 			}
 
 			&:before {
-				@include vendor('transition', 'opacity 0.8s ease');
+				@include vendor('transition', 'opacity 1.2s ease');
 				bottom: 0;
 				content: '';
 				display: block;
 				height: 100%;
 				left: 0;
-				opacity: 0.95;
+				opacity: 0.98;
 				position: absolute;
 				width: 100%;
 				z-index: 2;
