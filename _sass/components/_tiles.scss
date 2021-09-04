@@ -72,6 +72,7 @@
 
 			&:before {
 				@include vendor('transition', 'opacity 0.2s ease');
+				@include vendor('transform', 'scale(1.05)');
 				bottom: 0;
 				content: '';
 				display: block;
@@ -99,7 +100,6 @@
 				&:before {
 					opacity: 1;
 					background: linear-gradient(90deg, rgba(0,31,32,1) 0%, rgba(195,0,110,1) 100%);
-					@include vendor('transform', 'scale(1.05)');
 				}
 			}
 
