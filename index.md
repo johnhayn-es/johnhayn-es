@@ -14,7 +14,7 @@ I'm a Senior Product Designer and lead the design team building a platform for a
 
 I offer remote coaching and mentorship sessions over lunch, email me to find out more and book a slot (mail [at] johnhayn.es).
 
-#### Career
+### Career
 
 My career, thus far, has combined three interconnected disciplines; design, growth and storytelling. This combination enables me to do the work I do today:
 
@@ -31,7 +31,7 @@ In the last 7+ years I have worked on a variety of digital products and services
 * White-label enterprise software
 * Designing and publishing design systems
 
-#### On my own time
+### On my own time
 
 In my spare time:
 
