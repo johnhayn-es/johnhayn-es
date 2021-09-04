@@ -16,9 +16,9 @@
     <div class="inner">
         <header class="major">
             <h1>{{ page.title }}</h1>
+            <h3>{{ page.description }}</h3>
         </header>
         {% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
-        <h2>{{ page.description }}</h2>
         <p>{{ page.address }}</p>
         <p>{{ content }}</p>
     </div>
