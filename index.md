@@ -10,27 +10,29 @@ image: '../assets/images/john.png'
 
 Hello. Here's a little about me. 
 
-I'm a Senior Product Designer and lead the design team building a platform for a smarter, fairer entertainment industry at <a href="http://www.wegotpop.com">We Got POP ↗</a>. I built this Jekyll site to host <a href="../portfolio">my portfolio</a> and <a href="../blog">blog</a>.
-
-I offer remote coaching and mentorship sessions over lunch, email me to find out more and book a slot (mail [at] johnhayn.es).
+I'm a Senior Product Designer and lead the design team building a platform for a smarter, fairer entertainment industry at <a href="http://www.wegotpop.com">We Got POP ↗</a>. I built this site to host <a href="../portfolio">my portfolio</a> and <a href="../blog">blog</a>.
 
 ### Career
 
-My career, thus far, has combined three interconnected disciplines; design, growth and storytelling. This combination enables me to do the work I do today:
+Over the last 8+ years I have held product and growth roles on a variety of projects including native apps, SaaS web platforms, B2C subscription services and enterprise software.
 
-* Definition of design principles; establishing the fundamental purpose of the design function within the organisation
-* Strategy, vision and mission; implementing design strategies to help the organisation reach its goals
-* User research and validation; I'm a proponent for placing user-centred design at the heart of the Agile process, conducting field studies and surfacing insights quickly so that the team can make faster decisions
-* Design assets; I use Figma to create boards and prototypes to communicate my ideas 
-* Measuring value; I am data-driven and well-versed in writing SQL (PostgresQL and MySQL) to query databases and building custom reports to visualise and interpret the data
+My career combines three interconnected disciplines; product design, growth and storytelling. 
 
-In the last 7+ years I have worked on a variety of digital products and services including:
+This combination enables me to do the work I do today:
 
-* Native iOS and Android apps
-* B2C subscription services
-* SaaS web platforms 
-* White-label enterprise software
-* Designing and publishing design systems
+* Principles; Establishing the fundamental purpose of the design function within the organisation
+* Strategy; implementing strategies to help the organisation reach its goals
+* Research; placing UCD at the heart of the Agile process, surfacing insights quickly so that the team can make faster decisions
+* Design; creating boards and hi-fi prototypes to communicate my ideas 
+* Measuring value; querying databases to build custom reports to visualise and interpret data
+
+### Design principles
+
+I am guided by three personal design principles:
+
+* Intention; the work I produce is justifiable and has meaning
+* Accuracy; the work I produce is accurate
+* Collaboration; my role is to work with others to find the solution
 
 ### In my own time
 
@@ -39,3 +41,5 @@ In the last 7+ years I have worked on a variety of digital products and services
 * I play guitar for <a href="https://thegreatfire.co.uk">The Great Fire</a>
 * I (build and) maintain websites for my friends: <a href="http://printersplayhouse.co.uk">Printer's Playhouse</a> and <a href="http://moarguitars.com">Moar Guitars</a>
 * I'm currently learning as much as I can about web3 technology
+
+I offer remote coaching and mentorship sessions over lunch, email me to find out more and book a slot (mail [at] johnhayn.es).
