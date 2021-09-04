@@ -35,14 +35,14 @@
 		));
 		border-bottom: dotted 1px;
 		color: _palette(accent1);
+		font-family: _font(header);
+		font-weight: _font(weight-bold);
+		line-height: 1;
 		text-decoration: none;
 
 		&:hover {
 			border-bottom-color: transparent;
 			color: _palette(accent1) !important;
-			font-family: _font(header);
-			font-weight: _font(weight-bold);
-			line-height: 1;
 		}
 
 		&:active {
