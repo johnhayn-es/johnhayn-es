@@ -5,7 +5,7 @@ landing-title: 'John Haynes'
 description: Product Designer
 author: null
 show_tile: false
-image: '../assets/images/john-and-stacey.jpg'
+image: '../assets/images/john.png'
 ---
 
 Hello. Here's a little information about me. 
