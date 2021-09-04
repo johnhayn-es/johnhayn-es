@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Designing our bedroom pt I
+title: A foray into cabinetry
 description: The design, budget and project plan.
 published: true
 categories: [Design, Jekyll]
