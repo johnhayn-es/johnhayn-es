@@ -32,9 +32,7 @@ In the last 7+ years I have worked on a variety of digital products and services
 * White-label enterprise software
 * Designing and publishing design systems
 
-### On my own time
-
-In my spare time:
+### In my own time
 
 * I enjoy getting out for a run
 * I held an advisory position for GoVia Thameslink between 2015 and 2019
