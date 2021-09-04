@@ -10,7 +10,7 @@ image: '../assets/images/john-and-stacey.jpg'
 
 Hello. Here's a little information about me. 
 
-I'm a Senior Product Designer building a platform for a smarter, fairer entertainment industry at <a href="http://www.wegotpop.com">We Got POP ↗</a>.
+I'm a Senior Product Designer building a platform for a smarter, fairer entertainment industry at <a href="http://www.wegotpop.com">We Got POP ↗</a>. I built this Jekyll site to host <a href="../portfolio">my portfolio</a> and <a href="../blog">blog</a>.
 
 My career, thus far, has combined three interconnected disciplines; design, growth and storytelling. This combination enables me to do the work I do today:
 
