@@ -8,7 +8,7 @@ show_tile: false
 image: '../assets/images/john.png'
 ---
 
-Hello. Here's a little information about me. 
+Hello. Here's a little about me. 
 
 I'm a Senior Product Designer and lead the design team building a platform for a smarter, fairer entertainment industry at <a href="http://www.wegotpop.com">We Got POP ↗</a>. I built this Jekyll site to host <a href="../portfolio">my portfolio</a> and <a href="../blog">blog</a>.
 
