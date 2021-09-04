@@ -9,14 +9,12 @@ show_tile: false
 
 Hello. Here's a little information about me. 
 
-If you read my résumé you will notice that my career combines three interconnected disciplines; design, growth and storytelling. This combination enables me to do the work I do today. 
-
-I am a full-stack product designer and a jack of all trades:
+If you read my résumé you will notice that my career combines three interconnected disciplines; design, growth and storytelling. This combination enables me to do the work I do today as a product designer:
 
 * Strategy, vision and mission; crafting design strategies to help the company reach its goals and communicate them across the team
-* User research and validation; I'm a proponent for placing <a href="https://www.interaction-design.org/literature/topics/user-centered-design">User Centered Design ↗</a> at the heart of the agile process, surfacing research insights quickly so that we can make faster decisions
+* User research and validation; I'm a proponent for placing <a href="https://www.interaction-design.org/literature/topics/user-centered-design">User Centered Design ↗</a> at the heart of the Agile process, conducting field studies and surfacing insights quickly so that the team can make faster decisions
 * Design assets; I use the principles of <a href="https://bradfrost.com/blog/post/atomic-web-design/">Atomic Design ↗</a> to establish a library of reusable components that enable me to quickly create high-fidelity prototypes to communicate my ideas
-* Measuring value; I am data-driven and well-versed in writing SQL (PostgresQL and MySQL) queries to surface data, then reporting the results (via a Google Sheets or data-vis tools like Domo or Data Studio).
+* Measuring value; I am data-driven and well-versed in writing SQL (PostgresQL and MySQL) to query databases and building custom reports to visualise and interpret the data
 
 In the last 7+ years I have worked on a variety of digital products and services including:
 
