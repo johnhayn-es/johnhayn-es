@@ -30,7 +30,7 @@
       <h2><a href="{{ tile.url  | relative_url }}" class="link">{{ tile.title }}</a></h2>
       {% endif %}
       <p style="margin-top:1em;">{{ tile.description }}</p>
-      <p>{{ page.date | date: "%B %Y" }}</p>
+      <p>{{ tile.date | date: "%B %Y" }}</p>
     </header>
   </article>
 {% endfor %}
