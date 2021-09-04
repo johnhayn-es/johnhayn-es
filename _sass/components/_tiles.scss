@@ -94,15 +94,14 @@
 				top: 0;
 				width: 100%;
 				z-index: 1;
+				-webkit-transition: background 1000ms linear;
+			    -ms-transition: background 1000ms linear;
+			    transition: background 1000ms linear;
 			}
 
 			&:hover {
 				&:before {
 					background: linear-gradient(90deg, rgba(0,31,32,1) 0%, rgba(195,0,110,1) 100%);
-					-webkit-transition: background 1000ms linear;
-				    -ms-transition: background 1000ms linear;
-				    transition: background 1000ms linear;
-
 				}
 			}
 
