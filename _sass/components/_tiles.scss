@@ -114,43 +114,43 @@
 
 			&:nth-child(6n - 5) {
 				&:before {
-					/*background-color: _palette(accent1);*/
-					background: linear-gradient(90deg, rgba(0,31,32,1) 0%, rgba(195,0,110,1) 100%);
+					background-color: _palette(accent2);
+					/*background: linear-gradient(90deg, rgba(0,31,32,1) 0%, rgba(195,0,110,1) 100%);*/
 				}
 			}
 
 			&:nth-child(6n - 4) {
 				&:before {
-					/*background-color: _palette(accent2);*/
-					background: linear-gradient(90deg, rgba(0,31,32,1) 0%, rgba(195,0,110,1) 100%);
+					background-color: _palette(accent2);
+					/*background: linear-gradient(90deg, rgba(0,31,32,1) 0%, rgba(195,0,110,1) 100%);*/
 				}
 			}
 
 			&:nth-child(6n - 3) {
 				&:before {
-					/*background-color: _palette(accent3);*/
-					background: linear-gradient(90deg, rgba(0,31,32,1) 0%, rgba(195,0,110,1) 100%);
+					background-color: _palette(accent2);
+					/*background: linear-gradient(90deg, rgba(0,31,32,1) 0%, rgba(195,0,110,1) 100%);*/
 				}
 			}
 
 			&:nth-child(6n - 2) {
 				&:before {
-					/*background-color: _palette(accent4);*/
-					background: linear-gradient(90deg, rgba(0,31,32,1) 0%, rgba(195,0,110,1) 100%);
+					background-color: _palette(accent2);
+					/*background: linear-gradient(90deg, rgba(0,31,32,1) 0%, rgba(195,0,110,1) 100%);*/
 				}
 			}
 
 			&:nth-child(6n - 1) {
 				&:before {
-					/*background-color: _palette(accent5);*/
-					background: linear-gradient(90deg, rgba(0,31,32,1) 0%, rgba(195,0,110,1) 100%);
+					background-color: _palette(accent2);
+					/*background: linear-gradient(90deg, rgba(0,31,32,1) 0%, rgba(195,0,110,1) 100%);*/
 				}
 			}
 
 			&:nth-child(6n) {
 				&:before {
-					/*background-color: _palette(accent6);*/
-					background: linear-gradient(90deg, rgba(0,31,32,1) 0%, rgba(195,0,110,1) 100%);
+					background-color: _palette(accent2);
+					/*background: linear-gradient(90deg, rgba(0,31,32,1) 0%, rgba(195,0,110,1) 100%);*/
 				}
 			}
 		}
