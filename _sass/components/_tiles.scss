@@ -45,6 +45,7 @@
 			header {
 				position: relative;
 				z-index: 3;
+				color: _palette(bg) !important;
 			}
 
 			h3 {
@@ -74,7 +75,7 @@
 				display: block;
 				height: 100%;
 				left: 0;
-				opacity: 0.5;
+				opacity: 0.9;
 				position: absolute;
 				width: 100%;
 				z-index: 2;
