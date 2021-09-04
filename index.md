@@ -18,7 +18,8 @@ I offer remote coaching and mentorship sessions over lunch, email me to find out
 
 My career, thus far, has combined three interconnected disciplines; design, growth and storytelling. This combination enables me to do the work I do today:
 
-* Strategy, vision and mission; crafting design strategies to help the company reach its goals and communicate them across the team
+* Definition of design principles; establishing the fundamental purpose of the design function within the organisation
+* Strategy, vision and mission; implementing design strategies to help the organisation reach its goals
 * User research and validation; I'm a proponent for placing user-centred design at the heart of the Agile process, conducting field studies and surfacing insights quickly so that the team can make faster decisions
 * Design assets; I use Figma to create boards and prototypes to communicate my ideas 
 * Measuring value; I am data-driven and well-versed in writing SQL (PostgresQL and MySQL) to query databases and building custom reports to visualise and interpret the data
