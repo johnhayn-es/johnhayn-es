@@ -94,9 +94,9 @@
 				top: 0;
 				width: 100%;
 				z-index: 1;
-				-webkit-transition: background 1000ms linear;
-			    -ms-transition: background 1000ms linear;
-			    transition: background 1000ms linear;
+				-webkit-transition: background 1000ms ease;
+			    -ms-transition: background 1000ms ease;
+			    transition: background 1000ms ease;
 			}
 
 			&:hover {
