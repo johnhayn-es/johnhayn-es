@@ -1,44 +1,28 @@
 <!DOCTYPE html>
+<!--
+    Forty by HTML5 UP
+    html5up.net | @ajlkn
+    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
 <html>
 
-    {% include head.html %}
+{% include head.html %}
 
-    <body>
-
-        {% include header.html %}
-
-        <div id="main">
-            <!-- <section class="inner row" style="background:#2F2F30; color:#EDEBF2;"> -->
-            {% if site.description %}
-            <section class="inner row">
-                <!-- Image -->
-                <div class="4u 12u(small)">
-                    </div>
-                    <!-- Intro text -->
-                    <div class="6u 12u(small)">
-                        <!-- {% if site.subtitle %}
-                        <h2 style="margin-bottom:0.5em">{{ site.subtitle }}</h2>
-                        {% endif %} -->
-                        <p>If you read <a href="/about">about me</a> you will notice that my career combines three interconnected disciplines; design, growth and storytelling.</p>
-                        <p>This combination enables me to do the <a href="/portfolio">work I do today</a>.</p>
-                        <ul class="actions">
-                            {% for action in site.actions limit:1 %}
-                            <li><a href="{{ action.url | absolute_url }}" class="special button fit">{{ action.label }}</a></li>
-                            {% endfor %}
-                            {% for action in site.actions offset:1 %}
-                            <li><a href="{{ action.url | absolute_url }}" class="button fit">{{ action.label }}</a></li>
-                            {% endfor %}
-                        </ul>
-                    </div>
-            </section>
-            {% endif %}
-
-            <!-- Blog Articles -->
-            {% include recent_posts.html %}
-
-            {% include footer.html %}
+<body>
+    {% include header.html %} 
+    <div id="main">
+        <div class="inner row">
+            <div class="8u 12u(small)">
+            {{ content }} 
+            </div>
+            <div class="4u 12u(small)">
+                <span class="image">
+                  <img src="{{ page.image }}" alt="{{ page.title }}" />
+                </span>
+            </div>
         </div>
-
-    </body>
+    </div>
+    {% include footer.html %}
+</body>
 
 </html>

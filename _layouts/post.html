@@ -16,11 +16,16 @@
     <div class="inner">
         <header class="major">
             <h1>{{ page.title }}</h1>
-            <h3>{{ page.description }}</h3>
         </header>
-        {% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
-        <p>{{ page.address }}</p>
-        <p>{{ content }}</p>
+        <div class="inner row">
+            <div class="8u 12u(small)">
+                <h3>{{ page.description }}</h3>
+                <p>{{ content }}</p>
+            </div>
+            <div class="4u 12u(small)">
+            {% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
+            </div>
+        </div>
     </div>
 </section>
 
