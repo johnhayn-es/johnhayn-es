@@ -21,7 +21,7 @@
                 <p>{{ content }}</p>
             </div>
             <div class="4u 12u(small)">
-            {% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
+            {% if page.image %}<span class="image"><img src="{{ page.image }}" alt="{{ page.title }}" /></span>{% endif %}
             </div>
         </div>
     </div>

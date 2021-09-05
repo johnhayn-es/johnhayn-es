@@ -3,7 +3,7 @@ title: Running a Design Sprint
 description: Modifying the GV Design sprint to sfind solutions with the Customer Success Team
 date: 2021-01-01
 image: ''
-categories: [portfolio, research]
+categories: [research]
 project: We Got POP
 layout: item
 nav-menu: false

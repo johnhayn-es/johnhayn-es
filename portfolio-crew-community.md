@@ -3,7 +3,7 @@ title: Crew Community Reporting
 description: Providing insight by consolidating disparate reports
 date: 2019-09-02
 image: ''
-categories: [portfolio, analysis]
+categories: [analysis]
 project: We Got POP
 layout: item
 nav-menu: false
