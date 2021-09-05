@@ -1,11 +1,11 @@
 ---
-title: Remote Field Studies
-description: Using customer journey maps to validate UX
-date: 2021-01-01
+title: Remote-first research
+description: Conducting field studies remotely using Useberry
+date: 2021-08-01
 image: ''
 categories: [portfolio, research, payroll]
 project: We Got POP
-layout: item
+layout: page
 nav-menu: false
 show_tile: false
 ---

@@ -5,7 +5,7 @@ date: 2021-01-01
 image: ''
 categories: [portfolio, research]
 project: We Got POP
-layout: item
+layout: page
 nav-menu: false
 show_tile: false
 ---

@@ -1,28 +1,36 @@
 <!DOCTYPE html>
-<!--
-	Forty by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
 <html>
 
 {% include head.html %}
 
 <body>
-	{% include header.html %} 
-    <div id="main">
-    	<div class="inner row">
-    		<div class="8u 12u(small)">
-    		{{ content }} 
-    		</div>
-    		<div class="4u 12u(small)">
-	    		<span class="image">
-			      <img src="{{ page.image }}" alt="{{ page.title }}" />
-			    </span>
-    		</div>
-		</div>
-	</div>
-	{% include footer.html %}
+
+    {% include header.html %} 
+    
+    
+<!-- Main -->
+<div id="main">
+
+<!-- One -->
+<section id="one">
+    <div class="inner">
+        <h1 style="margin:0;">{{ page.title }}</h1>
+        <h3 style="margin:0;">{{ page.description }}</h3>
+        <div class="inner row">
+            <div class="8u 12u(small)">
+                <p>{{ content }}</p>
+            </div>
+            <div class="4u 12u(small)">
+            {% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
+            </div>
+        </div>
+    </div>
+</section>
+
+</div>
+
+    {% include footer.html %}
+
 </body>
 
 </html>

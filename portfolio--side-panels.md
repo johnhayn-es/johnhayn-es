@@ -5,9 +5,9 @@ date: 2021-01-01
 image: ''
 categories: [design]
 project: We Got POP
-layout: item
+layout: page
 nav-menu: false
-show-tile: false
+show_tile: false
 ---
 
 ## Project outline

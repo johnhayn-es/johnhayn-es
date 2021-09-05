@@ -5,7 +5,7 @@ date: 2018-10-01
 image: 'https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--check-in--modal--rating.png'
 categories: [portfolio, design]
 project: YourWelcome
-layout: item
+layout: page
 nav-menu: false
 show_tile: true
 ---
