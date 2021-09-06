@@ -17,7 +17,7 @@ Over the last 8+ years I have held product and growth roles on a variety of proj
 
 My career combines three interconnected disciplines; product design, growth and storytelling. This combination enables me to do the work I do today:
 
-* Principles; Establishing the fundamental purpose of the design function within the organisation
+* Design principles; establishing the fundamental purpose of the design function within the organisation
 * Strategy; implementing strategies to help the organisation reach its goals
 * Research; placing UCD at the heart of the Agile process, surfacing insights quickly so that the team can make faster decisions
 * Design; creating boards and hi-fi prototypes to communicate my ideas 
