@@ -2,13 +2,15 @@
 title: Remote-first research
 description: Conducting field studies remotely using Useberry
 date: 2021-08-01
-image: '../assets/images/useberry-payroll.png'
+
 categories: [portfolio, research, payroll]
 project: We Got POP
 layout: page
 nav-menu: false
 show_tile: false
 ---
+
+<!-- image: '../assets/images/useberry-payroll.png' -->
 
 ## Project outline
 Since the beginning of 2020 I've been part of a small team at POP charged with building and launching an integrated Payroll solution built specifically to cater for the intricacies of film and television production contracts. Production accountants currently export sheets of sensitive data and share it with third parties who manage payroll for them, creating unnecessary risk and arbitrary deadlines. Production companies have already been using POP to contract their crews and manage their timesheets; building out a payroll service would provide the production's accounts team with controls to create payrolls and give them full visibility as their processed by the POP back-office team. 
