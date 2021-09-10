@@ -1,7 +1,7 @@
 ---
 title: Switching to Figma
 description: How switching to Figma 
-date: 2019-09-01
+date: 2021-01-01
 image: ''
 categories: [portfolio, leadership]
 project: We Got POP
