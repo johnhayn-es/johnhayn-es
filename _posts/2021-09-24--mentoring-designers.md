@@ -7,7 +7,7 @@ categories: [Leadership]
 image: '../assets/images/design-skills-audit.png'
 ---
 
-In this article I will provide a framework that enables you to set objectives with any designers you are mentoring (or managing). 
+In this article I will provide a [Figjam Framework](https://www.figma.com/file/gBhUG2KZEvdERCEHyuQdOX/Mentoring:-Template?node-id=0%3A1) that enables you to set objectives with any designers you are mentoring (or managing). 
 
 I developed this technique through managing my direct reports at POP, but also use it to add structure to the sessions with the designers that I mentor outside of the org. It's a work-in-progress - but so far I've received excellent feedback and it's really helped me to structure my thoughts.
 
