@@ -5,13 +5,10 @@ landing-title: 'John Haynes'
 author: null
 show_tile: false
 image: '../assets/images/john.png'
+excerpt_separator: <!--more-->
 ---
 
-Hello. Here's a little about me. 
-
-I'm a Senior Product Designer and lead the design team building a platform for a smarter, fairer entertainment industry at <a href="http://www.wegotpop.com">We Got POP ↗</a>. I built this site to host <a href="../portfolio">my portfolio</a> and <a href="../blog">blog</a>.
-
-### Career
+## Career
 
 Over the last 8+ years I have held product and growth roles on a variety of projects including native apps, SaaS web platforms, B2C subscription services and enterprise software.
 
@@ -27,16 +24,12 @@ My career combines three interconnected disciplines; product design, growth and 
 
 I am guided by three personal design principles:
 
-* Intention; the work I produce is justifiable and has meaning
-* Accuracy; the work I produce is accurate
-* Collaboration; my role is to work with others to find the solution
+* **Intention**; the work I produce is justifiable and has meaning
+* **Accuracy**; the work I produce is accurate
+* **Collaboration**; my role is to work with others to find the solution
 
-### In my own time
+## About me
 
-* I enjoy getting out for a run
-* I held an advisory position for GoVia Thameslink between 2015 and 2019
-* I play guitar for <a href="https://thegreatfire.co.uk">The Great Fire</a>
-* I (build and) maintain websites for my friends: <a href="http://printersplayhouse.co.uk">Printer's Playhouse</a> and <a href="http://moarguitars.com">Moar Guitars</a>
-* I'm currently learning as much as I can about web3 technology
+I enjoy getting out for a run. I held an advisory position for GoVia Thameslink between 2015 and 2019. I play guitar for <a href="https://thegreatfire.co.uk">The Great Fire</a>. I (build and) maintain websites for my friends: <a href="http://printersplayhouse.co.uk">Printer's Playhouse</a> and <a href="http://moarguitars.com">Moar Guitars</a>. I'm currently learning as much as I can about web3 technology.
 
-I offer remote coaching and mentorship sessions over lunch, email me to find out more and book a slot (mail [at] johnhayn.es).
+*I offer remote coaching and mentorship sessions over lunch, email me to find out more and book a slot (mail [at] johnhayn.es).*

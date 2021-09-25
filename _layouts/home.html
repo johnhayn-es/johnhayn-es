@@ -13,12 +13,22 @@
     <div id="main">
         <div class="inner row">
             <div class="8u 12u(small)">
-            {{ content }} 
+                <p>Hello. Here's a little about me.</p>
+                <p>I'm a Senior Product Designer and lead the design team at <a href="http://www.wegotpop.com">We Got POP ↗</a>, where we're building products and services to create a smarter, fairer entertainment industry.</p>
+                <p>I built this site to host <a href="../portfolio">my portfolio</a> and <a href="../blog">blog</a>, where I document things I create and share my thoughts about design.</p>
+                <p>
+                    {% for post in site.posts limit:1 %}
+                    Most recently, I have written about <a href="{{ post.url }}">{{post.title | downcase}}</a>.
+                    {% endfor %}
+                </p>
             </div>
             <div class="4u 12u(small)">
                 <span class="image">
                   <img src="{{ page.image }}" alt="{{ page.title }}" />
                 </span>
+            </div>
+            <div class="12u 12u(small)">
+            {{content|remove_first: page.excerpt}}
             </div>
         </div>
     </div>

@@ -9,7 +9,7 @@
 	body, input, select, textarea {
 		color: _palette(fg);
 		font-family: _font(family);
-		font-size: 17pt;
+		font-size: 23pt;
 		font-weight: _font(weight);
 		letter-spacing: _font(letter-spacing);
 		line-height: 1.65;
@@ -33,9 +33,9 @@
 			'color #{_duration(transition)} ease-in-out',
 			'border-bottom-color #{_duration(transition)} ease-in-out'
 		));
-		border-bottom: dotted 1px;
+		border-bottom: solid 1px;
 		color: _palette(accent1);
-		font-size: 1.2em;
+		font-size: 1em;
 		font-family: _font(header);
 		font-weight: _font(weight-bold);
 		line-height: 1;
@@ -62,18 +62,27 @@
 
 	p {
 		margin: 0 0 _size(element-margin) 0;
+		color: _font(font-body);
+		font-size: _font(body-size);
+	}
+
+	li {
+		color: _font(font-body);
+		font-size: _font(body-size);
 
 		a {
 			margin:0.2em;
 		}
+
 	}
 
 	h1, h2, h3, h4, h5, h6 { 
 		font-family: _font(family);
 		font-style: normal;
-		color: _palette(fg-bold);
+		color: _palette(font-header);
 		font-weight: _font(weight-bold);
-		margin: (_size(element-margin) * 0.5) 0;
+		margin-top: (_size(element-margin) * 0.75);
+		margin-bottom: (_size(element-margin) * 0.5);
 		/*letter-spacing:	0.1em;*/
 
 		a {
@@ -83,7 +92,7 @@
 	}
 
 	h1 {
-		font-size: 4em;
+		font-size: 6em;
 		font-family: _font(header);
 		background: linear-gradient(270deg, rgba(0,31,32,1) 0%, rgba(195,0,110,1) 100%);
 		  -webkit-background-clip: text;
@@ -91,18 +100,16 @@
 	}
 
 	h2 {
-		font-size: 2em;
+		font-size: 3em;
 		font-family: _font(header);
-		margin-bottom: 1em;
 	}
 
 	h3 {	
-		font-size: 1.8em;
-		margin-bottom: 1em;
+		font-size: 2em;
 	}
 
 	h4 {
-		font-size: 1.4em;
+		font-size: 1.8em;
 	}
 
 	h5 {

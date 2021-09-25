@@ -14,20 +14,23 @@
 	$size: (
 		border-radius:		4px,
 		element-height:		2.75em,
-		element-margin:		2em,
+		element-margin:		1em,
 		inner:				65em
 	);
 
 // Font.
 	$font: (
-		family:				('Noto Sans SC', serif),
-		header:				('Urbanist', sans-serif),
-		family-fixed:		('Noto Sans SC', serif),
-		cursive:			('Noto Sans SC', serif),
-		weight:				300,
+		family:				('Sarabun', sans-serif),
+		header:				('Sarabun', sans-serif),
+		family-fixed:		('Sarabun', sans-serif),
+		cursive:			('Sarabun', sans-serif),
+		weight:				500,
 		weight-bold:		600,
 		letter-spacing:		0,
-		letter-spacing-alt:	0
+		letter-spacing-alt:	0,
+		line-height: 		1em,
+		font-kerning: 		auto,
+		body-size: 			24px
 	);
  
 // Palette.
@@ -46,4 +49,6 @@
 		accent4:			#001f20,
 		accent5:			#001f20,
 		accent6:			#001f20,
+		font-header: 		#1d1d1f,
+		font-body: 			#6e6e73
 	);

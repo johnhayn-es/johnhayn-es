@@ -2,7 +2,6 @@
 title: Remote-first research
 description: Conducting field studies remotely using Useberry
 date: 2021-08-01
-
 categories: [portfolio, research, payroll]
 project: We Got POP
 layout: page

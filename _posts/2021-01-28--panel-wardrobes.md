@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A foray into cabinetry
+title: Designing and building built-in wardrobes
 description: The design, budget and project plan.
 published: true
 categories: [Design, Jekyll]
