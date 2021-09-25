@@ -7,7 +7,7 @@ categories: [Leadership]
 image: '../assets/images/design-skills-audit.png'
 ---
 
-In this article I will provide a [Figjam Framework](https://www.figma.com/file/gBhUG2KZEvdERCEHyuQdOX/Mentoring:-Template?node-id=0%3A1) that enables you to set objectives with any designers you are mentoring (or managing). 
+In this article I will provide a [Figjam Framework ↗](https://www.figma.com/file/gBhUG2KZEvdERCEHyuQdOX/Mentoring:-Template?node-id=0%3A1) that enables you to set objectives with any designers you are mentoring (or managing). 
 
 I developed this technique through managing my direct reports at POP, but also use it to add structure to the sessions with the designers that I mentor outside of the org. It's a work-in-progress - but so far I've received excellent feedback and it's really helped me to structure my thoughts.
 
@@ -32,7 +32,7 @@ This is achieved by getting them to rank design and design-adjacent skills by th
 
 ### Framework template
 
-I've [set up a Figjam document](https://www.figma.com/file/gBhUG2KZEvdERCEHyuQdOX/Mentoring:-Template?node-id=0%3A1) (that you're welcome to duplicate). I will duplicate the document for each mentee and set it up ready for them to fill in before our first session together. 
+I've [set up a Figjam document ↗](https://www.figma.com/file/gBhUG2KZEvdERCEHyuQdOX/Mentoring:-Template?node-id=0%3A1) (that you're welcome to duplicate). I will duplicate the document for each mentee and set it up ready for them to fill in before our first session together. 
 
 This should be completed independently before your first mentoring session. Once they have their own document, you can share the link and instructions - the aim is to arrive at the first session having both reviewed their choices. 
 
