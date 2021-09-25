@@ -10,15 +10,15 @@ excerpt_separator: <!--more-->
 
 ## Career
 
-Over the last 8+ years I have held product and growth roles on a variety of projects including native apps, SaaS web platforms, B2C subscription services and enterprise software.
+Over the last 8+ years I have held a number of product and growth roles, but most recently I have dedicated my time to design and design leadrship.
 
-My career combines three interconnected disciplines; product design, growth and storytelling. This combination enables me to do the work I do today:
+My career to-date combines three interconnected disciplines; product design, strategy and storytelling. This combination enables me to do the work I do today:
 
 * Design principles; establishing the fundamental purpose of the design function within the organisation
-* Strategy; implementing strategies to help the organisation reach its goals
-* Research; placing UCD at the heart of the Agile process, surfacing insights quickly so that the team can make faster decisions
-* Design; creating boards and hi-fi prototypes to communicate my ideas 
-* Measuring value; querying databases to build custom reports to visualise and interpret data
+* Design and business strategy; implementing strategies to help the organisation reach its goals
+* Research; practicing UCD and surfacing insights quickly so that the team can make faster decisions
+* Product and service design; building effective and efficient solutions
+* Measuring value; analysing the impact of the changes we make
 
 ### Design principles
 
