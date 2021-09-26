@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 
 ## Career
 
-Over the last 8+ years I have held a number of product and growth roles, but most recently I have dedicated my time to design and design leadership.
+My first job involved teaching celebrities like Ant & Dec how to tweet. Over the last 8+ years I have held a number of product and growth roles, but most recently I have dedicated my time to design and design leadership.
 
 My career to-date combines three interconnected disciplines; product design, strategy and storytelling. This combination enables me to do the work I do today:
 
