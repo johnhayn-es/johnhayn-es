@@ -1,5 +1,5 @@
 ---
-title: Reservations Calendar
+title: Reservations calendar
 description: Manage your vacation rental property bookings
 date: 2018-06-01
 image: 'https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/Calendar+-+booking+slide.png'

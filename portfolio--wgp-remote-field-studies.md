@@ -1,5 +1,5 @@
 ---
-title: Remote-first research
+title: Remote field studies
 description: Conducting field studies remotely using Useberry
 date: 2021-08-01
 categories: [portfolio, research, payroll]

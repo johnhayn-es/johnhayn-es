@@ -1,5 +1,5 @@
 ---
-title: Guest Verification
+title: Guest verification
 description: Check a guest's identity to protect against fraud
 date: 2018-10-10
 image: 'https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--check-in--modal--welcome.png'

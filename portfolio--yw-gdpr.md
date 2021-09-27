@@ -1,5 +1,5 @@
 ---
-title: GDPR Compliant Stays
+title: GDPR compliant stays
 description: How to ensure your vacation rental guests read and understand your terms
 date: 2018-10-01
 image: 'https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--check-in--modal--rating.png'

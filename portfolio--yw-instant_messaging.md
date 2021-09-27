@@ -1,5 +1,5 @@
 ---
-title: Guest Messaging
+title: Guest messaging
 description: An instant messenger powered by Slack
 date: 2018-08-01
 image: 'https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--notifications--messages+grey.png'

@@ -19,6 +19,9 @@
                         <a class="button special active" data-filter="*">All</a>
                         <a id="research" class="button special" data-filter=".research">Research (<span id="countResearch">0</span>)</a>
                         <a id="design" class="button special" data-filter=".design">Design (<span id="countDesign">0</span>)</a>
+                        <a id="team" class="button special" data-filter=".team">Management (<span id="countTeam">0</span>)</a>
+                        <a id="strategy" class="button special" data-filter=".strategy">Strategy (<span id="countStrategy">0</span>)</a>
+                        <a id="leadership" class="button special" data-filter=".leadership">Leadership (<span id="countLeadership">0</span>)</a>
                         <a id="analysis" class="button special" data-filter=".analysis">Analysis (<span id="countAnalysis">0</span>)</a>
                       </div> 
                     </section>
@@ -57,6 +60,33 @@
   } else {
   document.getElementById('countDesign').innerHTML = countDesign;
   console.log(countDesign);
+  }
+
+  var countTeam = document.getElementsByClassName('team').length;
+  if (countTeam === 0) {
+  document.getElementById('team').style.display = 'none';
+  console.log('hide countTeam');
+  } else {
+  document.getElementById('countTeam').innerHTML = countTeam;
+  console.log(countTeam);
+  }
+
+  var countStrategy = document.getElementsByClassName('strategy').length;
+  if (countStrategy === 0) {
+  document.getElementById('strategy').style.display = 'none';
+  console.log('hide countStrategy');
+  } else {
+  document.getElementById('countStrategy').innerHTML = countStrategy;
+  console.log(countStrategy);
+  }
+
+  var countLeadership = document.getElementsByClassName('leadership').length;
+  if (countLeadership === 0) {
+  document.getElementById('leadership').style.display = 'none';
+  console.log('hide countLeadership');
+  } else {
+  document.getElementById('countLeadership').innerHTML = countLeadership;
+  console.log(countLeadership);
   }
 
   var countAnalysis = document.getElementsByClassName('analysis').length;

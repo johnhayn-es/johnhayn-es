@@ -1,5 +1,5 @@
 ---
-title: Location Picker
+title: Location picker
 description: Override an address with an exact location
 date: 2015-11-01
 image: 'https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/IMG_4761.PNG'

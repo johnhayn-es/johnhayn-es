@@ -1,5 +1,5 @@
 ---
-title: Self Check-In 
+title: Self check-in 
 description: Self check-in for vacation rental guests
 date: 2018-10-01
 image: 'https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--check-in--modal--rating.png'
