@@ -22,6 +22,8 @@ My career to date combines three interconnected disciplines; design, strategy an
 * Product and service design; building effective and efficient solutions
 * Measuring value; analysing the impact of the changes we make
 
+You can see all the jobs I've had on [my LinkedIn profile](https://www.linkedin.com/in/johnmahaynes/).
+
 ### My principles
 
 I am guided by three personal principles:
