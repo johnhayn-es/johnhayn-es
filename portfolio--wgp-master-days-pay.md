@@ -1,6 +1,6 @@
 ---
 title: Master Day's Pay
-description: How and why we upgraded from Sketch to Figma
+description: A payroll system to coll
 date: 2021-05-01
 image: '../assets/images/wgp-mdp--master-days-pay.png'
 categories: [portfolio, strategy]
@@ -12,10 +12,11 @@ show_tile: true
 
 
 ## Problem 
-The entrertainemt industry is reliant on creaky and often paper-based processes. To manage risk, a production company will set up an SPV for a film or television series - as there is no continuity of service, professionals in this industry will bring their own paperwork templates with them. 
-Production Accountants are no different - they rely on spreadsheets that first they built years ago and bespoke Payroll services that they send carefully curated exports to, in order to send the payroll. 
+Production accounts often need to make adjustments to what someone is due to be paid in their upcoming payroll. However, each crew member's weekly pay can be derided from multiple timesheets and other standalone payments. The adjustment might affect how much overtime and holiday the crew member is owed, so it's important to take all payment sources into account when making the adjustment. 
 
-This area is ripe for disruption. The PAs have no visibility of the process and, due to the nature of working with an external service provider, have additional pressure to work within the provider’s deadlines. It’s clear that with POP’s access to data from the production portal, we’re in a position to give Production Accountants the tools and information they need to bring these processes in-house.
+Production accountants work in teams and often need to be audited, so it's important that everybody can see all the changes that have been made. 
+
+The Master Day's Pay solution aims to provide a clear, visual way to view the delta of all payment sources and provide users with the tools they need to make accurate adjustments to the total pay an individual is due for any given day they've worked.
 
 ### My role 
 I worked alongside the Product Director as the sole product designer on this project to conduct over 40 hours of user interviews over a three-months, then produce prototype iterations as we start preparing for general release. POP has recently been acquired by Entertainment Partners who have built and maintained the incumbent accountancy products used by the industry. They have just given us (the POP team) the green light to bring our new payroll product to market.
