@@ -1,7 +1,7 @@
 ---
 title: Master Day's Pay
 description: How and why we upgraded from Sketch to Figma
-date: 2021-01-01
+date: 2021-05-01
 image: '../assets/images/wgp-mdp--master-days-pay.png'
 categories: [portfolio, strategy]
 project: We Got POP
