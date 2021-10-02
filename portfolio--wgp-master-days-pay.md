@@ -1,9 +1,9 @@
 ---
 title: Master Day's Pay
-description: A payroll system to coll
+description: A payroll system for making adjustments
 date: 2021-05-01
 image: '../assets/images/wgp-mdp--master-days-pay.png'
-categories: [portfolio, strategy]
+categories: [strategy]
 project: We Got POP
 layout: item
 nav-menu: false
