@@ -7,7 +7,7 @@ categories: [portfolio, strategy]
 project: We Got POP
 layout: item
 nav-menu: false
-show_tile: true
+show_tile: false
 ---
 
 
