@@ -3,7 +3,7 @@ title: Remote field studies
 description: Conducting field studies remotely using Useberry
 date: 2021-08-01
 categories: [portfolio, research, payroll]
-image: '../assets/images/useberry-4.png'
+image: '../assets/images/useberry-4.jpeg'
 project: We Got POP
 layout: page
 nav-menu: false
@@ -42,7 +42,7 @@ Production payroll is a repeated weekly process where the same actions happen at
 * Wednesday: get approval from the Financial Controller and Line Producer for each payroll 
 * Thursday and Friday: calculating tax and pension contribution^, doing final checks^ and running payroll^ (^ usually done by a third party service)
 
-![A screenshot showing the weekly process](../assets/images/useberry-3.png) 
+![A screenshot showing the weekly process]('../assets/images/useberry-3.jpeg') 
 
 We used this schedule as the template of the Useberry scenario; we laid out the tasks and questions to emulate the weekly tasks, hoping this would put the participants in the right mindset to accurately complete the tasks and compare it to their current service provider.
 
