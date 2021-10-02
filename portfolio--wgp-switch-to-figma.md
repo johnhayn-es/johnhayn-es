@@ -3,7 +3,7 @@ title: Switching to Figma
 description: How and why we upgraded from Sketch to Figma
 date: 2021-01-01
 image: '../assets/images/design-skills-audit.png'
-categories: [portfolio, team]
+categories: [portfolio, strategy]
 project: We Got POP
 layout: item
 nav-menu: false
