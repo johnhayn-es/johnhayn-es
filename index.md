@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 
 ## Career
 
-My first full-time job involved teaching celebrities like Ant & Dec how to tweet. In the same role, I ended up producing hours of online and social content; even earning a small television commission (which still, years later, feels like a backwards leap). 
+My first full-time job involved teaching celebrities like Ant & Dec how to tweet. In the same role, I ended up producing hours of online and social content - going behind the scenes on a lot of the shows I'd dreamt about working on. 
 
 Over the last 8+ years I have held a number of key product and growth roles in small, fast-moving businesses. For years I positioned myself as an adept and versatile supporting player - the sort of person that start-up founders seek as a key early employee. More recently I have dedicated my time to specifically focus on design and design leadership.
 
