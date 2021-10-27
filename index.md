@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 
 ## Career
 
-For years I positioned myself as an adept and versatile supporting player - the sort of person that start-up founders seek as a key early employee. More recently I have dedicated my time to specifically focus on design strategy and leadership.
+I am highly motivated and thrive in a fast-paced environment with an air of uncertainty. I am an adept and versatile supporting player, the sort of person that start-up founders seek as a key early employee. I have recently focused on design strategy and leadership, defining how the design function supports the business as a whole.
 
 My career to date combines three interconnected disciplines; design, strategy and storytelling. This combination enables me to do the work I do today:
 
