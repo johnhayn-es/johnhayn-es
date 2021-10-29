@@ -22,6 +22,11 @@ My career to date combines three interconnected disciplines; design, strategy an
 
 You can see all the jobs I've had on [my LinkedIn profile](https://www.linkedin.com/in/johnmahaynes/).
 
+
+## About me
+
+I enjoy getting out for a run. During a phase where I was commuting to London, I held an advisory position for Govia Thameslink (southern Railway, Thameslink, Gatwick Express, Great Northern) between 2015 and 2019. I play guitar for <a href="https://thegreatfire.co.uk">The Great Fire</a>. I (build and) maintain websites for my friends: <a href="http://printersplayhouse.co.uk">Printer's Playhouse</a> and <a href="http://moarguitars.com">Moar Guitars</a>. I'm currently learning as much as I can about web3 technology.
+
 ### My principles
 
 I am guided by three personal principles:
@@ -29,9 +34,5 @@ I am guided by three personal principles:
 * **Intention**; the work I produce is justifiable and has meaning
 * **Collaboration**; my role is to work with others to find the solution
 * **Accuracy**; the work I produce is accurate
-
-## About me
-
-I enjoy getting out for a run. During a phase where I was commuting to London, I held an advisory position for Govia Thameslink (southern Railway, Thameslink, Gatwick Express, Great Northern) between 2015 and 2019. I play guitar for <a href="https://thegreatfire.co.uk">The Great Fire</a>. I (build and) maintain websites for my friends: <a href="http://printersplayhouse.co.uk">Printer's Playhouse</a> and <a href="http://moarguitars.com">Moar Guitars</a>. I'm currently learning as much as I can about web3 technology.
 
 *I offer remote coaching and mentorship sessions over lunch, email me to find out more and book a slot (mail [at] johnhayn.es).*
