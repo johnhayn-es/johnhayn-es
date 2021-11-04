@@ -261,7 +261,7 @@ table {
 
 .fa {
     display: inline-block;
-    font: normal normal normal 14px/1 FontAwesome;
+    font: normal normal normal 20px/1 FontAwesome;
     font-size: inherit;
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
@@ -270,7 +270,7 @@ table {
 
 .fa-lg {
     font-size: 1.33333333em;
-    line-height: .75em;
+    line-height: 1em;
     vertical-align: -15%
 }
 
