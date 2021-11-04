@@ -31,6 +31,7 @@
                     <a href="{{site.baseurl}}{{post.url}}">
                         {{ post.title | escape }}
                     </a>
+
                     {% if site.toc.enabled %}
                         {% if page.url == post.url %}
                             {% include toc.html html=content h_min=site.toc.h_min h_max=site.toc.h_max %}
@@ -49,12 +50,15 @@
                 {% if post.categories contains "portfolio" %}
                 {% if page.url == post.url %}
                 <li class="chapter active" data-level="1.2" data-path="{{site.baseurl}}{{post.url}}">
+                    <a href="../">
+                        {{ post.title | escape }} ▴
+                    </a>
                 {% else %}
                 <li class="chapter" data-level="1.1" data-path="{{site.baseurl}}{{post.url}}">
-                {% endif %}
                     <a href="{{site.baseurl}}{{post.url}}">
-                        {{ post.title | escape }}
+                        {{ post.title | escape }} ▾
                     </a>
+                {% endif %}
                     {% if site.toc.enabled %}
                         {% if page.url == post.url %}
                             {% include toc.html html=content h_min=site.toc.h_min h_max=site.toc.h_max %}
@@ -72,12 +76,16 @@
                 {% if post.categories contains "blog" %}
                 {% if page.url == post.url%}
                 <li class="chapter active" data-level="1.2" data-path="{{site.baseurl}}{{post.url}}">
+                    <a href="../">
+                        {{ post.title | escape }} ▴
+                    </a>
                 {% else %}
                 <li class="chapter" data-level="1.1" data-path="{{site.baseurl}}{{post.url}}">
-                {% endif %}
                     <a href="{{site.baseurl}}{{post.url}}">
-                        {{ post.title | escape }}
+                        {{ post.title | escape }} ▾
                     </a>
+                {% endif %}
+
                     {% if site.toc.enabled %}
                         {% if page.url == post.url %}
                             {% include toc.html html=content h_min=site.toc.h_min h_max=site.toc.h_max %}

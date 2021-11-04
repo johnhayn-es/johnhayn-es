@@ -6,6 +6,10 @@ email:            mail@johnhayn.es
 description: >
   Design and strategy
 
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: https://johnhayn.es # the base hostname & protocol for your site
+permalink: /:title/
+
 version:          1.0
 gitbook_version:  3.2.3
 

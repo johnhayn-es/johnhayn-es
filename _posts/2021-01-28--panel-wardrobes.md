@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Designing and building built-in wardrobes
+title: Designing cabinets
 description: The design, budget and project plan.
 published: true
 category: blog
