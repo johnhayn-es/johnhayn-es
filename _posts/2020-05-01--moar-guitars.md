@@ -3,7 +3,7 @@ layout: post
 title: Building Moar Guitars
 description: How to tune a website
 published: true
-categories: [Design, Jekyll]
+category: blog
 ---
 
 ### TL;DR

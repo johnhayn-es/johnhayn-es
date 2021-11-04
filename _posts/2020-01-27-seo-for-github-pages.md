@@ -3,7 +3,7 @@ layout: post
 title: SEO for Github Pages
 description: What I've learned about SEO and Jekyll
 published: true
-categories: [SEO, Design, Jekyll]
+category: blog
 ---
 
 You've got Github Pages up and running, installed your Jekyll theme and added a custom domain. Your site is looking great, but when you're looking for it on Google (as you hope so many others are) you can't find any trace if it. 
@@ -131,7 +131,7 @@ I've started to create pages that specifically target SEO terms that relate to o
 * I also published details of other local bands that don't have websites websites - I'm hoping that, by mentioning them on our site, our review/recommendation of them could index
 
 ## Next Steps
-There's still a few thing left to do: 
+There's still a few things left to do: 
 
 * Youtube videos; obviously we'll post clips of the music we play, but I also want to shoot some videos targeting the questions our audience will ask. YouTube videos are rich in meta info and should make a significant difference to those pages (I think the videos themselves rank within the results, so should help with domain authority on the topic)
 * Optimising the Open Graph content to include `if` statements, to pull in the page/post content when it's there

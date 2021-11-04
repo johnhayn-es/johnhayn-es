@@ -3,7 +3,7 @@ layout: post
 title: Measuring up
 description: Being smart about moving home
 published: true
-categories: [Design]
+category: blog
 ---
 This post is the first in what will no-doubt be a preposterously long series about purchasing and modernising our first home.
 

@@ -1,39 +1,10 @@
-<!-- Footer -->
-	<footer id="footer">
-		<div class="row 100% uniform">
-			<div class="12u 12u$(medium) links">
-				<div class="footerbox">
-					<p style="margin-bottom: 0">&copy; {{ site.title }} 2021&nbsp;&nbsp;|&nbsp;&nbsp;{{ site.subtitle }}
-				</div>
-			</div>
-			<div class="4u 12u$(medium) links">
-				<div class="footerbox" style="text-align: right;">
-					<ul class="icons">
-						{% if site.facebook_url %}
-						<li><a href="{{ site.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
-						{% endif %}
-						{% if site.twitter_url %}
-						<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
-						{% endif %}
-						{% if site.instagram_url %}
-						<li><a href="{{ site.instagram_url }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
-						{% endif %}
-						{% if site.youtube_url %}
-						<li><a href="{{ site.youtube_url }}" class="icon alt fa-youtube" target="_blank"><span class="label">LinkedIn</span></a></li>
-						{% endif %}
-					</ul>
-				</div>
-			</div>
-		</div>
-	</footer>
+<script src="{{site.baseurl}}/gitbook/gitbook.js"></script>
+<script src="{{site.baseurl}}/gitbook/theme.js"></script>
 
-</div>
+<script src="{{site.baseurl}}/gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+<script src="{{site.baseurl}}/gitbook/gitbook-plugin-sharing/buttons.js"></script>
 
-<!-- Scripts -->
-	<script src="{{ "assets/js/jquery.min.js" | absolute_url }}"></script>
-	<script src="{{ "assets/js/jquery.scrolly.min.js" | absolute_url }}"></script>
-	<script src="{{ "assets/js/jquery.scrollex.min.js" | absolute_url }}"></script>
-	<script src="{{ "assets/js/skel.min.js" | absolute_url }}"></script>
-	<script src="{{ "assets/js/util.js" | absolute_url }}"></script>
-	<!--[if lte IE 8]><script src="{{ "assets/js/ie/respond.min.js" | absolute_url }}"></script><![endif]-->
-	<script src="{{ "assets/js/main.js" | absolute_url }}"></script>
+<!-- <script src="../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+<script src="../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+<script src="../gitbook/gitbook-plugin-search/search-engine.js"></script>
+<script src="../gitbook/gitbook-plugin-search/search.js"></script> -->

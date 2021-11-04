@@ -3,7 +3,7 @@ layout: post
 title: Vaccinating the public
 description: What I've learned administering 100+ doses of the COVID-19 Vaccine
 published: false
-categories: [Volunteering]
+category: blog
 ---
 
 This article summarises what has been a wholey worthwhile and satisfying experience, with a complete teardown of a terrible digital experience thrown in for good measure. Overall, I would highly recommend volunteering - whether it's via the incredible St John's Ambulance, or for someone else. The words of critique in this article are meant in good faith. 

@@ -3,7 +3,7 @@ layout: post
 title: Haynes Effects
 description: How I designed and built my first guitar pedal
 published: true
-categories: [Design]
+category: blog
 ---
 What did you do when we first went into lockdown? I did what anyone would do... I designed a new guitar pedal.
 

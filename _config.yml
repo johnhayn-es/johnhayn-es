@@ -1,49 +1,45 @@
-# site settings
-title: John Haynes
-subtitle: Design and Strategy
-email: mail@johnhayn.es
-description: The blog of Product Designer John Haynes
-logo: '/assets/images/logo.svg'
-github: [metadata]
-portfoliopassword: getpaid
-excerpt_separator: <!--more-->
+# Configurations
+title:            John Haynes
+longtitle:        Jekyll Gitbook
+author:           John Haynes
+email:            mail@johnhayn.es
+description: >
+  Design and strategy
 
-# Contact Details
-author:
-street_address: 
-city: 
-state: 
-zip_code: 
-country: 
-phone: 
-facebook_url: 
-instagram_url: 
-youtube_url: 
+version:          1.0
+gitbook_version:  3.2.3
 
-# Action Buttons
-actions:  
-  # - label: 'Book'
-  #   url: '/book'
-  # - label: 'Test'
-  #   url:  '/test' 
-  # - label: 'Test2'
-  #   url:  '/test2' 
 
-# Formspree
+rss:              RSS
 
-# homepage tiles
-tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 5
+toc:
+  enabled: true
+  h_min: 1
+  h_max: 3
 
-# sitemap
+# markdown render engine.
+markdown:         kramdown
+kramdown:
+  auto_ids:               true
+  input:                  GFM
+  math_engine:            mathjax
+  smart_quotes:           lsquo,rsquo,ldquo,rdquo
+  toc_levels:             1..6
+  syntax_highlighter:     rouge
+  syntax_highlighter_opts:
+    guess_lang:           true
 
-# config
-setup: blog # airtable or blog; controls the section on the home page and other parts of the site
-repository: 
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: https://johnhayn.es # the base hostname & protocol for your site
-permalink: /:title/
-future: true
-markdown: kramdown
-sass:
-  style: compressed
+markdown_ext:     markdown,mkdown,mkdn,mkd,md
+
+# Permalinks
+permalink:        /:categories/:year-:month-:day-:title:output_ext
+
+exclude:
+  - _drafts
+
+destination:      ./_site
+incremental:      false
+regenerate:       true
+
+plugins:
+  - jemoji

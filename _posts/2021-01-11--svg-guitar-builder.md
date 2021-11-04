@@ -3,7 +3,7 @@ layout: post
 title: Visual Guitar Designer
 description: A custom guitar design for Instagram
 published: true
-categories: [Design, Jekyll]
+category: blog
 ---
 
 After taking delivery of my very own <a href="https://moarguitars.com/guitars/wayfair/">Moar Guitars Wayfair</a>, I felt that the standard order form on the site didn't really do the guitar justice. I got in touch with Dan and we began work on a <a href="https://moarguitars.com/design-wayfair/">visual guitar designer</a>.

@@ -3,7 +3,7 @@ layout: post
 title: Designing and building built-in wardrobes
 description: The design, budget and project plan.
 published: true
-categories: [Design, Jekyll]
+category: blog
 ---
 
 After finally securing a completion date after many delays we revisited our plans for renovation and, as the delays have meant we've built up more savings, we decided on something slightly more ambitious. We had originally intended to only redecorate the living room, but upon planning the layout of the furniture in our bedroom we realised that our wardrobes and drawers would be wasting a lot of space. 

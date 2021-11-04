@@ -1,18 +1,31 @@
 ---
 layout: home
-title: Home
-landing-title: 'John Haynes'
-author: null
-show_tile: false
+description: Designer and strategist
 image: '../assets/images/john.png'
-excerpt_separator: <!--more-->
 ---
+
+I work with teams to design game-changing products & services through thoughtful research, value-based design strategy and hands-on collaboration.
+
+This site hosts my [portfolio] [3] and [blog] [4], where I document things I create and share my thoughts about design.
+
+{% assign reversed_posts = site.posts %}
+{% for post in reversed_posts | limit:1 %}
+{% if post.categories contains "blog" %}
+Most recently, I have written about <a href="{{ post.url }}">{{post.title | downcase}}</a>.
+{% endif %}
+{% endfor %}
+
+I enjoy running and staying fit. I'm interested in the future of work & travel and previously held an advisory positions at Govia Thameslink (2015 and 2019) and London Water-Enabled Transport (2016-2017). I play guitar for [The Great Fire ↗] [8]{:target="_blank"}. I build and maintain websites for my friends: [Printer’s Playhouse ↗] [6]{:target="_blank"} and [Moar Guitars ↗] [7]{:target="_blank"}.
 
 ## Career
 
-I am highly motivated and thrive in a fast-paced environment with an air of uncertainty. I am an adept and versatile supporting player, the sort of person that start-up founders seek as a key early employee. I have recently focused on design strategy and leadership, defining how the design function supports the business as a whole.
+In the last 8 years I have held a number of key product and growth roles in small, fast-moving businesses. I'm currently  Senior Product Designer at [We Got POP ↗] [1]{:target="_blank"}, where I lead the design team and am the principal designer working on the [Production Portal ↗] [2]{:target="_blank"}. 
 
-My career to date combines three interconnected disciplines; design, strategy and storytelling. This combination enables me to do the work I do today:
+I am highly motivated and thrive in a fast-paced environment with an air of uncertainty. I am an adept and versatile supporting player, the sort of person that start-up founders seek as a key early employee.
+
+My career to date combines three interconnected disciplines; design, strategy and storytelling. 
+
+This combination enables me to do the work I do today:
 
 * Principles; establishing the fundamental purpose of the design function within the organisation
 * Strategy; simple, value-based strategies to help the organisation reach its goals
@@ -20,19 +33,14 @@ My career to date combines three interconnected disciplines; design, strategy an
 * Product & service design; building effective and efficient solutions
 * Measuring value; analysing the impact of the changes we make
 
-You can see all the jobs I've had on [my LinkedIn profile](https://www.linkedin.com/in/johnmahaynes/).
+You can see all the jobs I’ve had on my [LinkedIn profile ↗] [5]{:target="_blank"}.
 
 
-## About me
-
-I enjoy getting out for a run. During a phase where I was commuting to London, I held an advisory position for Govia Thameslink (southern Railway, Thameslink, Gatwick Express, Great Northern) between 2015 and 2019. I play guitar for <a href="https://thegreatfire.co.uk">The Great Fire</a>. I (build and) maintain websites for my friends: <a href="http://printersplayhouse.co.uk">Printer's Playhouse</a> and <a href="http://moarguitars.com">Moar Guitars</a>.
-
-### My principles
-
-I am guided by three personal principles:
-
-* **Intention**; the work I produce is justifiable and has meaning
-* **Collaboration**; my role is to work with others to find the solution
-* **Accuracy**; the work I produce is accurate
-
-*I offer remote coaching and mentorship sessions over lunch, email me to find out more and book a slot (mail [at] johnhayn.es).*
+[1]: https://wegotpop.com 
+[2]: https://www.wegotpop.com/pages/uk/production/
+[3]: /portfolio 
+[4]: /blog
+[5]: https://www.linkedin.com/in/johnmahaynes/
+[6]: https://www.printersplayhouse.co.uk
+[7]: https://www.moarguitars.com
+[8]: https://www.thegreatfire.co.uk

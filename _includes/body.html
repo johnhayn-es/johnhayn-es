@@ -1,0 +1,36 @@
+<div class="body-inner">
+    <div class="book-header" role="navigation">
+        <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i>
+            {% if page.title %}
+                <a href="../" >{{ page.title | escape }}</a>
+            {% else %}
+                <a href="../" >{{ site.title | escape }}</a>
+            {% endif %}
+        </h1>
+    </div>
+    <div class="page-wrapper" tabindex="-1" role="main">
+        <div class="page-inner">
+            <div id="book-search-results">
+                <div class="search-noresults">
+                    <section class="normal markdown-section">
+                        {% if page.title %}
+                            <h1 id="{{ page.id }}" style="margin-bottom: 0;">{{ page.title | escape }}</h1>
+                        {% endif %}
+                        {% if page.layout == "post" %}
+                        {% if page.end-date %}
+                        <h3 style="margin-top: 0;">({{ page.date | date: "%b %Y" }} - {{ page.end-date | date: "%b %Y" }})</h3>
+                        {% else %}
+                        <h3 style="margin-top: 0;">{{ page.date | date: "%b %Y" }}</h3>
+                        {% endif %}
+                        {% endif %}
+
+                        {{ content }}
+                    </section>
+                </div>
+
+                 <!-- {%- include search.html -%} -->
+            </div>
+        </div>
+    </div>
+</div>

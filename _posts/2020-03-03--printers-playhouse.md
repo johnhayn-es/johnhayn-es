@@ -3,7 +3,7 @@ layout: post
 title: Printers Playhouse
 description: A website for 
 published: false
-categories: [Design, Jekyll]
+category: blog
 ---
 
 In a [recent post](/jekyll-for-good), I mentioned that I would be continuing to teach myself how to build and deploy websites via Github Pages by building websites for good causes. The [new site for Printers Playhouse](https://www.printersplayhouse.co.uk) has been live for just over two weeks and we've already seen more than 500 people come to the site.

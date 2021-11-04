@@ -1,38 +1,89 @@
-<!DOCTYPE html>
-<!--
-    Forty by HTML5 UP
-    html5up.net | @ajlkn
-    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
+<!DOCTYPE HTML>
+<html lang="en" >
+    <head>
 
-{% include head.html %}
+        {%- include head.html -%}
 
-<body>
-    {% include header.html %} 
-    <div id="main">
-        <div class="inner row">
-            <div class="8u 12u(small)">
-                <p>I work with teams to design game-changing products & services through thoughtful research, value-based design strategy and hands-on collaboration.</p>
-                <p>In the last 8 years I have held a number of key product and growth roles in small, fast-moving businesses. I'm currently a Senior Product Designer at <a href="https://www.wegotpop.com/">We Got POP ↗</a>, where I lead the design team.</p>
-                <p>This site hosts <a href="../portfolio">my portfolio</a> and <a href="../blog">blog</a>, where I document things I create and share my thoughts about design.</p>
-                <p>
-                    {% for post in site.posts limit:1 %}
-                    Most recently, I have written about <a href="{{ post.url }}">{{post.title | downcase}}</a>.
-                    {% endfor %}
-                </p>
+        {% assign reversed_posts = site.posts | reverse %}
+
+        {% if reversed_posts %}
+            <link rel="next" href="{{site.baseurl}}{{reversed_posts.first.url}}" />
+        {% endif %}
+    </head>
+    <body>
+        <div class="book">
+
+            {%- include toc-date.html -%}
+
+            <div class="book-body">
+                <div class="body-inner">
+                    <div class="book-header" role="navigation">
+                        <h1>
+                            <i class="fa fa-circle-o-notch fa-spin"></i>
+                            {% if page.title %}
+                                <a href="../" >{{ page.title | escape }}</a>
+                            {% else %}
+                                <a href="../" >{{ site.title | escape }}</a>
+                            {% endif %}
+                        </h1>
+                    </div>
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            <div id="book-search-results">
+                                <div class="search-noresults">
+                                    <section class="normal markdown-section home-container">
+                                        <div class="home-item">
+                                            {% if page.title %}
+                                                <h1 id="{{ page.id }}" style="margin-bottom: 0;">{{ page.title | escape }}</h1>
+                                            {% endif %}
+                                            {% if page.description %}
+                                                <h2 id="{{ page.id }}" style="margin-top: 0;">{{ page.description | escape }}</h3>
+                                            {% endif %}
+
+                                            {% if page.layout == "post" %}
+                                            {% if page.end-date %}
+                                            <h3>({{ page.date | date: "%b %Y" }} - {{ page.end-date | date: "%b %Y" }})</h3>
+                                            {% else %}
+                                            <h3>{{ page.date | date: "%b %Y" }}</h3>
+                                            {% endif %}
+                                            {% endif %}
+
+                                            {{ content }}
+                                        </div>
+                                        <div class="home-item">
+                                            <span class="image ">
+                                              <img src="{{ page.image }}" alt="{{ page.title }}" />
+                                            </span>
+                                        </div>
+
+                                    </section>
+                                </div>
+
+                                 <!-- {%- include search.html -%} -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                {% if reversed_posts %}
+                    <!-- <a href="{{site.baseurl}}{{reversed_posts.first.url}}" class="navigation navigation-next navigation-unique" aria-label="Next page: {{reversed_posts.first.title}}">
+                        <i class="fa fa-angle-right"></i>
+                    </a> -->
+                {% endif %}
             </div>
-            <div class="4u 12u(small)">
-                <span class="image">
-                  <img src="{{ page.image }}" alt="{{ page.title }}" />
-                </span>
-            </div>
-            <div class="12u 12u(small)">
-            {{content|remove_first: page.excerpt}}
-            </div>
+
+            <!-- {%- include search.html -%} -->
+
+            <script>
+            var gitbook = gitbook || [];
+            gitbook.push(function() {
+                gitbook.page.hasChanged({%- include metadata-home.json.tpl -%});
+            });
+            </script>
         </div>
-    </div>
-    {% include footer.html %}
-</body>
 
+        {%- include footer.html -%}
+
+    </body>
 </html>

@@ -1,13 +1,10 @@
-source 'https://rubygems.org'
+# frozen_string_literal: true
 
-gem 'jekyll'
-gem 'github-pages', group: :jekyll_plugins
-gem 'jekyll-sitemap', group: :jekyll_plugins
-gem 'airtable', group: :jekyll_plugins
-gem 'bigdecimal'
-gem 'activesupport'
-gem 'json'
-gem 'jekyll-watch'
-gem 'html-proofer'
-gem 'commonmarker'
-gem 'dotenv', group: :jekyll_plugins
+source "https://rubygems.org"
+
+git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
+gem "jekyll"
+gem 'jemoji'
+gem 'webrick'
+
+# gem "rails"

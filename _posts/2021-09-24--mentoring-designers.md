@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Mentoring designers and setting objectives
+title: Mentoring designers (Framework)
 description: A framework to help anyone set objectives for the designers they are mentoring
 published: true
-categories: [Leadership]
+category: blog
 image: '../assets/images/design-skills-audit.png'
 ---
 

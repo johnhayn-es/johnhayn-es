@@ -1,133 +1,54 @@
-<!DOCTYPE html>
-<html>
+<!DOCTYPE HTML>
+<html lang="en" >
+    <head>
 
-    {% include head.html %}
+        {%- include head.html -%}
 
+        {% if page.previous %}
+            <link rel="prev" href="{{site.baseurl}}{{page.previous.url}}" />
+        {% else %}
+            <link rel="prev" href="{{site.baseurl}}/" />
+        {% endif %}
+
+        {% if page.next %}
+            <link rel="next" href="{{site.baseurl}}{{page.next.url}}" />
+        {% endif %}
+    </head>
     <body>
+        <div class="book">
 
-        {% include header.html %}
+            {%- include toc-date.html -%}
 
-        <div id="main">
-            <!-- <section class="inner row" style="background:#2F2F30; color:#EDEBF2;"> -->
-            {% if site.description %}
-            <section class="inner row">
-                <!-- Intro text -->
-                <div class="12u 12u(small)">
-                  <div class="box">
-                    <p>Due to the nature of my contract, my most recent work is confidential and cannot be published publicly. If you're interested in more recent examples, please contact me directly: mail [at] johnhayn.es</p>
-                  </div>
-                </div>
-                <div class="12u 12u(small)">
-                    <h2>Design Portfolio</h2>
-                    <section style="display: inline-block; width: auto;">
-                      <div class="button-group filter-button-group">
-                        <a class="button special active" data-filter="*">All</a>
-                        <a id="research" class="button special" data-filter=".research">Research (<span id="countResearch">0</span>)</a>
-                        <a id="design" class="button special" data-filter=".design">Design (<span id="countDesign">0</span>)</a>
-                        <a id="team" class="button special" data-filter=".team">Management (<span id="countTeam">0</span>)</a>
-                        <a id="strategy" class="button special" data-filter=".strategy">Strategy (<span id="countStrategy">0</span>)</a>
-                        <a id="leadership" class="button special" data-filter=".leadership">Leadership (<span id="countLeadership">0</span>)</a>
-                        <a id="analysis" class="button special" data-filter=".analysis">Analysis (<span id="countAnalysis">0</span>)</a>
-                      </div> 
-                    </section>
-                </div>
-            </section>
-            {% endif %}
+            <div class="book-body">
 
-            <!-- Blog Articles -->
-            {% include portfolio-grid.html %}
+                {%- include body.html -%}
 
-            <section class="inner row">
-              <div class="12u 12u(small)">
-                <div class="box">
-                  <p>Due to the nature of my contract, a lot of my most recent work is confidential and cannot be published publicly - if you're interested in specific examples, please contact me directly.</p>
-                </div>
-              </div>
-              <div class="12u 12u(small)">
-                  {% include footer.html %}
-              </div>
-            </section>
+                {% if page.previous %}
+                    <a href="{{site.baseurl}}{{page.previous.url}}" class="navigation navigation-prev navigation-unique" aria-label="Previous page: {{page.previous.title}}">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                {% else %}
+                    <a href="{{site.baseurl}}/" class="navigation navigation-prev navigation-unique" aria-label="Previous page: {{site.title}}">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                {% endif %}
+
+                {% if page.next %}
+                    <a href="{{site.baseurl}}{{page.next.url}}" class="navigation navigation-next navigation-unique" aria-label="Next page: {{page.next.title}}">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                {% endif %}
+            </div>
+
+            <script>
+            var gitbook = gitbook || [];
+            gitbook.push(function() {
+                gitbook.page.hasChanged({%- include metadata-post.json.tpl -%});
+            });
+            </script>
         </div>
 
-<script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
-<script src="https://unpkg.com/isotope-layout@3.0/dist/isotope.pkgd.js"></script>
-<script>
-// Modal counts
-  function countTypes() {
-  var countResearch = document.getElementsByClassName('research').length;
-  if (countResearch === 0) {
-  document.getElementById('research').style.display = 'none';
-  console.log('hide countResearch');
-  } else {
-  document.getElementById('countResearch').innerHTML = countResearch;
-  console.log(countResearch);
-  }
-
-  var countDesign = document.getElementsByClassName('design').length;
-  if (countDesign === 0) {
-  document.getElementById('design').style.display = 'none';
-  console.log('hide countDesign');
-  } else {
-  document.getElementById('countDesign').innerHTML = countDesign;
-  console.log(countDesign);
-  }
-
-  var countTeam = document.getElementsByClassName('team').length;
-  if (countTeam === 0) {
-  document.getElementById('team').style.display = 'none';
-  console.log('hide countTeam');
-  } else {
-  document.getElementById('countTeam').innerHTML = countTeam;
-  console.log(countTeam);
-  }
-
-  var countStrategy = document.getElementsByClassName('strategy').length;
-  if (countStrategy === 0) {
-  document.getElementById('strategy').style.display = 'none';
-  console.log('hide countStrategy');
-  } else {
-  document.getElementById('countStrategy').innerHTML = countStrategy;
-  console.log(countStrategy);
-  }
-
-  var countLeadership = document.getElementsByClassName('leadership').length;
-  if (countLeadership === 0) {
-  document.getElementById('leadership').style.display = 'none';
-  console.log('hide countLeadership');
-  } else {
-  document.getElementById('countLeadership').innerHTML = countLeadership;
-  console.log(countLeadership);
-  }
-
-  var countAnalysis = document.getElementsByClassName('analysis').length;
-  if (countAnalysis === 0) {
-  document.getElementById('analysis').style.display = 'none';
-  console.log('hide countAnalysis');
-  } else {
-  document.getElementById('countAnalysis').innerHTML = countAnalysis;
-  console.log(countAnalysis);
-  }
-  }
-
-  window.onload = countTypes;
-</script>
-<script>
-  // init Isotope
-  var $grid = $('.grid').isotope({
-    // options
-    
-  });
-  // filter items on button click
-  $('.filter-button-group').on( 'click', 'a', function() {
-    var filterValue = $(this).attr('data-filter');
-    $grid.isotope({ filter: filterValue });
-  });
-  $('.button-group a.button').on('click', function(){
-    $('.button-group a.button').removeClass('active');
-    $(this).addClass('active');
-  });
-</script>
+        {%- include footer.html -%}
 
     </body>
-
 </html>
