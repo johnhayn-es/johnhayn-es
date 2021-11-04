@@ -274,6 +274,14 @@
 .book.color-theme-2 .book-summary ul.summary li i.fa-check {
   color: #33cc33;
 }
+
+.book.color-theme-2 .book-summary ul.summary li h1, 
+.book.color-theme-2 .book-summary ul.summary li h2, 
+.book.color-theme-2 .book-summary ul.summary li h3,
+.book.color-theme-2 .book-summary ul.summary li h4,
+.book.color-theme-2 .book-summary ul.summary li h5  {
+  color: #f4f4f5;
+}
 .book.color-theme-2 .book-summary ul.summary li.done > a {
   color: #62687f;
 }
@@ -281,11 +289,11 @@
 .book.color-theme-2 .book-summary ul.summary li span {
   color: #c1c6d7;
   background: transparent;
-  font-weight: 600;
+  font-weight: 400;
 }
 .book.color-theme-2 .book-summary ul.summary li.active > a,
 .book.color-theme-2 .book-summary ul.summary li a:hover {
   color: #f4f4f5;
   background: #252737;
-  font-weight: 600;
+  font-weight: 400;
 }
