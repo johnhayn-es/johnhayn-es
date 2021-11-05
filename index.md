@@ -1,6 +1,6 @@
 ---
 layout: home
-description: Designer and strategist
+title: Designer and strategist
 image: '../assets/images/john.png'
 ---
 
