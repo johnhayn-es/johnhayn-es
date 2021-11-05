@@ -31,52 +31,44 @@
                         <div class="page-inner">
                             <div id="book-search-results">
                                 <div class="search-noresults">
-                                    {% if page.image %}
-                                    <section class="normal markdown-section home-container">
-                                        <div class="home-item">
-                                            {% if page.title %}
+                                    <!-- Details -->
+                                    <section id="intro" class="spotlights" style="margin-top:2em;">
+                                        {% if page.title %}
                                                 <h1 id="{{ page.id }}" style="margin-top: 0;">{{ page.title | escape }}</h1>
                                             {% endif %}
                                             {% if page.description %}
                                                 <h3 id="{{ page.id }}" style="margin-top: 0;">{{ page.description | escape }}</h3>
                                             {% endif %}
 
-                                            {% if page.layout == "post" %}
-                                            {% if page.end-date %}
-                                            <h3>({{ page.date | date: "%b %Y" }} - {{ page.end-date | date: "%b %Y" }})</h3>
-                                            {% else %}
-                                            <h3>{{ page.date | date: "%b %Y" }}</h3>
-                                            {% endif %}
-                                            {% endif %}
+                                        {{ content }}
+                                    </section>
 
-                                            {{ content }}
-                                        </div>
-                                        <div class="home-item">
-                                            <span class="image ">
-                                              <img src="{{ page.image }}" alt="{{ page.title }}" />
-                                            </span>
+                                    <!-- Contact -->
+                                    <section id="contact">
+                                        <div class="inner">
+                                            <section>
+                                                <h2>Mentorship Enquiry</h2>
+                                                <form action="https://formspree.io/{{ site.email }}" method="POST">
+                                                    <label for="name">Name and pronouns</label>
+                                                    <div class="field half first">
+                                                        <input type="text" name="name" id="name" placeholder="John (he/him)" />
+                                                    </div>
+                                                    <label for="email">Email</label>
+                                                    <div class="field half">
+                                                        <input type="text" name="_replyto" id="email" placeholder="mail@johnhayn.es" />
+                                                    </div>
+                                                    <label for="message">Message</label>
+                                                    <div class="field">
+                                                        <textarea name="message" id="message" rows="6"></textarea>
+                                                    </div>
+                                                    <div style="margin-top: 1em;">
+                                                        <input type="submit" value="Send Message" class="special" />
+                                                        <!-- <input type="reset" value="Clear" /> -->
+                                                    </div>
+                                                </form>
+                                            </section>
                                         </div>
                                     </section>
-                                    {% else %}
-                                    <section class="normal markdown-section">
-                                            {% if page.title %}
-                                                <h1 id="{{ page.id }}" style="margin-top: 0;">{{ page.title | escape }}</h1>
-                                            {% endif %}
-                                            {% if page.description %}
-                                                <h3 id="{{ page.id }}" style="margin-top: 0;">{{ page.description | escape }}</h3>
-                                            {% endif %}
-
-                                            {% if page.layout == "post" %}
-                                            {% if page.end-date %}
-                                            <h3>({{ page.date | date: "%b %Y" }} - {{ page.end-date | date: "%b %Y" }})</h3>
-                                            {% else %}
-                                            <h3>{{ page.date | date: "%b %Y" }}</h3>
-                                            {% endif %}
-                                            {% endif %}
-
-                                            {{ content }}
-                                    </section>
-                                    {% endif %}
                                 </div>
 
                                  <!-- {%- include search.html -%} -->
