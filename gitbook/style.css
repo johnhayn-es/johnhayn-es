@@ -3464,7 +3464,6 @@ table {
 }
 
 .book-summary ul.summary li.active {
-    background: #eeeeee;
     margin: 8px 8px;    
     /*border: 1px solid #4183c4;*/
     padding: 16px;
