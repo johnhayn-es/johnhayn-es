@@ -3580,7 +3580,7 @@ table {
 
 .page-inner {
     position: relative;
-    max-width: 800px;
+    max-width: 1200px;
     margin: 0 auto;
     padding: 20px 15px 40px 15px
 }
@@ -4336,7 +4336,7 @@ body {
 /* Custom CSS */
 
 .home-container {
-    margin-top:2em;
+    margin-top: 2em;
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
@@ -4350,11 +4350,11 @@ body {
 
 .home-item:first-child {
 	max-width: 60%;
-	padding-right: 16px;
+	padding-right: 5%;
 	box-sizing: border-box;
 }
 .home-item:nth-child(2) {
-	max-width: 40%;
+	max-width: 35%;
 }
 
 @media (max-width: 799px) {
