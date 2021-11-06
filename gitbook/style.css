@@ -3451,7 +3451,9 @@ table {
 .book-summary ul.summary li,
 .book-summary ul.summary li span {
     display: block;
-    margin: 16px 24px;
+    margin: 8px 16px;
+    padding: 8px 16px;
+    box-sizing: border-box;
     border-bottom: none;
     color: #364149;
     text-overflow: none;
@@ -3464,13 +3466,17 @@ table {
 }
 
 .book-summary ul.summary li.active {
-    background-color: #eeeeee;
-    margin: 8px 8px;    
+    background-color: #eeeeee; 
     /*border: 1px solid #4183c4;*/
-    padding: 16px;
+    margin: 8px 16px;
+    padding: 8px 16px;
     border-radius: 8px;
     box-sizing: border-box;
     text-decoration: none
+}
+
+.book-summary ul.summary li.divider {
+    padding: 0;
 }
 
 .book-summary ul.summary li:last-child {
