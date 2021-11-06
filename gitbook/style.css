@@ -3450,7 +3450,6 @@ table {
 
 .book-summary ul.summary li,
 .book-summary ul.summary li span {
-    background-color: #eeeeee;
     display: block;
     margin: 16px 24px;
     border-bottom: none;
@@ -3465,6 +3464,7 @@ table {
 }
 
 .book-summary ul.summary li.active {
+    background-color: #eeeeee;
     margin: 8px 8px;    
     /*border: 1px solid #4183c4;*/
     padding: 16px;
