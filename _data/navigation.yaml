@@ -1,8 +1,28 @@
-- text: About
+- text: About me
+  category: site
   url: /
 - text: Design Principles
+  category: site
   url: /design-principles
 - text: Mentorship
+  category: site
   url: /mentorship
 - text: Contact
+  category: site
   url: /contact
+
+- text: We Got POP
+  category: portfolio
+  url: /work--we-got-pop
+- text: YourWelcome
+  category: portfolio
+  url: /work--yourwelcome
+- text: Pearlshare
+  category: portfolio
+  url: /work--pearlshare
+- text: On Tap
+  category: portfolio
+  url: /work--on-tap
+- text: James Grant Group
+  category: portfolio
+  url: /work--james-grant-group

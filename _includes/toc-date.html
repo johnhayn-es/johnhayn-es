@@ -8,13 +8,16 @@
             <li><h1 style="margin:0;">{{ site.title | escape}}</h1></li>
             <li><h3 style="margin:0;">Design and strategy</h3></li>
 
-            {% for navigation in site.data.navigation %}
-            {% if navigation.url == page.url %}
-            <li class="active">
+            {% assign menu = site.data.navigation | where: "category","site"%}
+
+            {% for navigation in menu %}
+            {% if navigation.text == page.title %}
+            <li class="chapter active" data-level="1.2" data-path="{{ navigation.url }}">
+                    <a href="{{ navigation.url }}">{{ navigation.text }}</a>
             {% else %}
-            <li>
+            <li class="chapter" data-level="1.1" data-path="{{ navigation.url }}">
+                    <a href="{{ navigation.url }}">{{ navigation.text }}</a>
             {% endif %}
-                <a href="{{ navigation.url }}">{{ navigation.text }}</a>
             </li>
             {% endfor %}
 
@@ -22,45 +25,43 @@
 
             <li><h4 style="margin:0;">Work</h4></li>
 
-            {% assign reversed_posts = site.posts %}
+            {% assign portfolio = site.data.navigation | where: "category","portfolio"%}
 
-            {% for post in reversed_posts %}
-                {% if post.categories contains "portfolio" %}
-                {% if page.url == post.url %}
-                <li class="chapter active" data-level="1.2" data-path="{{site.baseurl}}{{post.url}}">
-                    <a href="../">
-                        {{ post.title | escape }} ▴
-                    </a>
-                {% else %}
-                <li class="chapter" data-level="1.1" data-path="{{site.baseurl}}{{post.url}}">
-                    <a href="{{site.baseurl}}{{post.url}}">
-                        {{ post.title | escape }} ▾
-                    </a>
-                {% endif %}
-                    {% if site.toc.enabled %}
-                        {% if page.url == post.url %}
+            {% for navigation in portfolio %}
+            {% if navigation.text == page.title %}
+            <li class="chapter active" data-level="1.2" data-path="{{ navigation.url }}">
+                    <a href="{{ navigation.url }}">{{ navigation.text }}</a>
+            {% else %}
+            <li class="chapter" data-level="1.1" data-path="{{ navigation.url }}">
+                    <a href="{{ navigation.url }}">{{ navigation.text }}</a>
+            {% endif %}
+
+                {% if site.toc.enabled %}
+                        {% if navigation.text == page.title %}
                             {% include toc.html html=content h_min=site.toc.h_min h_max=site.toc.h_max %}
                         {% endif %}
                     {% endif %}
-                </li>
-                {% endif %}
+
+            </li>
             {% endfor %}
 
             <li class="divider"></li>
 
             <li class="chapter"><h4 style="margin:0;">Blog</h4></li>
 
+            {% assign reversed_posts = site.posts %}
+
             {% for post in reversed_posts %}
                 {% if post.categories contains "blog" %}
                 {% if page.url == post.url%}
                 <li class="chapter active" data-level="1.2" data-path="{{site.baseurl}}{{post.url}}">
                     <a href="../">
-                        {{ post.title | escape }} ▴
+                        {{ post.title | escape }}
                     </a>
                 {% else %}
                 <li class="chapter" data-level="1.1" data-path="{{site.baseurl}}{{post.url}}">
                     <a href="{{site.baseurl}}{{post.url}}">
-                        {{ post.title | escape }} ▾
+                        {{ post.title | escape }}
                     </a>
                 {% endif %}
 

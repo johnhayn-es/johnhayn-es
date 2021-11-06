@@ -3451,17 +3451,30 @@ table {
 .book-summary ul.summary li,
 .book-summary ul.summary li span {
     display: block;
-    margin: 10px 15px;
+    margin: 16px 24px;
     border-bottom: none;
     color: #364149;
-    text-overflow: ellipsis;
-    overflow: hidden;
+    text-overflow: none;
     white-space: nowrap;
     position: relative
 }
 
 .book-summary ul.summary li a {
     color: #364149;
+}
+
+.book-summary ul.summary li.active {
+    background: #eeeeee;
+    margin: 8px 8px;    
+    /*border: 1px solid #4183c4;*/
+    padding: 16px;
+    border-radius: 8px;
+    box-sizing: border-box;
+    text-decoration: none
+}
+
+.book-summary ul.summary li:last-child {
+    margin-bottom: 8px;
 }
 
 .book-summary ul.summary li a:hover {
@@ -3473,9 +3486,8 @@ table {
 }
 
 .book-summary ul.summary li.active>a {
-    color: #008cff;
-    background: 0 0;
-    text-decoration: none
+    color: #000000;
+    font-weight: 700;
 }
 
 .book-summary ul.summary li ul {
@@ -3580,9 +3592,9 @@ table {
 
 .page-inner {
     position: relative;
-    max-width: 1200px;
+    max-width: 1000px;
     margin: 0 auto;
-    padding: 20px 15px 40px 15px
+    padding: 32px
 }
 
 .page-inner .btn-group .btn {
@@ -4358,6 +4370,14 @@ body {
 }
 
 @media (max-width: 799px) {
+
+    .page-inner {
+    position: relative;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 32px
+    }
+
 	.home-item:first-child {
 	max-width: 100%;
 	padding-right: 0;

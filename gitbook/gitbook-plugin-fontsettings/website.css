@@ -218,6 +218,10 @@
 /*
  * Theme 1
  */
+.book.color-theme-1 .book-summary ul.summary li.active {
+    background: #eeeeee;
+}
+
 .book.color-theme-1 .book-summary {
   color: #afa790;
   background: #111111;
@@ -255,11 +259,16 @@
 /*
  * Theme 2
  */
+.book.color-theme-2 .book-summary ul.summary li.active {
+    background: #54596F;
+}
+
 .book.color-theme-2 .book-summary {
   color: #bcc1d2;
   background: #2d3143;
   border-right: none;
 }
+
 .book.color-theme-2 .book-summary .book-search {
   background: transparent;
 }
@@ -294,6 +303,5 @@
 .book.color-theme-2 .book-summary ul.summary li.active > a,
 .book.color-theme-2 .book-summary ul.summary li a:hover {
   color: #f4f4f5;
-  background: #252737;
   font-weight: 400;
 }
