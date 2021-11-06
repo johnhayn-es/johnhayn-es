@@ -4,6 +4,8 @@ title: About me
 image: '../assets/images/john.png'
 ---
 
+# John Haynes
+
 I work with teams to design game-changing products & services through thoughtful research, value-based design strategy and hands-on collaboration.
 
 This site hosts my [portfolio] [3] and [blog] [4], where I document things I create and share my thoughts about design.
