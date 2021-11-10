@@ -8,7 +8,7 @@ image: '../assets/images/john.png'
 
 I work with teams to design game-changing products & services through thoughtful research, value-based design strategy and hands-on collaboration.
 
-This site hosts my [portfolio] [3] and [blog] [4], where I document things I create and share my thoughts about design.
+This site hosts my portfolio and blog, where I document things I create and share my thoughts about design.
 
 {% assign reversed_posts = site.posts %}
 {% for post in reversed_posts | limit:1 %}
@@ -40,8 +40,6 @@ You can see all the jobs I’ve had on my [LinkedIn profile ↗] [5]{:target="_b
 
 [1]: https://wegotpop.com 
 [2]: https://www.wegotpop.com/pages/uk/production/
-[3]: /portfolio 
-[4]: /blog
 [5]: https://www.linkedin.com/in/johnmahaynes/
 [6]: https://www.printersplayhouse.co.uk
 [7]: https://www.moarguitars.com
