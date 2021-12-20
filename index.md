@@ -21,17 +21,8 @@ I enjoy running and staying fit. I'm interested in the future of work & travel a
 
 In the last 8 years I have held a number of key product and growth roles in small, fast-moving businesses. I'm joining [Fyld ↗] [1]{:target="_blank"} in the New Year as Strategic Design Lead. 
 
-<!-- I am highly motivated and thrive in a fast-paced environment with an air of uncertainty. I am an adept and versatile supporting player, the sort of person that start-up founders seek as a key early employee. -->
 
 My career to date combines three interconnected disciplines; design, strategy and storytelling. 
-<!-- 
-This combination enables me to do the work I do today:
-
-* Principles; establishing the fundamental purpose of the design function within the organisation
-* Strategy; simple, value-based strategies to help the organisation reach its goals
-* Research; surfacing insights quickly so that the team can make faster decisions
-* Product & service design; building effective and efficient solutions
-* Measuring value; analysing the impact of the changes we make -->
 
 You can see all the jobs I’ve had on my [LinkedIn profile ↗] [5]{:target="_blank"}.
 
