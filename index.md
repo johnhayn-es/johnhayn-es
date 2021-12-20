@@ -21,9 +21,6 @@ I enjoy running and staying fit. I'm interested in the future of work & travel a
 
 In the last 8 years I have held a number of key product and growth roles in small, fast-moving businesses. I'm joining [Fyld ↗] [1]{:target="_blank"} in the New Year as Strategic Design Lead. 
 
-
-My career to date combines three interconnected disciplines; design, strategy and storytelling. 
-
 You can see all the jobs I’ve had on my [LinkedIn profile ↗] [5]{:target="_blank"}.
 
 
