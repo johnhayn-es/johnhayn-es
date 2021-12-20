@@ -1,10 +1,9 @@
 # Configurations
 title:            John Haynes
-longtitle:        Jekyll Gitbook
+longtitle:        Design and Strategy Lead
 author:           John Haynes
 email:            mail@johnhayn.es
-description: >
-  Design and strategy
+description:      Design and strategy
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: https://johnhayn.es # the base hostname & protocol for your site
