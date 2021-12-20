@@ -19,7 +19,7 @@ I enjoy running and staying fit. I'm interested in the future of work & travel a
 
 ## Career
 
-In the last 8 years I have held a number of key product and growth roles in small, fast-moving businesses. I'm currently  Senior Product Designer at [We Got POP ↗] [1]{:target="_blank"}, where I lead the design team and am the principal designer working on the [Production Portal ↗] [2]{:target="_blank"}. 
+In the last 8 years I have held a number of key product and growth roles in small, fast-moving businesses. I'm joining [Fyld ↗] [1]{:target="_blank"} in the New Year as Strategic Design Lead. 
 
 <!-- I am highly motivated and thrive in a fast-paced environment with an air of uncertainty. I am an adept and versatile supporting player, the sort of person that start-up founders seek as a key early employee. -->
 
