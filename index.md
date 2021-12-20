@@ -8,8 +8,6 @@ image: '../assets/images/john.png'
 
 I work with teams to design game-changing products & services through thoughtful research, value-based design strategy and hands-on collaboration.
 
-This site hosts my portfolio and blog, where I document things I create and share my thoughts about design.
-
 {% assign reversed_posts = site.posts %}
 {% for post in reversed_posts | limit:1 %}
 {% if post.categories contains "blog" %}
