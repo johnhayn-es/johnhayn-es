@@ -11,7 +11,7 @@ I work with teams to design game-changing products & services through thoughtful
 {% assign reversed_posts = site.posts %}
 {% for post in reversed_posts | limit:1 %}
 {% if post.categories contains "blog" %}
-Most recently, I have written about <a href="{{ post.url }}">{{post.title | downcase}}</a>.
+I sometimes write about work. Most recently, I have written about <a href="{{ post.url }}">{{post.title | downcase}}</a>.
 {% endif %}
 {% endfor %}
 
