@@ -4,7 +4,6 @@ title: First principles and my new role
 description: What's in store for the rest of my future? 
 published: true
 category: blog
-<!-- image: '../assets/images/design-skills-audit.png' -->
 ---
 
 I remember sitting on the train home in 2012 at the start of my 2.5hr journey home reading a job description for a UX design positon and thinking, "that's me". It wasn't a widely-used term at the time, but as soon as I read that I would be "conducting user research", "designing UI" and "building prototypes" I knew that's what I wanted to do. 
