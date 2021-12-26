@@ -1,10 +1,15 @@
 ---
 title: Work
-date: 2016-07-01
-end-date: 2019-01-01
+<!-- date: 2016-07-01
+end-date: 2019-01-01 -->
 category: portfolio
 layout: post
 ---
+
+## Fyld
+**Strategic Design Lead**
+
+I'm joining the Fyld team in February 2022.
 
 ## We Got POP
 **Senior Product Designer**
