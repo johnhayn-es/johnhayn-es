@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mentoring designers (Framework)
+title: Mentoring designers
 description: A framework to help anyone set objectives for the designers they are mentoring
 published: true
 category: blog
