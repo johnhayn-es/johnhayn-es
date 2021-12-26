@@ -1,7 +1,7 @@
 ---
 layout: contact
 title: Mentoring
-category: site
+category: home
 ---
 
 I offer remote coaching and mentorship to product and design people in sessions over lunchtime.
