@@ -19,7 +19,7 @@
                     <a href="{{ navigation.url }}">{{ navigation.text }}</a>
             {% endif %}
 
-            {% if site.toc.enabled and page.title == 'work' %}
+            {% if site.toc.enabled%}
                 {% if navigation.text == page.title %}
                     {% include toc.html html=content h_min=site.toc.h_min h_max=site.toc.h_max %}
                 {% endif %}
