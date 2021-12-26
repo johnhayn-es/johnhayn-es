@@ -6,7 +6,7 @@ category: portfolio
 layout: post
 ---
 
-# We Got POP
+## We Got POP
 **Senior Product Designer**
 
 I joined POP to help build a smarter, fairer entertainment industry. 
@@ -23,14 +23,14 @@ Due to the nature of the projects I'm working on, I'm unable to publish a lot of
 I'm currently working to bring a payroll service to market in 2022. -->
 
 
-# YourWelcome
+## YourWelcome
 **Head of Growth, then Head of Product**
 
 As Head of Growth I helped launch [YourWelcome ↗] [2]{:target="_blank"} worldwide, from launch to 30 territories in less than seven months. I was asked to lead the product team, introducing a set of ecommerce and messaging features that remain the foundation of the business today.
 
 
 
-## YourWelcome Advance
+### YourWelcome Advance
 
 **Project outline and my role**
 
@@ -50,7 +50,7 @@ As the product lead I oversaw the specification and roll-out of this new product
 4. Confirmation that the guest has arrived; in the vast majority of cases, this required the guest to confirm they had arrived via message - which sometimes wouldn’t come until the next day
 
 
-### Field study
+#### Field study
 
 I organised and attended research sessions with the front-office staff from two of our largest clients, who described their ideal check-in solution.
 
@@ -62,7 +62,7 @@ I organised and attended research sessions with the front-office staff from two 
 
 > “We could send them all the information they need to get in to the property, like the door codes”
 
-### The MVP
+#### The MVP
 
 After quickly mocking up a number of screens and using card sorting sessions to determine an appropriate order, we put together a live MVP to trial this new feature. 
 
@@ -86,7 +86,7 @@ YourWelcome has since pivoted to offer a software-only version of their service 
 
 ___
 
-## Verifying guest emails
+### Verifying guest emails
 
 We were planning to release an online check-in/account portal for guests to manage their booking(s), view/purchase services and manage their data. Email verification was a necessary precursor to the release of this new platform, to ensure that we could securely communicate sensitive information to guests.
 
@@ -127,7 +127,7 @@ Watch the secure check-in process in action:
 
 ___
 
-## Instant messaging with guests
+### Instant messaging with guests
 
 This feature was prioritised after inbound requests increased, following a period of significant growth. The resulting Slack app is something that I’m hugely proud of; not only did we exceed the original objectives, but this feature has enabled our customers to provide a significantly better experience for their guests.
 
@@ -161,7 +161,7 @@ Instant messaging is a polarising feature. For some of our customers, the though
 * [Supporting docs](https://www.yourwelcome.com/help/connected-accounts/slack/)
 
 
-## Reservations calendar
+### Reservations calendar
 
 It became clear that the YourWelcome tablet would become a much more powerful tool if we were able to attribute in-app behaviour to a particular guest. This would provide a wealth of guest data that we now take for granted.
 
@@ -203,7 +203,7 @@ This key feature has enabled us to link in-app events to individual bookings; we
 
 ___
 
-## Personalised experiences
+### Personalised experiences
 
 A majority of short-term rental hosts manage their property remotely, so the touchpoints between them and their guests are few and far-between (and can often feel very formal). 
 
@@ -229,7 +229,7 @@ By tying the check-in screens to YourWelcome's Services platform, hosts are able
 
 ___
 
-## GDPR compliant stays
+### GDPR compliant stays
 
 In order to help our clients adhere to GDPR, YourWelcome needed to introduce new features in our app and dashboard. Survey results indicated that clients were confused by what GDPR was, whether it affected them and how to ensure their business was compliant.
 
