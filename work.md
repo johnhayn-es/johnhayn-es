@@ -1,7 +1,7 @@
 ---
 title: Work
 category: portfolio
-layout: post
+layout: site
 ---
 
 ## Fyld
