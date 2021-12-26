@@ -18,7 +18,7 @@ rss:              RSS
 toc:
   enabled: true
   h_min: 1
-  h_max: 3
+  h_max: 2
 
 # markdown render engine.
 markdown:         kramdown
@@ -27,7 +27,7 @@ kramdown:
   input:                  GFM
   math_engine:            mathjax
   smart_quotes:           lsquo,rsquo,ldquo,rdquo
-  toc_levels:             1..6
+  toc_levels:             1..2
   syntax_highlighter:     rouge
   syntax_highlighter_opts:
     guess_lang:           true
