@@ -24,7 +24,7 @@ Now, I believe that strategy plays a larger part in the design career pathway th
 
 The inflection point where these three things combine in the form of a completely personalised UI that predicts which components a user needs cannot be far away. In some ways (chat bots etc) it's already here, albeit in quite a constrained way. 
 
-It's my belief that designers will begin to transition into positions where they will be asked to think much more strategically. Their work will largely fall at either end of the UI experience; defining the first principles of the design system and improving the style and interactions of the UI. Computers will handle the rest. 
+It's my belief that designers will begin to transition into positions where they will be asked to think much more strategically. Their work will largely fall at either end of the UI experience; defining the rules of the design system and improving the style and interactions of the UI. Computers will handle the rest. 
 
 It's why, for the past 12-18 months, I've focused on honing a number of design and design-adjacent skills: 
 
