@@ -1,6 +1,6 @@
 ---
 layout: contact
-title: Mentorship
+title: Mentoring
 category: site
 ---
 
