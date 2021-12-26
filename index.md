@@ -4,8 +4,6 @@ title: About me
 image: '../assets/images/john.png'
 ---
 
-# John Haynes
-
 I work with teams to design game-changing products & services through thoughtful research, value-based design strategy and hands-on collaboration.
 
 {% assign reversed_posts = site.posts %}
