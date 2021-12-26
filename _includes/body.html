@@ -1,13 +1,13 @@
 <div class="body-inner">
     <div class="book-header" role="navigation">
-        <h1>
+        <a href="../" ><h1>
             <i class="fa fa-circle-o-notch fa-spin"></i>
             {% if page.title %}
-                <a href="../" >{{ page.title | escape }}</a>
+                {{ page.title | escape }}
             {% else %}
-                <a href="../" >{{ site.title | escape }}</a>
+                {{ site.title | escape }}
             {% endif %}
-        </h1>
+        </h1></a>
     </div>
     <div class="page-wrapper" tabindex="-1" role="main">
         <div class="page-inner">
