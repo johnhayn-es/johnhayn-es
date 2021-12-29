@@ -4,7 +4,7 @@ title: About me
 image: '../assets/images/john.png'
 ---
 
-I work with teams to design game-changing products & services through thoughtful research, value-based design strategy and hands-on collaboration.
+## I work with teams to design game-changing products & services through thoughtful research, value-based design strategy and hands-on collaboration. In the last 8 years I have held a number of key product and growth roles in small, fast-moving businesses. I'm joining [Fyld ↗] [1]{:target="_blank"} in the New Year as Strategic Design Lead. 
 
 {% assign reversed_posts = site.posts %}
 {% for post in reversed_posts | limit:1 %}
@@ -12,8 +12,6 @@ I work with teams to design game-changing products & services through thoughtful
 I sometimes write about work. Most recently, I have written about <a href="{{ post.url }}">{{post.title | downcase}}</a>.
 {% endif %}
 {% endfor %}
-
-In the last 8 years I have held a number of key product and growth roles in small, fast-moving businesses. I'm joining [Fyld ↗] [1]{:target="_blank"} in the New Year as Strategic Design Lead. 
 
 You can see all other the jobs I’ve had on my [LinkedIn profile ↗] [5]{:target="_blank"}.
 
