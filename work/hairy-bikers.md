@@ -6,7 +6,6 @@ category: work
 layout: post
 ---
 
-
 After 2 years of running their website and social accounts, Si and Dave asked me to project manage the launch of the Hairy Bikers Diet Club. 
 
 I was handed the keys to the project six weeks prior to launching on January the first. My primary responsibility was working with our partners, SP Health, to deliver a Hairy Bikers version of their online diet plan website. 
