@@ -28,30 +28,6 @@
             </li>
             {% endfor %}
 
-<!--             <li class="divider"></li>
-
-            <li><h4 style="margin:0;">Work</h4></li>
-
-            {% assign portfolio = site.data.navigation | where: "category","portfolio"%}
-
-            {% for navigation in portfolio %}
-            {% if navigation.text == page.title %}
-            <li class="chapter active" data-level="1.2" data-path="{{ navigation.url }}">
-                    <a href="{{ navigation.url }}">{{ navigation.text }}</a>
-            {% else %}
-            <li class="chapter" data-level="1.1" data-path="{{ navigation.url }}">
-                    <a href="{{ navigation.url }}">{{ navigation.text }}</a>
-            {% endif %}
-
-                {% if site.toc.enabled %}
-                        {% if navigation.text == page.title %}
-                            {% include toc.html html=content h_min=site.toc.h_min h_max=site.toc.h_max %}
-                        {% endif %}
-                    {% endif %}
-
-            </li>
-            {% endfor %} -->
-
             <li class="divider"></li>
 
             <li class="chapter"><h4 style="margin:0;">Blog</h4></li>
