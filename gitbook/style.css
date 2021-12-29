@@ -4367,12 +4367,12 @@ body {
 }
 
 .home-item:first-child {
-	max-width: 60%;
+	max-width: 50%;
 	padding-right: 5%;
 	box-sizing: border-box;
 }
 .home-item:nth-child(2) {
-	max-width: 35%;
+	max-width: 45%;
 }
 
 @media (max-width: 799px) {
