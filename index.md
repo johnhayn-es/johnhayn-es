@@ -1,10 +1,9 @@
 ---
 layout: home
 title: About me
+description: 'I'm John and I work with teams to design game-changing products & services through thoughtful research, value-based design strategy and hands-on collaboration. I'm joining [Fyld ↗] [1]{:target="_blank"} in the New Year as Strategic Design Lead.'
 image: '../assets/images/john.png'
----
-
-### I'm John and I work with teams to design game-changing products & services through thoughtful research, value-based design strategy and hands-on collaboration. I'm joining [Fyld ↗] [1]{:target="_blank"} in the New Year as Strategic Design Lead. 
+--- 
 
 {% assign reversed_posts = site.posts %}
 {% for post in reversed_posts | limit:1 %}
