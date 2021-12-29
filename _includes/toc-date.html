@@ -12,13 +12,11 @@
 
             {% for navigation in menu %}
             {% if post.categories contains "work" %}
-            <!-- {% if navigation.text == page.title %} -->
             <li class="chapter active" data-level="1.2" data-path="{{ navigation.url }}">
                     <a href="{{ navigation.url }}">{{ navigation.text }}</a>
             {% else %}
             <li class="chapter" data-level="1.1" data-path="{{ navigation.url }}">
                     <a href="{{ navigation.url }}">{{ navigation.text }}</a>
-            <!-- {% endif %} -->
             {% endif %}
 
             {% if site.toc.enabled%}
