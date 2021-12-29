@@ -1,5 +1,5 @@
 ---
-title: Hairy Bikers Diet Club
+title: Work: Hairy Bikers Diet Club
 date: 2011-08-01
 image: ../assets/hbdc/website.jpeg
 category: work
