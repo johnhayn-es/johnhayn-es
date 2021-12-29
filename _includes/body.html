@@ -14,6 +14,7 @@
             <div id="book-search-results">
                 <div class="search-noresults">
                     <section class="normal markdown-section">
+                        <div class="home-item">
                         {% if page.title %}
                             <h1 id="{{ page.id }}" style="margin-top: 0;">{{ page.title | escape }}</h1>
                         {% endif %}
@@ -26,13 +27,14 @@
                         {% endif %}
 
                         {{ content }}
+                        </div>
+                        <div class="home-item">
+                            <span class="image ">
+                              <img src="{{ page.image }}" alt="{{ page.title }}" />
+                            </span>
+                        </div>
                     </section>
 
-                    <div class="home-item">
-                        <span class="image ">
-                          <img src="{{ page.image }}" alt="{{ page.title }}" />
-                        </span>
-                    </div>
                 </div>
 
                  <!-- {%- include search.html -%} -->
