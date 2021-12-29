@@ -34,6 +34,10 @@ Due to the nature of the projects I'm working on, I'm unable to publish a lot of
 
 As Head of Growth I helped launch [YourWelcome ↗] [2]{:target="_blank"} worldwide, from launch to 30 territories in less than seven months. I was asked to lead the product team, introducing a set of ecommerce and messaging features that remain the foundation of the business today.
 
+### Notable projects
+
+* YourwWelcome Advance
+* Verifying guest emails
 
 
 ## YourWelcome Advance
