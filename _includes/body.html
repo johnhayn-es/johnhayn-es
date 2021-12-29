@@ -3,7 +3,7 @@
         <h1 style="margin-top:0;">
             <i class="fa fa-circle-o-notch fa-spin"></i>
             {% if page.title %}
-                {{ page.title | escape }}
+                {{ page.title | escape | replace: "Work: ", "" }}
             {% else %}
                 {{ site.title | escape }}
             {% endif %}
@@ -16,7 +16,7 @@
                     <section class="normal markdown-section">
                         <div class="home-item">
                         {% if page.title %}
-                            <h1 id="{{ page.id }}" style="margin-top: 0;">{{ page.title | escape }}</h1>
+                            <h1 id="{{ page.id }}" style="margin-top: 0;">{{ page.title | escape | replace: "Work: ", "" }}</h1>
                         {% endif %}
                         {% if page.layout == "post" %}
                         {% if page.end-date %}
