@@ -11,7 +11,7 @@
             {% assign menu = site.data.navigation | where: "category","site"%}
 
             {% for navigation in menu %}
-            {% if navigation.text contains page.title %}
+            {% if navigation.url contains page.url %}
             <li class="chapter active" data-level="1.2" data-path="{{ navigation.url }}">
                     <a href="{{ navigation.url }}">{{ navigation.text }}</a>
             {% else %}
