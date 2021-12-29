@@ -1,7 +1,7 @@
 ---
 title: Work
 category: work
-layout: post
+layout: directory
 ---
 
 # Fyld
