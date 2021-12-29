@@ -16,10 +16,15 @@ I'm joining the Fyld team in February 2022.
 
 I joined POP to help build a smarter, fairer entertainment industry. 
 
-I lead the design team and am the principal designer on the [Production Portal ↗] [1]{:target="_blank"}, a service that production companies use to manage their productions. Features include contracting, messaging, timesheets and reports.
+I lead the design team and am the principal designer on the Production Portal, a service that production companies use to manage their productions. Features include contracting, messaging, timesheets and reports.
 
 Due to the nature of the projects I'm working on, I'm unable to publish a lot of my most recent work.
 
+### Notable projects
+
+* Payroll Service
+* Production Portal
+* Distro
 
 ----
 
