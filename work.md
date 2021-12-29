@@ -1,6 +1,6 @@
 ---
 title: Work
-category: portfolio
+category: work
 layout: post
 ---
 
