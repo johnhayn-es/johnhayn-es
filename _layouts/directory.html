@@ -36,9 +36,6 @@
                             <div id="book-search-results">
                                 <div class="search-noresults">
                                     <section class="normal markdown-section">
-                                    {% if page.title %}
-                                        <h1 id="{{ page.id }}" style="margin-top: 0;">{{ page.title | escape | replace: "Work: ", "" }}</h1>
-                                    {% endif %}
                                     {% if page.layout == "post" %}
                                     {% if page.end-date %}
                                     <h3 style="margin-top: 0;">({{ page.date | date: "%b %Y" }} - {% if page.end-date %}}{{ page.end-date | date: "%b %Y" }} {% else %}Present {% endif %})</h3>
