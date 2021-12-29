@@ -1,22 +1,11 @@
 ---
-title: James Grant Group
+title: Hairy Bikers Diet Club
 date: 2011-08-01
-end-date: 2014-04-01
+image: ../assets/hbdc/website.jpeg
 category: portfolio
 layout: post
 ---
 
-**Junior Multimedia Producer, then Multimedia Producer, then Project Manager: Hairy Bikers' Diet Club**
-
-I produced and developed online content for broadcast talent including Ant & Dec, Fearne Cotton, Holly Willougby, Philip Schofield, the Hairy Bikers and many more
-
-
-___
-
-## Hairy Bikers Diet Club
-
-
-![The Hairy Bikers Diet Club website](../assets/hbdc/website.jpeg)
 
 After 2 years of running their website and social accounts, Si and Dave asked me to project manage the launch of the Hairy Bikers Diet Club. 
 
