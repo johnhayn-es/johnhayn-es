@@ -5,7 +5,7 @@ layout: directory
 ---
 
 # Fyld
-**Strategic Design Lead**
+### Strategic Design Lead
 
 I'm joining the Fyld team in February 2022.
 
