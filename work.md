@@ -4,10 +4,9 @@ category: work
 layout: directory
 ---
 
-# Fyld
-### Strategic Design Lead
-
-I'm joining the Fyld team in February 2022.
+* # Fyld
+	* ### Strategic Design Lead
+	* I'm joining the Fyld team in February 2022.
 
 ----
 
