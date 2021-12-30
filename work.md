@@ -67,7 +67,7 @@ I joined On Tap to oversee their more complex Magento eCommerce projects through
 
 # James Grant Group 
 
-### Junior Multimedia Producer, then Multimedia Producer, then Project Manager: Hairy Bikers' Diet Club**
+### Multimedia Producer, then Project Manager: Hairy Bikers' Diet Club
 
 I produced and developed online content for broadcast talent including Ant & Dec, Fearne Cotton, Holly Willougby, Philip Schofield, the Hairy Bikers and many more.
 
