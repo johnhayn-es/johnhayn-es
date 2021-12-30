@@ -4439,7 +4439,7 @@ body {
     position: relative;
     max-width: 800px;
     margin: 0 auto;
-    padding: 32px
+    padding: 24px
     }
 
 	.home-item:first-child {
@@ -4449,6 +4449,14 @@ body {
 	.home-item:nth-child(2) {
 	max-width: 100%;
 	}	
+
+    .work-timeline ul {
+    list-style-image: none;
+    list-style-type: none;
+    padding-left: 0;
+    padding-top: 0.4em;
+    padding-bottom: 0.4em;
+}
 }
 
 input {
