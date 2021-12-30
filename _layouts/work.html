@@ -1,0 +1,68 @@
+<!DOCTYPE HTML>
+<html lang="en" >
+    <head>
+
+        {%- include head.html -%}
+
+        {% if page.previous %}
+            <link rel="prev" href="{{site.baseurl}}{{page.previous.url}}" />
+        {% else %}
+            <link rel="prev" href="{{site.baseurl}}/" />
+        {% endif %}
+
+        {% if page.next %}
+            <link rel="next" href="{{site.baseurl}}{{page.next.url}}" />
+        {% endif %}
+    </head>
+    <body>
+        <div class="book">
+
+            {%- include toc-date.html -%}
+
+            <div class="book-body">
+                <div class="body-inner">
+                    <div class="book-header" role="navigation">
+                        <h1 style="margin-top:0;">
+                            <i class="fa fa-circle-o-notch fa-spin"></i>
+                            {% if page.title %}
+                                {{ page.title | escape | replace: "Work: ", "" }}
+                            {% else %}
+                                {{ site.title | escape }}
+                            {% endif %}
+                        </h1>
+                    </div>
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            <div id="book-search-results">
+                                <div class="search-noresults">
+                                    <section class="normal markdown-section work-timeline">
+                                    {% if page.layout == "post" %}
+                                    {% if page.end-date %}
+                                    <h3 style="margin-top: 0;">({{ page.date | date: "%b %Y" }} - {% if page.end-date %}}{{ page.end-date | date: "%b %Y" }} {% else %}Present {% endif %})</h3>
+                                    {% else %}
+                                    <h3 style="margin-top: 0;">{{ page.date | date: "%b %Y" }}</h3>
+                                    {% endif %}
+                                    {% endif %}
+
+                                    {{ content }}
+                                    </section>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <script>
+            var gitbook = gitbook || [];
+            gitbook.push(function() {
+                gitbook.page.hasChanged({%- include metadata-post.json.tpl -%});
+            });
+            </script>
+        </div>
+
+        {%- include footer.html -%}
+
+    </body>
+</html>

@@ -4353,6 +4353,59 @@ body {
 
 /* Custom CSS */
 
+.work-timeline h2 {
+    margin-top:0;
+    margin-bottom:0;
+    line-height: 1em;
+}
+
+.work-timeline h4 {
+    margin-bottom:0;
+    margin-left: 1em;
+}
+
+.work-timeline ul {
+    list-style-type:none;
+}
+
+.work-timeline svg {
+    color : "red";
+}
+
+.work-timeline ul {
+    list-style-image: none;
+    list-style-type: none;
+    padding-top: 0.4em;
+    padding-bottom: 0.4em;
+}
+
+.work-timeline ul li {
+    border-left: 0.4em solid #f2f2f2; 
+    padding-top: 0.4em;
+    padding-bottom: 0.4em;
+    padding-left: 1em;
+}
+
+.work-timeline ul ul ul {
+    list-style-type: circle;
+    border-left: 0px solid #f2f2f2; 
+    padding-left: 1em;
+    margin-left: 1em;
+}
+
+.work-timeline ul ul li {
+    border-left: 0px solid #f2f2f2; 
+}
+
+.work-timeline ul li:hover {
+    border-left: 0.4em solid #4183c4; 
+
+}
+
+.work-timeline ul ul li:hover {
+    border-left: 00px solid #4183c4; 
+}
+
 .home-container {
     margin-top: 2em;
     display: flex;
@@ -4406,3 +4459,4 @@ textarea {
   margin: 8px 0;
   box-sizing: border-box;
 }
+
