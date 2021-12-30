@@ -12,11 +12,11 @@ I'm joining the Fyld team in February 2022.
 ----
 
 # We Got POP
-**Senior Product Designer**
+### Senior Product Designer
 
-I joined POP to help build a smarter, fairer entertainment industry. I lead the design team and was the principal designer on the Production Portal, a service that production companies use to manage their production workforce. 
+I joined POP to help build a smarter, fairer entertainment industry. I lead the design team and was the principal designer on the Production Portal, a service that production companies use to manage their production workforce. Due to the nature of my contract, I'm unable to publish examples of the work.
 
-Due to the nature of my contract, I'm unable to publish examples of the work.
+### Notable projects included:
 
 * Payroll Service
 * Production Portal
@@ -27,9 +27,11 @@ Due to the nature of my contract, I'm unable to publish examples of the work.
 
 
 # YourWelcome
-**Head of Growth, then Head of Product**
+### Head of Growth, then Head of Product
 
-As Head of Growth I helped launch [YourWelcome ↗] [2]{:target="_blank"} worldwide, from launch to 30 territories in less than seven months. I was asked to lead the product team, introducing a set of ecommerce and messaging features that remain the foundation of the business today.
+As Head of Growth I helped launch [YourWelcome](http://www.yourwelcome.com) worldwide, from launch to 30 territories in less than seven months. I was asked to lead the product team, introducing a set of ecommerce and messaging features that remain the foundation of the business today.
+
+### Notable projects included:
 
 * [YourWelcome Advance](../work/yourwelcome-advance)
 * [Guest email verification](../work/email-verification)
@@ -43,10 +45,11 @@ As Head of Growth I helped launch [YourWelcome ↗] [2]{:target="_blank"} worldw
 
 
 # Pearlshare
-
-**Growth Lead, then UX Lead**
+### Growth Lead, then UX Lead
 
 Pearlshare was a B2C iOS app for creating and sharing travel guides. I joined Pearlshare to lead user acquisition & retention for Pearlshare's  iOS app. I led the redevelopment of the onboarding experience, instant messaging and launched pearlshare.com.
+
+### Notable projects included:
 
 * [Location picker](../work/location-picker)
 * [pearlshare.com](../work/pearlshare-com)
@@ -56,18 +59,18 @@ Pearlshare was a B2C iOS app for creating and sharing travel guides. I joined Pe
 
 
 # On Tap
-
-**Digital Project Manager**
+### Digital Project Manager
 
 I joined On Tap to oversee their more complex Magento eCommerce projects through to delivery, managing an off-shore team of 4. Clients included Bettys & Taylors, Party Pieces (Middleton Family) and Academia
-
 
 ----
 
 # James Grant Group 
 
-**Junior Multimedia Producer, then Multimedia Producer, then Project Manager: Hairy Bikers' Diet Club**
+### Junior Multimedia Producer, then Multimedia Producer, then Project Manager: Hairy Bikers' Diet Club**
 
 I produced and developed online content for broadcast talent including Ant & Dec, Fearne Cotton, Holly Willougby, Philip Schofield, the Hairy Bikers and many more.
+
+### Notable projects
 
 * [Hairy Bikers' Diet Club](../work/hairy-bikers)
