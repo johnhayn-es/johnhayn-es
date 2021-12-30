@@ -4353,6 +4353,11 @@ body {
 
 /* Custom CSS */
 
+.work-timeline h1 {
+    display: none;
+    margin: 0;
+}
+
 .work-timeline h2 {
     margin-top:0;
     margin-bottom:0;
