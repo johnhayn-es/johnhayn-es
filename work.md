@@ -14,9 +14,9 @@ layout: work
 	* # We Got POP
 	* Visit the [We Got POP website](http://www.wegotpop.com)
 	* I joined POP to help build a smarter, fairer entertainment industry. I lead the design team and was the principal designer on the Production Portal, a service that production companies use to manage their production workforce. Due to the nature of my contract, I'm unable to publish examples of the work.
-	* Notable projects included:
+<!-- 	* Notable projects included:
 		* Payroll
-		* Production Portal
+		* Production Portal -->
 
 * #### Jan 2017 
 	* ## Head of Product
