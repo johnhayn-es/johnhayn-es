@@ -58,15 +58,15 @@ layout: work
 
 * #### Nov 2013
 	* ## Project Manager, Hairy Bikers' Diet Club
-	* # James Grant Group (now YMU)
+	* # James Grant Group
 	* Visit the [James Grant Group website](https://www.ymugroup.com/)
 	* The [Hairy Bikers' Diet Club](../work/hairy-bikers) was an online community and subscription business that I launched for Si and Dave.
 * #### Sep 2013
 	* ## Multimedia Producer
-	* ## James Grant Group (now YMU)
+	* ## James Grant Group
 	* Visit the [James Grant Group website](https://www.ymugroup.com/)
 * #### Aug 2011
 	* ## Junior Multimedia Producer
-	* ## James Grant Group (now YMU)
+	* ## James Grant Group
 	* Visit the [James Grant Group website](https://www.ymugroup.com/)
 	* I produced and developed online content for broadcast talent including Ant & Dec, Fearne Cotton, Holly Willougby, Philip Schofield, the Hairy Bikers and many more.
