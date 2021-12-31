@@ -13,10 +13,10 @@
             {% for navigation in menu %}
             {% if page.title contains navigation.text %}
             <li class="chapter active" data-level="1.2" data-path="{{ navigation.url }}">
-                    <a href="{{ navigation.url }}">{{ navigation.text }}</a>
+                    <a href="{{ navigation.url }}">{{ navigation.text | strip_html }}</a>
             {% else %}
             <li class="chapter" data-level="1.1" data-path="{{ navigation.url }}">
-                    <a href="{{ navigation.url }}">{{ navigation.text }}</a>
+                    <a href="{{ navigation.url }}">{{ navigation.text | strip_html }}</a>
             {% endif %}
 
             {% if site.toc.enabled%}
