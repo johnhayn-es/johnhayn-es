@@ -57,13 +57,13 @@ layout: work
 	* I joined On Tap to oversee their more complex Magento eCommerce projects through to delivery, managing an off-shore team of 4. Clients included Bettys & Taylors, Party Pieces (Middleton Family) and Academia
 
 * #### Nov 2013
-	* ## Project Manager, Hairy Bikers' Diet Club
-	* # James Grant Group
+	* ## Project Manager
+	* ## Hairy Bikers' Diet Club (JGG)
 	* Visit the [James Grant Group website](https://www.ymugroup.com/)
 	* The [Hairy Bikers' Diet Club](../work/hairy-bikers) was an online community and subscription business that I launched for Si and Dave.
 * #### Sep 2013
 	* ## Multimedia Producer
-	* ## James Grant Group
+	* # James Grant Group
 	* Visit the [James Grant Group website](https://www.ymugroup.com/)
 * #### Aug 2011
 	* ## Junior Multimedia Producer
