@@ -43,7 +43,7 @@ layout: work
 		* [pearlshare.com](../work/pearlshare-com)
 * #### Apr 2015
 	* ## Growth Lead
-	* # Pearlshare
+	* ## Pearlshare
 	* Pearlshare was a B2C iOS app for creating and sharing travel guides, popular among Airbnb hosts in the UK for sharing their favourite local places. I joined Pearlshare to lead user acquisition & retention for Pearlshare's iOS app.
 
 * #### May 2014
