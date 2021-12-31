@@ -4,6 +4,9 @@
 - text: Work
   category: site
   url: /work
+  - text: Running
+  category: site
+  url: /running
 # - text: Design Principles
 #   category: site
 #   url: /design-principles
