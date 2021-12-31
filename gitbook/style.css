@@ -4450,26 +4450,25 @@ body {
     border-left: 00px solid #4183c4; 
 }
 
-.home-container {
-    margin-top: 2em;
+.home-item-container {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-between;
     align-items: auto;
-    align-content: start
-}
-.home-item {
+    align-content: start;
     flex: 1 1 auto;
 }
 
 .home-item:first-child {
-	max-width: 50%;
+	margin:0;
+    max-width: 50%;
 	padding-right: 5%;
 	box-sizing: border-box;
 }
 .home-item:nth-child(2) {
-	max-width: 45%;
+	margin:0;
+    max-width: 45%;
 }
 
 @media (max-width: 799px) {
