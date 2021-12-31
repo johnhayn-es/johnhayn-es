@@ -147,9 +147,9 @@
                 {% capture jekyll_toc %}{{ jekyll_toc }}</li></{{ listModifier }}>{% endcapture %}
             {% endfor %}
 
-            {% capture jekyll_toc %}{{ jekyll_toc | strip_html }}</li>{% endcapture %}
+            {% capture jekyll_toc %}{{ jekyll_toc }}</li>{% endcapture %}
         {% else %}
-            {% capture jekyll_toc %}{{ jekyll_toc | strip_html }}</li>{% endcapture %}
+            {% capture jekyll_toc %}{{ jekyll_toc }}</li>{% endcapture %}
         {% endif %}
 
         {% capture jekyll_toc %}{{ jekyll_toc }}<li{{ listItemClass }}>{{ listItem }}{% endcapture %}
