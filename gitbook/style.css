@@ -3493,7 +3493,7 @@ table {
 
 .book-summary ul.summary li.active>a {
     color: #000000;
-    font-weight: 700;
+    font-weight: 400;
 }
 
 .book-summary ul.summary li ul {
