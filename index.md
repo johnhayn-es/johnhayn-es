@@ -5,6 +5,8 @@ category: about
 image: '../assets/images/john.png'
 --- 
 
+I'm joining [Fyld](https://www.fyld.ai) in the New Year as Strategic Design Lead.
+
 {% assign reversed_posts = site.posts %}{% for post in reversed_posts | limit:1 %}{% if post.categories contains "blog" %}I sometimes write about work. Most recently, I have written about <a href="{{ post.url }}">{{post.title | downcase}}</a>.{% endif %}{% endfor %}
 
 
