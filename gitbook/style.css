@@ -4354,11 +4354,16 @@ body {
 /* Custom CSS */
 
 .work-timeline h1 {
-    display: none;
-    margin: 0;
+    font-size: 2em;
+    display: inline;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
 }
 
 .work-timeline h2 {
+    font-size: 2em;
+    display: inline;
     margin-top:0;
     margin-bottom:0;
     line-height: 1em;
@@ -4391,15 +4396,38 @@ body {
     padding-left: 1em;
 }
 
-.work-timeline ul ul ul {
-    list-style-type: circle;
-    border-left: 0px solid #f2f2f2; 
-    padding-left: 1em;
-    margin-left: 1em;
+.work-timeline ul li:first-child {
+    display: inline-block;
+}
+
+.work-timeline ul li:nth-child(2) {
+    padding-left: 0.4em;
+    display: inline-block;
 }
 
 .work-timeline ul ul li {
     border-left: 0px solid #f2f2f2; 
+}
+
+
+.work-timeline ul ul ul {
+    list-style-type: none;
+    border-left: 0px solid #f2f2f2; 
+    padding-left: 0;
+    margin-left: 0;
+}
+
+.work-timeline ul ul ul li {
+    padding-left: 0;
+}
+
+.work-timeline ul ul ul li:first-child {
+    display: block;
+}
+
+.work-timeline ul ul ul li:nth-child(2) {
+    display: block;
+    padding-left: 0;
 }
 
 .work-timeline ul li:hover {
@@ -4456,7 +4484,11 @@ body {
     padding-left: 0;
     padding-top: 0.4em;
     padding-bottom: 0.4em;
-}
+    }
+
+    .work-timeline ul li:nth-child(2) {
+    padding-left: 1em;
+    }
 }
 
 input {
