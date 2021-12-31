@@ -3414,6 +3414,7 @@ table {
 
 .book-summary ul.summary li {
     list-style: none
+    margin:0;
 }
 
 .book-summary ul.summary li.header {
