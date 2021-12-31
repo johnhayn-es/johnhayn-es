@@ -6,11 +6,13 @@ layout: work
 
 * #### Feb 2022 
 	* ## Strategic Design Lead
-	* # [Fyld](http://fyld.ai)
+	* # Fyld
+	* Visit the [Fyld website](http://fyld.ai)
 	* I'm joining the Fyld team to work with the leadership team to define the business strategy, then work with design team to deliver it.
 * #### Jan 2019
 	* ## Senior Product Designer
-	* # [We Got POP](http://www.wegotpop.com)
+	* # We Got POP
+	* Visit the [We Got POP website](http://www.wegotpop.com)
 	* I joined POP to help build a smarter, fairer entertainment industry. I lead the design team and was the principal designer on the Production Portal, a service that production companies use to manage their production workforce. Due to the nature of my contract, I'm unable to publish examples of the work.
 	* Notable projects included:
 		* Payroll
@@ -18,7 +20,8 @@ layout: work
 
 * #### Jan 2017 
 	* ## Head of Product
-	* # [YourWelcome](http://www.yourwelcome.com)
+	* # YourWelcome
+	* Visit the [YourWelcome website](http://www.yourwelcome.com)
 	* As Head of Product I lead the product team, introducing a set of ecommerce and messaging features that remain the foundation of the business today.
 
 	* Notable projects included:
@@ -31,7 +34,8 @@ layout: work
 
 * #### Jul 2016 
 	* ## Head of Growth
-	* ## [YourWelcome](http://www.yourwelcome.com)
+	* ## YourWelcome
+	* Visit the [YourWelcome website](http://www.yourwelcome.com)
 	* As Head of Growth I helped launch YourWelcome worldwide, from launch to 30 territories in less than seven months. 
 
 * #### Apr 2016
@@ -48,17 +52,21 @@ layout: work
 
 * #### May 2014
 	* ## Digital Project Manager
-	* # [On Tap](https://www.ontapgroup.com/)
+	* # On Tap Group
+	* Visit the [On Tap Group website](https://www.ontapgroup.com/)
 	* I joined On Tap to oversee their more complex Magento eCommerce projects through to delivery, managing an off-shore team of 4. Clients included Bettys & Taylors, Party Pieces (Middleton Family) and Academia
 
 * #### Nov 2013
 	* ## Project Manager, Hairy Bikers' Diet Club
-	* # [James Grant Group](https://www.ymugroup.com/)
+	* # James Grant Group (now YMU)
+	* Visit the [James Grant Group website](https://www.ymugroup.com/)
 	* The [Hairy Bikers' Diet Club](../work/hairy-bikers) was an online community and subscription business that I launched for Si and Dave.
 * #### Sep 2013
 	* ## Multimedia Producer
-	* ## [James Grant Group](https://www.ymugroup.com/)
+	* ## James Grant Group (now YMU)
+	* Visit the [James Grant Group website](https://www.ymugroup.com/)
 * #### Aug 2011
 	* ## Junior Multimedia Producer
-	* ## [James Grant Group](https://www.ymugroup.com/)
+	* ## James Grant Group (now YMU)
+	* Visit the [James Grant Group website](https://www.ymugroup.com/)
 	* I produced and developed online content for broadcast talent including Ant & Dec, Fearne Cotton, Holly Willougby, Philip Schofield, the Hairy Bikers and many more.
