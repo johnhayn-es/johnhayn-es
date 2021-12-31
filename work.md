@@ -4,6 +4,7 @@ category: work
 layout: work
 ---
 
+
 * #### Feb 2022 
 	* ## Strategic Design Lead
 	* # Fyld

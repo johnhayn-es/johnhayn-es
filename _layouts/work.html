@@ -25,7 +25,7 @@
                         <h1 style="margin-top:0;">
                             <i class="fa fa-circle-o-notch fa-spin"></i>
                             {% if page.title %}
-                                {{ page.title | escape | replace: "Work: ", "" }}
+                                {{ page.title | escape}}
                             {% else %}
                                 {{ site.title | escape }}
                             {% endif %}
