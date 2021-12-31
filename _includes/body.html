@@ -35,19 +35,21 @@
                             </span>
                         </div>
                         {% else %}
-                        {% if page.title %}
+                        <div class="home-item-two">
+                            {% if page.title %}
                             <h1 id="{{ page.id }}" style="margin-top: 0;">{{ page.title | escape | replace: "Work: ", "" }}</h1>
-                        {% endif %}
-                        {% if page.layout == "post" %}
-                        {% if page.end-date %}
-                        <h3 style="margin-top: 0;">({{ page.date | date: "%b %Y" }} - {% if page.end-date %}}{{ page.end-date | date: "%b %Y" }} {% else %}Present {% endif %})</h3>
-                        {% else %}
-                        <h3 style="margin-top: 0;">{{ page.date | date: "%b %Y" }}</h3>
-                        {% endif %}
-                        {% endif %}
+                            {% endif %}
+                            {% if page.layout == "post" %}
+                            {% if page.end-date %}
+                            <h3 style="margin-top: 0;">({{ page.date | date: "%b %Y" }} - {% if page.end-date %}}{{ page.end-date | date: "%b %Y" }} {% else %}Present {% endif %})</h3>
+                            {% else %}
+                            <h3 style="margin-top: 0;">{{ page.date | date: "%b %Y" }}</h3>
+                            {% endif %}
+                            {% endif %}
 
-                        {{ content }}
-                        {% endif %}
+                            {{ content }}
+                            {% endif %}
+                        </div>
                     </section>
 
                 </div>

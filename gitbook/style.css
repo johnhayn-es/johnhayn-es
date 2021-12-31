@@ -4471,6 +4471,12 @@ body {
     max-width: 45%;
 }
 
+.home-item-two: {
+    margin:0;
+    max-width: 100%;
+    box-sizing: border-box;
+}
+
 @media (max-width: 799px) {
 
     .page-inner {
