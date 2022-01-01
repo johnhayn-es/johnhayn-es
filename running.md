@@ -1,6 +1,6 @@
 ---
 title: Running results
-category: work
+category: home
 layout: running
 ---
 
