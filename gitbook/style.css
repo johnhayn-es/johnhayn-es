@@ -30,7 +30,7 @@ audio:not([controls]) {
 }
 
 html {
-    font-family: sans-serif;
+    font-family: 'Poppins', sans-serif;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%
 }
@@ -3180,7 +3180,7 @@ table {
 }
 
 .book-header {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Poppins', sans-serif;
     overflow: visible;
     height: 50px;
     padding: 0 8px;
@@ -3385,7 +3385,7 @@ table {
 }
 
 .book-summary {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Poppins', sans-serif;
     position: absolute;
     top: 0;
     left: -300px;
@@ -4342,7 +4342,7 @@ html {
 body {
     text-rendering: optimizeLegibility;
     font-smoothing: antialiased;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 15px;
     letter-spacing: .2px;
     text-size-adjust: 100%;
