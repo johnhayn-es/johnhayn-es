@@ -5,7 +5,7 @@ category: about
 image: '../assets/images/john.png'
 --- 
 
-I am the Strategic Design Lead at [FYLD][1], heading-up the Product Labs team - the skunkworks where we define the future of the company.
+I am the Strategic Design Lead at [FYLD][1], working on research and development initiatives to define the future of the company.
 
 {% assign reversed_posts = site.posts %}{% for post in reversed_posts | limit:1 %}{% if post.categories contains "blog" %}I sometimes write about work. Most recently, I have written about <a href="{{ post.url }}">{{post.title | downcase}}</a>.{% endif %}{% endfor %}
 
