@@ -3457,7 +3457,7 @@ table {
     border-bottom: none;
     color: #364149;
     text-overflow: none;
-    white-space: nowrap;
+    white-space: inherit;
     position: relative
 }
 
