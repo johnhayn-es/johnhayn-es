@@ -13,7 +13,9 @@ layout: work
 	* ## Strategic Design Lead
 	* # Fyld
 	* Visit the [Fyld website](http://fyld.ai)
-	* I'm joining the Fyld team to work with the leadership team to define the business strategy, then work with design team to deliver it.
+	* I joined the Fyld team to head up their research and development initiatives.
+	* ### Notable projects included:
+		* [Predictive Safety Interventions](../posts/predictive-safety-interventions)
 * #### Jan 2019
 	* ## Senior Product Designer
 	* # We Got POP
