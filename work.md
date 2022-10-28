@@ -4,7 +4,11 @@ category: work
 layout: work
 ---
 
-
+* #### Oct 2022 
+	* ## Senior Designer
+	* # Entetainment Partners
+	* Visit the [EP website](http://ep.com)
+	* I re-joined Entertainment Partners (formally We Got POP) to oversee the design of our international products.
 * #### Feb 2022 
 	* ## Strategic Design Lead
 	* # Fyld
