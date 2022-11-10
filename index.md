@@ -5,9 +5,9 @@ category: about
 image: '../assets/images/john.png'
 --- 
 
-I work with teams to design products & services through thoughtful research, value-based design strategy and hands-on collaboration.
-
 I work at Entertainment Partners where I lead the UK design team and am the principal designer on our international product suite.
+
+I work with teams around the world to design products & services through thoughtful research, value-based strategy and hands-on collaboration.
 
 {% assign reversed_posts = site.posts %}{% for post in reversed_posts | limit:1 %}{% if post.categories contains "blog" %}I sometimes write about things, most recently <a href="{{ post.url }}">{{post.title | downcase}}</a>.{% endif %}{% endfor %}
 
