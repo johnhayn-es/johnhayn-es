@@ -3464,14 +3464,11 @@ table {
 .book-summary ul.summary li a {
     color: #364149;
     padding: 8px 16px;
-    margin: 8px 16px;
 }
 
 .book-summary ul.summary li.active {
     background-color: #eeeeee; 
     /*border: 1px solid #4183c4;*/
-    margin: 8px 16px;
-    padding: 8px 16px;
     border-radius: 8px;
     box-sizing: border-box;
     text-decoration: none
