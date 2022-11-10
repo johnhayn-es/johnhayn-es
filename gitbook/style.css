@@ -3463,6 +3463,8 @@ table {
 
 .book-summary ul.summary li a {
     color: #364149;
+    padding: 8px 16px;
+    margin: 8px 16px;
 }
 
 .book-summary ul.summary li.active {
