@@ -1,5 +1,5 @@
 ---
-title: Work
+title: Portfolio
 category: work
 layout: work
 ---
