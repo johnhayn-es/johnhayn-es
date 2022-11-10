@@ -34,9 +34,6 @@
                                     {% if page.image %}
                                     <section class="normal markdown-section home-item-container">
                                         <div class="home-item">
-                                            <!-- {% if page.title %}
-                                                <h1 id="{{ page.id }}" style="margin-top: 0;">{{ page.title | escape }}</h1>
-                                            {% endif %} -->
                                             <h3 id="{{ page.id }}" style="margin-top: 0; margin-bottom: 1em;">Hello. I'm John, Senior Designer at Entertainment Partners.</h3>
 
                                             {% if page.layout == "post" %}
@@ -57,19 +54,17 @@
                                     </section>
                                     {% endif %}
                                 </div>
-
-                                 <!-- {%- include search.html -%} -->
                             </div>
                         </div>
                     </div>
                 </div>
 
 
-                {% if reversed_posts %}
-                    <!-- <a href="{{site.baseurl}}{{reversed_posts.first.url}}" class="navigation navigation-next navigation-unique" aria-label="Next page: {{reversed_posts.first.title}}">
+                <!-- {% if reversed_posts %}
+                    <a href="{{site.baseurl}}{{reversed_posts.first.url}}" class="navigation navigation-next navigation-unique" aria-label="Next page: {{reversed_posts.first.title}}">
                         <i class="fa fa-angle-right"></i>
-                    </a> -->
-                {% endif %}
+                    </a> 
+                {% endif %} -->
             </div>
 
             <!-- {%- include search.html -%} -->
