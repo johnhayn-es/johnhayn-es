@@ -1,5 +1,5 @@
 ---
-title: Running results
+title: Running
 category: home
 layout: running
 ---
