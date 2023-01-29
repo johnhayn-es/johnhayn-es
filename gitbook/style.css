@@ -3470,7 +3470,7 @@ table {
     /*border: 1px solid #4183c4;*/
     margin: 8px 16px;
     padding: 8px 16px;
-    border-radius: 8px;
+    border-radius: 4px;
     box-sizing: border-box;
     text-decoration: none
 }
@@ -4454,7 +4454,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-    justify-content: flex-start;
+    justify-content: flex-star;
     align-items: auto;
     align-content: start;
     flex: 1 1 auto;
