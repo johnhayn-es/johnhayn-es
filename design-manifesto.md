@@ -1,12 +1,18 @@
----
+	---
 layout: post
 title: My 2023 product design manifesto
 description: A practical guide to combining the principals of futurism and innovation in product design teams
-published: true
 category: blog
 ---
 
-As stated on the front page of this website, I believe that the purpose of the design function is to live in the future and regularly return to the present to help the rest of the business plot a course towards it (I've borrowed this concept from futurist Ben Hammersley. Thanks Ben). 
+Below is my personal design manifesto for 2023 - a combination of principals, itentions and tactics
+
+### Manifesto contents
+[Introduction](#introduction)
+
+
+## Introduction
+I believe that the purpose of the design function is to live in the future and regularly return to the present to help the rest of the business plot a course towards it (I've borrowed this concept from futurist Ben Hammersley. Thanks Ben). 
 
 On the face of it, that is quite an arrogant take (for anyone that isn't known as a futurist). However, I honestly believe it to be both true and remarkably achievable. 
 
