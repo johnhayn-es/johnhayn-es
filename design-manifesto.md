@@ -1,14 +1,13 @@
 ---
-layout: page
+layout: post
 title: My 2023 product design manifesto
 description: A practical guide to combining the principals of futurism and innovation in product design teams
-category: blog
 ---
 
 Below is my personal design manifesto for 2023 - a combination of principals, itentions and tactics
 
 ### Manifesto contents
-[Introduction](#introduction)
+* [Introduction](#introduction)
 
 
 ## Introduction
