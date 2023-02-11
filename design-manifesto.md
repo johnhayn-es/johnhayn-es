@@ -8,7 +8,7 @@ Below is my personal design manifesto for 2023 - a combination of principals, it
 
 ### Manifesto contents
 * [Introduction](#introduction)
-
+* [Desired outcomes of this approach](#desired-outcomes)
 
 ## Introduction
 I believe that the purpose of the design function is to live in the future and regularly return to the present to help the rest of the business plot a course towards it (I've borrowed this concept from futurist Ben Hammersley. Thanks Ben). 
