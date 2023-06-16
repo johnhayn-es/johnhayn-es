@@ -34,8 +34,6 @@
                                     {% if page.image %}
                                     <section class="normal markdown-section home-item-container">
                                         <div class="home-item">
-                                            <h3 id="{{ page.id }}" style="margin-top: 0; margin-bottom: 1em;">Hello. I'm John, Lead Product Designer at Entertainment Partners.</h3>
-
                                             {% if page.layout == "post" %}
                                             {% if page.end-date %}
                                             <h3>({{ page.date | date: "%b %Y" }} - {{ page.end-date | date: "%b %Y" }})</h3>
@@ -43,7 +41,6 @@
                                             <h3>{{ page.date | date: "%b %Y" }}</h3>
                                             {% endif %}
                                             {% endif %}
-
                                             {{ content }}
                                         </div>
                                         <div class="home-item">
