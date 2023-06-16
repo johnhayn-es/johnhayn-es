@@ -5,7 +5,7 @@ category: about
 image: '../assets/images/john.png'
 --- 
 
-# Hello. I am John, the Lead Product Designer for [Entertainment Partners][1] where I lead the UK design team, building financial services for the entertainment industry.
+## Hello. I am John, the Lead Product Designer for [Entertainment Partners][1] where I lead the UK design team, building financial services for the entertainment industry.
 
 I practice purposeful design that results in measurable outcomes for our customers and our business.
 
