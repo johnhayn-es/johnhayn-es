@@ -7,7 +7,7 @@ image: '../assets/images/john.png'
 
 I work at [Entertainment Partners][1] where I lead the UK design team to build financial services for the film and television industry.
 
-I believe the purpose of the product design function is to live in the future, then come back to help the business plot a course toward it. My work combines [outcome-driven innovation]() with [continuous, legacy-free reinvention]() to ensure that what we build delivers optimal value to our customers, protecting and securing our position as market leaders.  
+I believe the purpose of the product design function is to live in the future, then come back to help the business plot a course toward it. My work combines outcome-driven innovation with continuous, legacy-free reinvention to ensure that what we build delivers optimal value to our customers, protecting and securing our position as market leaders.  
 
 <!-- {% assign reversed_posts = site.posts %}{% for post in reversed_posts | limit:1 %}{% if post.categories contains "blog" %}I sometimes write about things, most recently <a href="{{ post.url }}">{{post.title | downcase}}</a>.{% endif %}{% endfor %} -->
 
