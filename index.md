@@ -5,11 +5,9 @@ category: about
 image: '../assets/images/john.png'
 --- 
 
-## Hello. I am John, the Lead Product Designer for [Entertainment Partners][1] where I lead the UK design team, building financial services for the entertainment industry.
+## Hello. I am John, the Lead Product Designer for [Entertainment Partners][1].
 
-As a designer, I occupy an unusual position; I am leading both UX and product intelligence strategy for EPUK, combining product design with hands-on data analysis. 
-
-When working, I combine two distinct principles, continuous legacy-free reinvention (the freedom to solve problems with lateral thinking) and outcome-driven innovation (focusing on how to impact user outcomes). My focus on ROI and user outcomes enables me to practice very purposeful design, resulting in lean product and service solutions that have a measurable impact on our customers and bottom line.
+My career is threaded by three key disciplines; telling stories, making impactful things and measuring their success. I lead teams to define, quantify and prioritise customer needs. Where possible I practise radical candour - rapidly sharing user stories  and insights  to spark ideas from everyone in the business. My focus on understanding the intersection between business and customer value is why I have a track record for developing lean but highly impactful products & services. I am also an experienced and adaptable individual contributor with more than seven years leading and contributing to complex projects. 
 
 <!-- {% assign reversed_posts = site.posts %}{% for post in reversed_posts | limit:1 %}{% if post.categories contains "blog" %}I sometimes write about things, most recently <a href="{{ post.url }}">{{post.title | downcase}}</a>.{% endif %}{% endfor %} -->
 
