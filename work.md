@@ -12,7 +12,7 @@ layout: work
 	* Oversee the UK design team and serve as the principal designer for EPUK's Production Payroll service, managing the end-to-end design process.
 * #### Oct 2022 
 	* ## Senior Designer
-	* # Entetainment Partners
+	* ## Entetainment Partners
 	* Visit the [EP website](http://ep.com)
 	* I re-joined Entertainment Partners (formally We Got POP) to oversee the design of our international products.
 * #### Feb 2022 
