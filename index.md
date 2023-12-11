@@ -5,7 +5,7 @@ category: about
 image: '../assets/images/john.png'
 --- 
 
-# Hey. I'm John,the Lead Product Designer at [Entertainment Partners](0).
+# Hey. I'm John, the Lead Product Designer at [Entertainment Partners](0).
 
 I have thousands of hours experience defining problems, desiging solutions for them and then measuring the impact they have. For brevity, I've chosen to keep this portfolio focused on more-recent examples of my work.
 
