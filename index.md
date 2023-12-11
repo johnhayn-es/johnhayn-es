@@ -19,10 +19,10 @@ As an excellent by-product of this, I was also given the opportunity to [fly to 
 Over the same period (and off the side of my desk) I have spearheaded the UK team's data strategy. This involved hiring some excellent consultants to help [define the UK's strategic KPIs](7) and then putting my data analysis skills to good use to [operationalise the MVP dashboards](8). In order to maximise the number of people paying attention I have also sought to increase the data-literacy of the team by [publishing regular briefings](9) which have themselves garnered a lot of positive engagement. The final step of the strategy is to [migrate our reporting from DOMO into Qlik](10), which has meant [training myself on how to build efficient data models](11).  
 
 ### Other interesting stuff I've done in the last few years
-
-* I started work on a side-project, [AnswerTime](12)
-* I raised [£560k of non-dilutive funding to build a machine learning (ML) model](13) that can predict the safety of utilities worksites across the UK
-* I ran [further and faster than the previous year](14) and ran 5k in less than 21 minutes
+* Debuted as a speaker at few events, including [CRAP talks](12)
+* I started work on a side-project, [AnswerTime](13)
+* I raised [£560k of non-dilutive funding to build a machine learning (ML) model](14) that can predict the safety of utilities worksites across the UK
+* I ran [further and faster than the previous year](15) and ran 5k in less than 21 minutes
 
 
 [0]: http://www.ep.com
@@ -38,3 +38,6 @@ Over the same period (and off the side of my desk) I have spearheaded the UK tea
 [10]: /
 [11]: /
 [12]: /
+[13]: /
+[14]: /
+[15]: /
