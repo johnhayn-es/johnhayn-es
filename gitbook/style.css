@@ -29,8 +29,10 @@ audio:not([controls]) {
     display: none
 }
 
+
 html {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-weight:300;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%
 }
@@ -46,6 +48,12 @@ a:focus {
 a:active,
 a:hover {
     outline: 0
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 900;
+    font-style: italic;
 }
 
 h1 {
