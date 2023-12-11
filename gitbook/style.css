@@ -3731,7 +3731,14 @@ table {
 .markdown-section a {
     color: #4183c4;
     text-decoration: none;
-    font-weight: 600;
+    font-weight: 500;
+    background: 0 0
+}
+
+.markdown-section h2 a {
+    color: #4183c4;
+    text-decoration: none;
+    font-weight: 800;
     background: 0 0
 }
 
