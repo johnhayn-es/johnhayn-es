@@ -33,7 +33,6 @@
                                 <div class="search-noresults">
                                     {% if page.image %}
                                     <section class="normal markdown-section home-item-container">
-                                        <div class="home-item">
                                             {% if page.layout == "post" %}
                                             {% if page.end-date %}
                                             <h3>({{ page.date | date: "%b %Y" }} - {{ page.end-date | date: "%b %Y" }})</h3>
@@ -42,7 +41,6 @@
                                             {% endif %}
                                             {% endif %}
                                             {{ content }}
-                                        </div>
 <!--                                         <div class="home-item">
                                             <span class="image ">
                                               <img src="{{ page.image }}" alt="{{ page.title }}" />
