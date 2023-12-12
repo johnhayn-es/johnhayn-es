@@ -3681,10 +3681,6 @@ table {
     font-size: inherit
 }
 
-.markdown-section>:first-child {
-    margin-top: 0 !important
-}
-
 .markdown-section>:last-child {
     margin-bottom: 0 !important
 }
@@ -4485,7 +4481,6 @@ body {
 }
 
 .home-item:first-child {
-	margin:0;
     max-width: 50%;
 	padding-right: 5%;
 	box-sizing: border-box;

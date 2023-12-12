@@ -8,7 +8,7 @@ image: '../assets/images/john.png'
 ## Hey. I'm John, Lead Product Designer at [Entertainment Partners](0).
 
 I have thousands of hours experience defining problems, desiging solutions for them and then measuring the impact they have. 
-* **IxDF certified** (with distinction) user experience designer 
+* **IxDF certified** user experience designer (with distinction)
 * **Led the design** and **teams of designers** for start-ups and larger corporate businesses
 * I'm a **Qlik certified data analyst** and passionate about building a culture of data-reliance
 
