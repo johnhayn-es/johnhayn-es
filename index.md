@@ -29,11 +29,6 @@ Over the same period (and off the side of my desk) I have spearheaded the UK tea
 * I started work on a side-project, [AnswerTime](13)
 * I ran [further and faster than the previous year](15) and ran 5k in less than 21 minutes
 
-### More links
-* Resume
-* Portfolio
-* LinkedIn
-
 
 [0]: http://www.ep.com
 [1]: / 
