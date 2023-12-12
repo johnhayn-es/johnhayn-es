@@ -7,9 +7,9 @@ image: '../assets/images/john.png'
 
 ## Hey. I'm John, Lead Product Designer at [Entertainment Partners](0).
 
-I have thousands of hours experience defining problems, desiging solutions for them and then measuring the impact they have. 
+I have thousands of hours experience defining problems, desiging solutions and measuring their impact. 
 * **IxDF certified** user experience designer (with distinction)
-* I'm a **Qlik certified data analyst** and passionate about building a culture of data-reliance
+* **Qlik certified data analyst** and passionate about building a culture of data-reliance
 * **Led the design** and **teams of designers** for start-ups and larger corporate businesses
 
 For brevity, I've chosen to keep this portfolio focused on more-recent examples of my work.
@@ -21,7 +21,7 @@ I implemented a [new product discovery process](2) to document our users jobs-to
 
 As a by-product of this, [I was flown to India to train our offshore QA team about our customers](6).
 
-Over the same period (and off the side of my desk) I have spearheaded the UK team's data strategy. This involved [defining the UK's strategic KPIs](7) and then putting my data analysis skills to good use to [operationalise the MVP dashboards](8). I also sought to increase the data-literacy of the team by [publishing regular briefings](9) which have garnered a lot of positive engagement. The final step of the strategy is to [migrate our reporting from DOMO into Qlik](10), which has meant [training myself on how to build efficient data models](11).  
+Over the same period I have spearheaded the UK team's data strategy. This involved [defining the UK's strategic KPIs](7) and then putting my data analysis skills to good use to [operationalise the MVP dashboards](8). I also sought to increase the data-literacy of the team by [publishing regular briefings](9) which have garnered a lot of positive engagement. The final step of the strategy is to [migrate our reporting from DOMO into Qlik](10), which has meant [training myself on how to build efficient data models](11).  
 
 ### Other interesting stuff I've done in the last few years
 * I raised [£560k of non-dilutive funding to build a machine learning (ML) model](14) that can predict the safety of utilities worksites across the UK
