@@ -4367,6 +4367,7 @@ body {
     font-smoothing: antialiased;
     font-family: 'Poppins', sans-serif;
     font-size: 15px;
+    font-weight: 500;
     letter-spacing: .2px;
     text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
