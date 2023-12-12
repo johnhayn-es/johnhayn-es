@@ -4476,8 +4476,8 @@ body {
 .home-item-container {
     display: flex;
     flex-wrap: wrap;
-    flex-direction: row;
-    justify-content: flex-star;
+    flex-direction: column;
+    justify-content: flex-start;
     align-items: auto;
     align-content: start;
     flex: 1 1 auto;
