@@ -3786,8 +3786,8 @@ table {
 .markdown-section h4,
 .markdown-section h5,
 .markdown-section h6 {
-    margin-top: 0.8em;
-    margin-bottom: 0.4em;
+    margin-top: 1em;
+    margin-bottom: 1em;
     font-weight: 800;
     line-height: 1em;
 }
