@@ -9,8 +9,8 @@ image: '../assets/images/john.png'
 
 I have thousands of hours experience defining problems, desiging solutions for them and then measuring the impact they have. 
 * **IxDF certified** user experience designer (with distinction)
-* **Led the design** and **teams of designers** for start-ups and larger corporate businesses
 * I'm a **Qlik certified data analyst** and passionate about building a culture of data-reliance
+* **Led the design** and **teams of designers** for start-ups and larger corporate businesses
 
 For brevity, I've chosen to keep this portfolio focused on more-recent examples of my work.
 
