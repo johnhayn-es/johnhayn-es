@@ -14,6 +14,11 @@ summary {
     display: block
 }
 
+.full-width-image {
+    width: 100%;
+    height: auto;
+}
+
 audio,
 canvas,
 video {

@@ -7,7 +7,12 @@ image: '../assets/images/john.png'
 
 ## Hey. I'm John, the Lead Product Designer at [Entertainment Partners](0).
 
-I have thousands of hours experience defining problems, desiging solutions for them and then measuring the impact they have. For brevity, I've chosen to keep this portfolio focused on more-recent examples of my work.
+I have thousands of hours experience defining problems, desiging solutions for them and then measuring the impact they have. 
+* **IxDF certified (with distinction)** user experience designer
+* **Led the design** and **teams of designers** for start-ups and larger corporate businesses
+* I'm a **qualified data analyst** and passionate about building a culture of data-reliance
+
+For brevity, I've chosen to keep this portfolio focused on more-recent examples of my work.
 
 ### Recently...
 At the start of 2023 my team and I were faced with the task of [improving a newly-launched Timesheets product](1). The brief was open-ended; reduce the impact of customer pain-points, stabilise the service and introduce features that enable us to gain a higher market share (supporting more workflows).
@@ -19,10 +24,15 @@ As an excellent by-product of this, I was also given the opportunity to [fly to 
 Over the same period (and off the side of my desk) I have spearheaded the UK team's data strategy. This involved hiring some excellent consultants to help [define the UK's strategic KPIs](7) and then putting my data analysis skills to good use to [operationalise the MVP dashboards](8). In order to maximise the number of people paying attention I have also sought to increase the data-literacy of the team by [publishing regular briefings](9) which have themselves garnered a lot of positive engagement. The final step of the strategy is to [migrate our reporting from DOMO into Qlik](10), which has meant [training myself on how to build efficient data models](11).  
 
 ### Other interesting stuff I've done in the last few years
+* I raised [£560k of non-dilutive funding to build a machine learning (ML) model](14) that can predict the safety of utilities worksites across the UK
 * Debuted as a speaker at few events, including [CRAP talks](12)
 * I started work on a side-project, [AnswerTime](13)
-* I raised [£560k of non-dilutive funding to build a machine learning (ML) model](14) that can predict the safety of utilities worksites across the UK
 * I ran [further and faster than the previous year](15) and ran 5k in less than 21 minutes
+
+### More links
+* Resume
+* Portfolio
+* LinkedIn
 
 
 [0]: http://www.ep.com
