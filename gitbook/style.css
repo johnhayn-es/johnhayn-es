@@ -3787,7 +3787,7 @@ table {
 .markdown-section h5,
 .markdown-section h6 {
     margin-top: 1em;
-    margin-bottom: 1em;
+    margin-bottom: 0.6em;
     font-weight: 800;
     line-height: 1em;
 }
@@ -4377,7 +4377,7 @@ body {
 /* Custom CSS */
 
 .work-timeline h1 {
-    font-size: 2em;
+    font-size: 2.8em;
     display: inline;
     margin-top: 0;
     margin-bottom: 0;
@@ -4385,7 +4385,7 @@ body {
 }
 
 .work-timeline h2 {
-    font-size: 2em;
+    font-size: 2.4em;
     display: inline;
     margin-top:0;
     margin-bottom:0;
