@@ -10,7 +10,7 @@ image: '../assets/images/john.png'
 I have thousands of hours experience defining problems, desiging solutions and measuring their impact. 
 * **IxDF certified** user experience designer (with distinction)
 * **Qlik certified data analyst** and passionate about building a culture of data-reliance
-* **Led the design** and **teams of designers** for start-ups and larger corporate businesses
+* **Led the design** and **teams of designers and product folk** for start-ups and larger corporate businesses
 
 ### Recently...
 At the start of 2023 my team and I were faced with the task of [improving a newly-launched Timesheets product](1).
