@@ -13,7 +13,7 @@ I have thousands of hours experience defining problems, desiging solutions and m
 * **Led the design** and **teams of designers and product folk** for start-ups and larger corporate businesses
 
 ### Recently...
-At the start of 2023 my team and I were faced with the task of [improving a newly-launched Timesheets product](1).
+At the start of 2023 my team and I were faced with the task of [launching and iterating a Timesheets product](1).
 
 I implemented a [new product discovery process](2) to document our users jobs-to-be-done in a relational research system. We conducted numerous [on-site research sessions](3) and built a very clear picture of the problem-space and used this same framework to [analyse which roadmap items would be most impactful](4). This enabled us to design multiple impactful new features for our [Timesheets product](1), as well as turn around an initial (and very well received) designs for a [novel Digital Payroll service](5) in less than 3 weeks. 
 
