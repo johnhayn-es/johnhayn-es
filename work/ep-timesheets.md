@@ -144,9 +144,11 @@ Overall, this project
 ### Challenges
 * Should have found a way to avoid the 80 hour weeks
 
-![TL;DR Image](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--check-in--modal--welcome.png){: .scroll-image}
-![TL;DR Image](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--check-in--modal--welcome.png){: .scroll-image}
-![TL;DR Image](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--check-in--modal--welcome.png){: .scroll-image}
+<div class="sticky-container">
+  ![Image Description](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--notifications--messages+grey.png){: .scroll-image}
+  ![Image Description](/assets/images/timesheets/chips.jpg){: .scroll-image}
+  ![Image Description](/assets/images/timesheets/chips.jpg){: .scroll-image}
+</div>
 
 </div>
 
