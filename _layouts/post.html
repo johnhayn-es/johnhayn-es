@@ -11,10 +11,17 @@
         {% endif %}
 
         {% if page.next %}
-            <link rel="next" href="{{site.baseurl}}{{page.next.url}}" />
+            <link rel="next" href="ç{{page.next.url}}" />
         {% endif %}
     </head>
     <body>
+        <script type="text/javascript">
+            var password = prompt('Enter the password to view this page:');
+            if (password != '2024') {
+                window.location = '{{site.baseurl}}'; // Redirect to another page
+            }
+        </script>
+
         <div class="book">
 
             {%- include toc-date.html -%}
