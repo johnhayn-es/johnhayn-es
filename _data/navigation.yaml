@@ -4,6 +4,6 @@
 - text: Work
   category: site
   url: /work
-- text: Running
-  category: site
-  url: /running
+# - text: Running
+#   category: site
+#   url: /running
