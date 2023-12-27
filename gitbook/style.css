@@ -20,30 +20,6 @@ summary {
     height: auto; 
 }
 
-.scroll-image {
-  width: 100%; /* or fixed width as needed */
-  position: sticky;
-  top: 0; /* Adjust this value to change the 'stickiness' point */
-}
-
-@media (min-width: 768px) { /* Adjust this value based on your design */
-  .content-with-image {
-    display: flex;
-  }
-  .text-content {
-    flex: 1;
-  }
-  .image-content {
-    flex: 0 0 300px; /* Adjust this value based on your image size */
-  }
-}
-
-@media (max-width: 767px) { /* Mobile view adjustments */
-  .scroll-image {
-    position: static; /* Regular scroll on mobile */
-  }
-}
-
 
 audio,
 canvas,

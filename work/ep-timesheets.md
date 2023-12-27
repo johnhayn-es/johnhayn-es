@@ -5,15 +5,10 @@ category: portfolio
 layout: post
 ---
 
-<div id="1" class="content-section">
-
 ## TL;DR
 I implemented a new discovery project to help a delivery-focused team deliver a novel timesheets product, tailored specifically to UK film and television production. Now 75% of timesheets (about 1500 per week) are completed and submitted in less than 5 minutes and our product-satisfaction scores are at an all-time high.
 
-![TL;DR Image](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--check-in--modal--welcome.png){: .scroll-image}
-</div>
-
-<div id="2" class="content-section">
+![Image Description](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--notifications--messages+grey.png)
 
 ## Background
 Our strategy was to build a global production finance suite, enabling large studios (like Disney, Netflix, Apple) to hire, manage and pay everyone working across their productions - anywhere in the world. The product vision was simple; roll out our market-leading production management platform gloablly, then connect it to (interchangable) local payroll service(s) to enable us quickly roll out to new international markets. 
@@ -40,10 +35,8 @@ After much consideration we settled on the following objectives for this project
 	* Minimise the number of manual overrides required
 * Maximise product differentiation from our competitors (give people a reason to switch to us)
 
-![TL;DR Image](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--check-in--modal--welcome.png){: .scroll-image}
-</div>
+![Image Description](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--notifications--messages+grey.png)
 
-<div id="3" class="content-section">
 
 ## Discovery
 When I first joined the team, very little user research had been undertaken. 
@@ -74,9 +67,6 @@ Broke work into milestones
 ### Kicking off the project
 Brought the whole team together 
 Walked through objectives, our findings and the tactical plan
-</div>
-
-<div id="4" class="content-section">
 
 ## Design iterations and validation
 From this point, the project really shifted into delivery mode and I needed to take 25 individual concepts from idea to solution. 
@@ -123,11 +113,7 @@ By implementing this feature:
 
 #### Result
 
-![TL;DR Image](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--check-in--modal--welcome.png){: .scroll-image}
-
-</div>
-
-<div id="5" class="content-section">
+![Image Description](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--notifications--messages+grey.png)
 
 ## Summary and reflections
 Overall, this project
@@ -144,13 +130,8 @@ Overall, this project
 ### Challenges
 * Should have found a way to avoid the 80 hour weeks
 
-<div class="sticky-container">
-  ![Image Description](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--notifications--messages+grey.png){: .scroll-image}
-  ![Image Description](/assets/images/timesheets/chips.jpg){: .scroll-image}
-  ![Image Description](/assets/images/timesheets/chips.jpg){: .scroll-image}
-</div>
-
-</div>
+  ![Image Description](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--notifications--messages+grey.png)
+  ![Image Description](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--notifications--messages+grey.png)
 
 
 
