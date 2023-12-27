@@ -18,9 +18,9 @@ Outside of the US & Canada, the UK is the largest territory for Film and Televis
 
 ## Challenges: 
 Three key challenges stood in our way: 
-* Users weren't getting on with our existing timesheets feature; crew (completing timesheets) found it particularly hard to use 
-* Production teams were constantly needing to override incorrect calculations and, with a new PACT/BECTU (film and tv unions) agreement on the table - we needed to completely revise the underlying calculations engine
-* A number of large contracts were up for renewal and we needed to work quickly in order to retain current business
+* **Users weren't getting on with our existing timesheets** product; crew (completing timesheets) found it particularly hard to use 
+* Production teams were constantly needing to **override incorrect calculations** and, with a new PACT/BECTU (film and tv unions) agreement on the table - we needed to completely revise the underlying calculations engine
+* **A number of large contracts were up for renewal** and we needed to work quickly in order to retain current business
 
 Another challenge was the shape of the team. I re-joined the company just as this project was due to kick off and my team consisted of myself (Lead Product Designer), two product managers (each with their own squad of developers) and two product owners (one to work with each of the PMs). As per the org chart, the team was incredibly delivery-focused. While they were all excellent generalists, conducting research was not a core skill for anyone on the team. 
 
