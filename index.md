@@ -12,6 +12,8 @@ I have thousands of hours experience defining problems, desiging solutions and m
 * **Qlik certified data analyst** and passionate about building a culture of data-reliance
 * **Led the design** and **teams of designers and product folk** for start-ups and larger corporate businesses
 
+My portfolio is password protected. Please contact me to gain access.
+
 ### Recently...
 At the start of 2023 my team and I were faced with the task of [launching and iterating a Timesheets product][1].
 
