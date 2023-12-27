@@ -9,6 +9,8 @@ layout: post
 
 ## TL;DR
 I implemented a new discovery project to help a delivery-focused team deliver a novel timesheets product, tailored specifically to UK film and television production. Now 75% of timesheets (about 1500 per week) are completed and submitted in less than 5 minutes and our product-satisfaction scores are at an all-time high.
+
+![TL;DR Image](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--check-in--modal--welcome.png){: .scroll-image}
 </div>
 
 <div id="2" class="content-section">
@@ -37,6 +39,8 @@ After much consideration we settled on the following objectives for this project
 	* Maximising the accuracy of all hours-to-gross calculations performed by our system
 	* Minimise the number of manual overrides required
 * Maximise product differentiation from our competitors (give people a reason to switch to us)
+
+![TL;DR Image](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--check-in--modal--welcome.png){: .scroll-image}
 </div>
 
 <div id="3" class="content-section">
@@ -73,9 +77,6 @@ Walked through objectives, our findings and the tactical plan
 </div>
 
 <div id="4" class="content-section">
-![Image Description](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--notifications--messages+grey.png){: .scroll-image}
-![Image Description](/assets/images/timesheets/chips.jpg){: .scroll-image}
-![Image Description](/assets/images/timesheets/chips.jpg){: .scroll-image}
 
 ## Design iterations and validation
 From this point, the project really shifted into delivery mode and I needed to take 25 individual concepts from idea to solution. 
@@ -121,6 +122,9 @@ By implementing this feature:
 #### Solution
 
 #### Result
+
+![TL;DR Image](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--check-in--modal--welcome.png){: .scroll-image}
+
 </div>
 
 <div id="5" class="content-section">
@@ -139,6 +143,11 @@ Overall, this project
 
 ### Challenges
 * Should have found a way to avoid the 80 hour weeks
+
+![TL;DR Image](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--check-in--modal--welcome.png){: .scroll-image}
+![TL;DR Image](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--check-in--modal--welcome.png){: .scroll-image}
+![TL;DR Image](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--check-in--modal--welcome.png){: .scroll-image}
+
 </div>
 
 
