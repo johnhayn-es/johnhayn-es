@@ -17,14 +17,14 @@ I have thousands of hours experience defining problems, desiging solutions and m
 > 🔒 My portfolio is password protected, please [contact me][11] to gain access.
 
 #### In the past 12 months: 
-I have been focused on two major projects; [rebuilding our Timesheets product][1] and validating a novel and industry-specific [Digital Payroll service][2]. 
+I have been focused on three major projects; [rebuilding our Timesheets product][1], validating a novel and industry-specific [Digital Payroll service][2] and I have [spearheading the UK's data strategy][7]. 
 
 ##### Over this period
 * I implemented a [new product discovery process][3] to enable my team to map and prioritise user needs across [our user personas][4]
 * I lead the team to conduct more than 50 [on-site and remote user research sessions][5] and mapped nearly 900 user stories over 45 jobs-to-be-done
 * We defined a roadmap and I designed design multiple impactful [timesheets][1] and [payroll][2] features.
 * I was flown to India and used the psonas and job maps to [train our offshore QA team about our customers][6].
-* I have spearheaded the UK team's data strategy to [define and operationalise our business-wide KPIs][7]
+* [Built a dashboard that aggregates our business-wide KPIs][7] and embedded its use into our processes and culture
 
 #### Other interesting stuff I've done in the last few years
 * I raised [£560k of non-dilutive funding to build a machine learning (ML) model][8] that can predict the safety of utilities worksites across the UK
