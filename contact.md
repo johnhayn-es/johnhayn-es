@@ -1,11 +1,12 @@
 ---
 layout: contact
-title: About me
+title: Contact me
 category: about
 image: '../assets/images/john.png'
 --- 
 
 
-John Haynes
+##### John Haynes
 mail@johnhayn.es
+
 +44 7584 500 271
