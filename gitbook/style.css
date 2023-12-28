@@ -20,6 +20,10 @@ summary {
     height: auto; 
 }
 
+blockquote .markdown-section {
+    margin-bottom: 0;
+}
+
 
 audio,
 canvas,
