@@ -16,21 +16,21 @@
     </head>
     <body>
 
-        <div id="password-protect">
-            <form id="password-form">
-                <input type="password" id="password-input" placeholder="Enter password">
-                <button type="submit">Submit</button>
-            </form>
-        </div>
-        <div id="content-hider" style="display:none;">
+
             <div class="book">
 
             {%- include toc-date.html -%}
 
             <div class="book-body">
-
-                {%- include body.html -%}
-
+                <div id="password-protect">
+                    <form id="password-form">
+                        <input type="password" id="password-input" placeholder="Enter password">
+                        <button type="submit">Submit</button>
+                    </form>
+                </div>
+                <div id="content-hider" style="display:none;">
+                    {%- include body.html -%}
+                </div>
             </div>
 
             <script>
@@ -40,7 +40,7 @@
             });
             </script>
         </div>
-        </div>
+
 
         {%- include footer.html -%}
 
@@ -52,7 +52,7 @@
         var password = document.getElementById('password-input').value;
         if (password === '2024') { // Replace '2024' with your password
             document.getElementById('password-protect').style.display = 'none';
-            document.getElementById('content-hider').style.display = 'block';
+            document.getElementById('content').style.display = 'block';
         } else {
             alert('Incorrect password');
         }
