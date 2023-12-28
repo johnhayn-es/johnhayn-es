@@ -70,7 +70,7 @@ Brought the whole team together
 Walked through objectives, our findings and the tactical plan
 
 
-# Design iterations and validation
+# Feature design and validation
 From this point, the project really shifted into delivery mode and I needed to take 25 individual concepts from idea to solution. 
 
 To throw a spanner in the works, there were rumors circulating of an upcoming actors strike. So, coinciding with the end of the discovery process, the UK business decided to pivot to also delivering the first version of our [digital Payroll service](). Work was due to start on this in just 4 weeks time. 
