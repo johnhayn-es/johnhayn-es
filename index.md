@@ -29,7 +29,7 @@ Over the same period I have spearheaded the UK team's data strategy. This involv
 * Increasing the data-literacy of the team by [publishing regular briefings][10]
 * and, are certifying as a Qlik data analyst, training myself on how to build efficient data models as I migrate our reporting into Qlik
 
-## Other interesting stuff I've done in the last few years
+### Other interesting stuff I've done in the last few years
 * I raised [£560k of non-dilutive funding to build a machine learning (ML) model][11]that can predict the safety of utilities worksites across the UK
 * Debuted as a speaker at few events, including [CRAP talks][12]
 * I ran [further and faster than the previous year][13] and ran 5k in less than 21 minutes
