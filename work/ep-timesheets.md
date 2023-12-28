@@ -5,25 +5,26 @@ category: portfolio
 layout: post
 ---
 
-## TL;DR
-I implemented a new discovery project to help a delivery-focused team deliver a novel timesheets product, tailored specifically to UK film and television production. Now 75% of timesheets (about 1500 per week) are completed and submitted in less than 5 minutes and our product-satisfaction scores are at an all-time high.
+### TL;DR
+I implemented a new discovery project to help a delivery-focused team deliver a novel timesheets product, tailored specifically to UK film and television production. 
+
+As a result: 
+* 75% of timesheets (about 1500 per week) are completed and submitted in less than 5 minutes 
+* Our product-satisfaction scores are at an all-time high.
+* We have captured and prioritised nearly 900 user stories and mapped them across 50 jobs-to-be-done in a relational research system
 
 ![Image Description](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--notifications--messages+grey.png)
 
-## Background
+# Background
 Our strategy was to build a global production finance suite, enabling large studios (like Disney, Netflix, Apple) to hire, manage and pay everyone working across their productions - anywhere in the world. The product vision was simple; roll out our market-leading production management platform gloablly, then connect it to (interchangable) local payroll service(s) to enable us quickly roll out to new international markets. 
 
 Outside of the US & Canada, the UK is the largest territory for Film and Television production spend. Our US counterparts already have timesheets software - but the UK and US workflows are very different and it was decided that we would invest in building a novel service, rather than tailoring the US offering for a UK audience.
 
 ### Challenges: 
-Three key challenges stood in our way: 
 * **Users weren't getting on with our existing timesheets** product; crew (completing timesheets) found it particularly hard to use 
 * Production teams were constantly needing to **override incorrect calculations** and, with a new PACT/BECTU (film and tv unions) agreement on the table - we needed to completely revise the underlying calculations engine
 * **A number of large contracts were up for renewal** and we needed to work quickly in order to retain current business
-
-Another challenge was the shape of the team. I re-joined the company just as this project was due to kick off and my team consisted of myself (Lead Product Designer), two product managers (each with their own squad of developers) and two product owners (one to work with each of the PMs). As per the org chart, the team was incredibly delivery-focused. While they were all excellent generalists, conducting research was not a core skill for anyone on the team. 
-
-It was clear that we'd need to address this skills gap in order to move at the required pace. 
+* Another challenge was the shape of the team. I re-joined the company just as this project was due to kick off and my team consisted of myself (Lead Product Designer), two product managers (each with their own squad of developers) and two product owners (one to work with each of the PMs). As per the org chart, the team was incredibly delivery-focused. While they were all excellent generalists, conducting research was not a core skill for anyone on the team. 
  
 ### Objectives
 After much consideration we settled on the following objectives for this project: 
@@ -38,7 +39,7 @@ After much consideration we settled on the following objectives for this project
 ![Image Description](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--notifications--messages+grey.png)
 
 
-## Discovery
+# Discovery
 When I first joined the team, very little user research had been undertaken. 
 
 Instead, the PMs had focused on categorising inbound feedback into problem statements. While this gave us a solid foundation to start with, I felt uneasy building a completely novel solution solely through the lens of feedback on our existing product. 
@@ -68,7 +69,8 @@ Broke work into milestones
 Brought the whole team together 
 Walked through objectives, our findings and the tactical plan
 
-## Design iterations and validation
+
+# Design iterations and validation
 From this point, the project really shifted into delivery mode and I needed to take 25 individual concepts from idea to solution. 
 
 To throw a spanner in the works, there were rumors circulating of an upcoming actors strike. So, coinciding with the end of the discovery process, the UK business decided to pivot to also delivering the first version of our [digital Payroll service](). Work was due to start on this in just 4 weeks time. 
@@ -92,7 +94,6 @@ I designed a new component, "chips", to categorise and summarise the durations a
 
 #### Result
 
-
 ### Prepopulation of timesheets 
 #### User story(s)
 * As a member of crew, when I need to tell the Production Team how many hours I've worked I want to get it done quickly and accurately so that I can get back to my actual job.
@@ -103,7 +104,7 @@ I designed a new component, "chips", to categorise and summarise the durations a
 By implementing this feature: 
 * we reduced the minimum number of steps required to complete a timesheet from 33 to just 2
 * 75% of our timesheets are completed in 5 minutes or less (about 1500 every week)
-* 72% 
+* 72% of respondents (215 of 300 crew who completed the survey) agreed that Production Portal minimises the time it takes to complete their timesheet
 
 ### Edited fields
 #### User story(s)
@@ -115,7 +116,12 @@ By implementing this feature:
 
 ![Image Description](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--notifications--messages+grey.png)
 
-## Summary and reflections
+### Daily timesheets
+
+![Image Description](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--notifications--messages+grey.png)
+
+
+# Summary and reflections
 Overall, this project
 
 ### Wins
