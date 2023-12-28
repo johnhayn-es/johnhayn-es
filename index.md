@@ -15,7 +15,7 @@ I have thousands of hours experience defining problems, desiging solutions and m
 **My portfolio is password protected. Please contact me to gain access.**
 
 # Recently...
-At the start of 2023 my team and I were faced with the task of [launching and iterating a Timesheets product][1]. As part of this project: 
+At the start of 2023 my team and I were faced with the task of [rebuilding a Timesheets product for Film and Tv][1]. As part of this project: 
 
 * I implemented a [new product discovery process][2] to document our users jobs-to-be-done in a relational research system.  
 * I lead the team to conduct 30+ [on-site and remote user research sessions][3] to build a clear picture of the problem-space (creating and prioritising 880 user stories across 45 job maps)
