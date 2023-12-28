@@ -12,6 +12,8 @@ As a result:
 * Our product-satisfaction scores are at an all-time high.
 * We have captured and prioritised nearly 900 user stories and mapped them across 50 jobs-to-be-done in a relational research system
 
+> Skip to the [UI design][#feature-design-and-validation]
+
 ![Image Description](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--notifications--messages+grey.png)
 
 # Background
@@ -76,7 +78,7 @@ To throw a spanner in the works, there were rumors circulating of an upcoming ac
 
 As the sole designer working across both teams, this gave me an incredibly short turnaround time to get initial designs validated and into development. Working closely with the PMs (and working four 80hr weeks in a row) we managed to make incredibly strong progress - 60% of the outstanding work had fully validated refernce designs and everything else was in-progress or descoped into a later milestone. This was achieved by creating open channels with a number of users and regularly re-prioritising what was next based on their feedback. We essentially created an asynchronous focus group of 8-10 Production Accountants and Production Managers who were giving us near real time feedback on the user experience.
 
-Here's a short recap of the most impactful features from this period: 
+[Here's a short recap of the most impactful features from this period:][#ui]
 
 ### Summary chips
 
