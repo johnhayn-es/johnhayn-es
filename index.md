@@ -16,9 +16,9 @@ I have thousands of hours experience defining problems, desiging solutions and m
 
 > 🔒 My portfolio is password protected, please contact me to gain access.
 
-This year my team and I have been focused on two major projects; [rebuilding our Timesheets product][1] and validating designs for a [novel Digital Payroll service][6]. 
+This year my team and I have been focused on two major projects; [rebuilding our Timesheets product][1] and validating a novel and industry-specific [Digital Payroll service][6]. 
 
-Over the past 12 months: 
+#### In the past 12 months: 
 * I implemented a [new product discovery process][2] to enable anyone on my team to document, map and prioritise user needs across any of [our user personas][14]
 * I lead the team to conduct >50 [on-site and remote user research sessions][3] and we mapped nearly 900 user stories over 45 jobs-to-be-done
 * We defined a roadmap and I designed design multiple impactful [timesheets][5] and [payroll][6] features.
