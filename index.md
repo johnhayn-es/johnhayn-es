@@ -13,7 +13,6 @@ I have thousands of hours experience defining problems, desiging solutions and m
 * **Led the design** and **teams of designers and product folk** for start-ups and larger corporate businesses
 
 > 🔒 My portfolio is password protected
-> 
 > **Please contact me to gain access.**
 
 ## Recently...
