@@ -17,7 +17,7 @@ I have thousands of hours experience defining problems, desiging solutions and m
 > 🔒 My portfolio is password protected, please [contact me][11] to gain access.
 
 #### In the past 12 months: 
-I have been focused on three major projects; [rebuilding our Timesheets product][1], validating a novel and industry-specific [Digital Payroll service][2] and I have [spearheading the UK's data strategy][7]. 
+I have been focused on three major projects; [rebuilding our Timesheets product][1], validating a novel and industry-specific [Digital Payroll service][2] and [spearheading the UK's data strategy][7]. 
 
 ##### Over this period
 * I implemented a [new product discovery process][3] to enable my team to map and prioritise user needs across [our user personas][4]
