@@ -12,10 +12,11 @@ I have thousands of hours experience defining problems, desiging solutions and m
 * **Qlik certified data analyst** and passionate about building a culture of data-reliance
 * **Led the design** and **teams of designers and product folk** for start-ups and larger corporate businesses
 
+## Recently...
+
 > 🔒 My portfolio is password protected
 > **Please contact me to gain access.**
 
-## Recently...
 This year my team and I have been focused on two major projects; [rebuilding our Timesheets product][1] and validating designs for a [novel Digital Payroll service][6]. 
 
 Over the past 12 months: 
