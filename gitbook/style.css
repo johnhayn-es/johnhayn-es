@@ -25,6 +25,15 @@ summary {
     width: 100vw;
 }
 
+#password-protect {
+    padding: 2em;
+}
+
+#password-form {
+    /* Styles for the form */
+}
+
+
 audio,
 canvas,
 video {
