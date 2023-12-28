@@ -17,7 +17,7 @@ I have thousands of hours experience defining problems, desiging solutions and m
 > **Please contact me to gain access.**
 
 ## Recently...
-This year my team and I have been focused on two major projects; [rebuilding our Timesheets product from the groound up][1] and validating initial designs for a [novel Digital Payroll service][6]. 
+This year my team and I have been focused on two major projects; [rebuilding our Timesheets product][1] and validating designs for a [novel Digital Payroll service][6]. 
 
 Over the past 12 months: 
 * I implemented a [new product discovery process][2] to enable anyone on my team to document, map and prioritise user needs across any of [our user personas][14]
