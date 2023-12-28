@@ -44,17 +44,18 @@
 
         {%- include footer.html -%}
 
+            <script>
+                document.getElementById('password-form').addEventListener('submit', function(e) {
+                    e.preventDefault();
+                    var password = document.getElementById('password-input').value;
+                    if (password === '2024') { // Replace '2024' with your password
+                        document.getElementById('password-protect').style.display = 'none';
+                        document.getElementById('content').style.display = 'block';
+                    } else {
+                        alert('Incorrect password');
+                    }
+                });
+            </script>
+        
     </body>
 </html>
-<script>
-    document.getElementById('password-form').addEventListener('submit', function(e) {
-        e.preventDefault();
-        var password = document.getElementById('password-input').value;
-        if (password === '2024') { // Replace '2024' with your password
-            document.getElementById('password-protect').style.display = 'none';
-            document.getElementById('content').style.display = 'block';
-        } else {
-            alert('Incorrect password');
-        }
-    });
-</script>
