@@ -1,6 +1,5 @@
 ---
 title: Digital production payroll
-date: 2023-11-01
 category: portfolio
 layout: post
 ---

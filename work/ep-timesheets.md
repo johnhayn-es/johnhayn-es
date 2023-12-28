@@ -1,6 +1,5 @@
 ---
 title: Timesheets for high-end television
-date: 2023-11-01
 category: portfolio
 layout: post
 ---
