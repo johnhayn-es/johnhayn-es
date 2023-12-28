@@ -15,13 +15,13 @@ I have thousands of hours experience defining problems, desiging solutions and m
 **My portfolio is password protected. Please contact me to gain access.**
 
 # Recently...
-At the start of 2023 my team and I were faced with the task of [rebuilding our Timesheets product][1]. As part of this project: 
+This year my team and I have been focused on two major projects; [rebuilding our Timesheets product from the groound up][1] and validating initial designs for a [novel Digital Payroll service][6]. 
 
-* I implemented a [new product discovery process][2] to build a relational research system built upon jobs-to-be-done
-* I lead the team to conduct 30+ [on-site and remote user research sessions][3] to build a clear picture of the problem-space
-* We defined a roadmap and I designed design multiple impactful [Timesheets features][5], then, when the business pivoted, I created initial designs for a [novel Digital Payroll service][6].
-
-As a by-product of the success of the process and relational system we built, [I was flown to India to train our offshore QA team about our customers][7].
+Over the past 12 months: 
+* I implemented a [new product discovery process][2] to enable anyone on my team to document, map and prioritise user needs across any of [our user personas][14]
+* I lead the team to conduct >50 [on-site and remote user research sessions][3] and we mapped nearly 900 user stories over 45 jobs-to-be-done
+* We defined a roadmap and I designed design multiple impactful [timesheets][5] and [payroll][6] features.
+* I was flown to India and used the personas and job maps to [train our offshore QA team about our customers][7].
 
 Over the same period I have spearheaded the UK team's data strategy. This involved: 
 * [Defining the UK's strategic KPIs][8]
@@ -49,3 +49,4 @@ Over the same period I have spearheaded the UK team's data strategy. This involv
 [11]: /
 [12]: /
 [13]: /running-2023
+[14]: 
