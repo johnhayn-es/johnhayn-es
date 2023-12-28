@@ -20,10 +20,6 @@ summary {
     height: auto; 
 }
 
-blockquote .markdown-section {
-    margin-bottom: 0;
-}
-
 
 audio,
 canvas,
@@ -3732,7 +3728,7 @@ table {
 .markdown-section table,
 .markdown-section ul {
     margin-top: 0;
-    margin-bottom: .85em
+    margin-bottom: 0
 }
 
 .markdown-section a {
