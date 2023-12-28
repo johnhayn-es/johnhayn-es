@@ -22,8 +22,8 @@
                 <button type="submit">Submit</button>
             </form>
         </div>
-        <div id="content" style="display:none;">
-                    <div class="book">
+        <div id="content-hider" style="display:none;">
+            <div class="book">
 
             {%- include toc-date.html -%}
 
@@ -52,7 +52,7 @@
         var password = document.getElementById('password-input').value;
         if (password === '2024') { // Replace '2024' with your password
             document.getElementById('password-protect').style.display = 'none';
-            document.getElementById('content').style.display = 'block';
+            document.getElementById('content-hider').style.display = 'block';
         } else {
             alert('Incorrect password');
         }
