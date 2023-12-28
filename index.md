@@ -19,7 +19,7 @@ I have thousands of hours experience defining problems, desiging solutions and m
 #### In the past 12 months: 
 I have been focused on two major projects; [rebuilding our Timesheets product][1] and validating a novel and industry-specific [Digital Payroll service][2]. 
 
-As part of this:
+##### As part of this:
 * I implemented a [new product discovery process][3] to enable my team to map and prioritise user needs across [our user personas][4]
 * I lead the team to conduct >50 [on-site and remote user research sessions][5] and mapped nearly 900 user stories over 45 jobs-to-be-done
 * We defined a roadmap and I designed design multiple impactful [timesheets][1] and [payroll][2] features.
