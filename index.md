@@ -14,7 +14,7 @@ I have thousands of hours experience defining problems, desiging solutions and m
 
 **My portfolio is password protected. Please contact me to gain access.**
 
-# Recently...
+## Recently...
 This year my team and I have been focused on two major projects; [rebuilding our Timesheets product from the groound up][1] and validating initial designs for a [novel Digital Payroll service][6]. 
 
 Over the past 12 months: 
