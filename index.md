@@ -14,7 +14,7 @@ I have thousands of hours experience defining problems, desiging solutions and m
 
 ## Recently...
 
-> 🔒 My portfolio is password protected, please contact me to gain access.
+> 🔒 My portfolio is password protected, please [contact me][11] to gain access.
 
 This year my team and I have been focused on two major projects; [rebuilding our Timesheets product][1] and validating a novel and industry-specific [Digital Payroll service][2]. 
 
@@ -42,3 +42,4 @@ This year my team and I have been focused on two major projects; [rebuilding our
 [8]: /
 [9]: /
 [10]: /running-2023
+[11]: /contact
