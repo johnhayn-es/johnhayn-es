@@ -15,14 +15,15 @@
         {% endif %}
     </head>
     <body>
-        <script type="text/javascript">
-            var password = prompt('My portfolio is password protected, please contact me for the password');
-            if (password != '2024') {
-                window.location = '{{site.baseurl}}'; // Redirect to another page
-            }
-        </script>
 
-        <div class="book">
+        <div id="password-protect">
+            <form id="password-form">
+                <input type="password" id="password-input" placeholder="Enter password">
+                <button type="submit">Submit</button>
+            </form>
+        </div>
+        <div id="content" style="display:none;">
+                    <div class="book">
 
             {%- include toc-date.html -%}
 
@@ -39,8 +40,21 @@
             });
             </script>
         </div>
+        </div>
 
         {%- include footer.html -%}
 
     </body>
 </html>
+<script>
+    document.getElementById('password-form').addEventListener('submit', function(e) {
+        e.preventDefault();
+        var password = document.getElementById('password-input').value;
+        if (password === '2024') { // Replace '2024' with your password
+            document.getElementById('password-protect').style.display = 'none';
+            document.getElementById('content').style.display = 'block';
+        } else {
+            alert('Incorrect password');
+        }
+    });
+</script>
