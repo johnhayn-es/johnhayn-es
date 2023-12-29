@@ -19,6 +19,7 @@ This product is still in development and is due to be released in Q2 2024.
 > 💡 [Discovery process](#discovery-and-design-validation)
 > 📐[UI design](#ui-design)
 > 📈 [Results](#summary-and-reflections)
+> 💬 [User feedback](#feedback)
 
 # Background
 At the end of July 2023, Hollywood went on strike. 

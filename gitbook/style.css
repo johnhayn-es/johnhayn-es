@@ -3741,7 +3741,8 @@ table {
 .markdown-section table,
 .markdown-section ul {
     margin-top: 0;
-    margin-bottom: 0
+    margin-bottom: 0;
+    display:block;
 }
 
 .markdown-section a {

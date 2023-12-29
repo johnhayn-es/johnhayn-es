@@ -10,6 +10,7 @@ layout: post
 > 💡 [Discovery process](#discovery)
 > 🎯[Strategy](#strategy)
 > 📈 [Results](#summary-and-reflections)
+> 💬 [User feedback](#feedback)
 
 # Discovery
 
