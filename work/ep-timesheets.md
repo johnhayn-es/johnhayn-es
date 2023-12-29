@@ -12,9 +12,10 @@ As a result:
 * Our product-satisfaction scores are at an all-time high.
 * We have captured and prioritised nearly 900 user stories and mapped them across 50 jobs-to-be-done in a relational research system
 
-> Skip to the [UI design][#feature-design-and-validation]
-
-![Image Description](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--notifications--messages+grey.png)
+> Skip to:
+> 💡 [Discovery process](#discovery)
+> 📐[UI design](#feature-design-and-validation)
+> 📈 [Results](#summary-and-reflections)
 
 # Background
 Our strategy was to build a global production finance suite, enabling large studios (like Disney, Netflix, Apple) to hire, manage and pay everyone working across their productions - anywhere in the world. The product vision was simple; roll out our market-leading production management platform gloablly, then connect it to (interchangable) local payroll service(s) to enable us quickly roll out to new international markets. 

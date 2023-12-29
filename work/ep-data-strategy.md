@@ -4,6 +4,18 @@ category: portfolio
 layout: post
 ---
 
+### TL;DR
+
+> Skip to:
+> 💡 [Discovery process](#discovery)
+> 🎯[Strategy](#strategy)
+> 📈 [Results](#summary-and-reflections)
+
+# Discovery
+
+# Strategy
+
+# Summary and reflections
 
 This involved: 
 * [Defining the UK's strategic KPIs][8]

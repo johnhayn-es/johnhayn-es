@@ -15,8 +15,10 @@ The result was a development-ready reference design that demonstrated all of the
 
 This product is still in development and is due to be released in Q2 2024.
 
-
-![Image Description](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--notifications--messages+grey.png)
+> Skip to:
+> 💡 [Discovery process](#discovery-and-design-validation)
+> 📐[UI design](#ui-design)
+> 📈 [Results](#summary-and-reflections)
 
 # Background
 At the end of July 2023, Hollywood went on strike. 
@@ -64,6 +66,8 @@ Used Microsoft teams to record the reactions
 
 Published a three-minute video teaser of the key challenges, feedback and excitement about our prototype - to share with execs and the board
 
+
+## UI design
 Here's a short recap of the most impactful features from this period: 
 
 ### Hub page
