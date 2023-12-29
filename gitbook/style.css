@@ -3746,8 +3746,8 @@ table {
 
 .markdown-section a {
     background-color: rgba(0, 170, 255, 0.1);
-    padding: 4px 8px;
-    border-radius: 4px; 
+    padding: 3px 6px;
+    border-radius: 2px; 
     box-decoration-break: clone; 
     display: inline;
     line-height: normal; 

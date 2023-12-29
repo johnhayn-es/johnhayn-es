@@ -18,9 +18,9 @@ I have thousands of hours experience defining problems, desiging solutions and m
 
 #### In the past 12 months: 
 I have been focused on three major projects:
-1. Rebuilding our [Timesheets product][1]
-2. Validating a novel and industry-specific [Digital Payroll service][2] 
-3. [Spearheading the UK's data strategy][6]. 
+1. Rebuilding our [timesheets product][1]
+2. Validating a novel [digital payroll service][2] 
+3. Spearheading the [UK's data strategy][6]. 
 
 ##### Over this period
 * I implemented a [new product discovery process][3] to enable my team to map and prioritise user needs across [our user personas][4]
