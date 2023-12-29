@@ -3494,7 +3494,7 @@ table {
 
 .book-summary ul.summary li.active {
     background-color: #eeeeee; 
-    /*border: 1px solid #4183c4;*/
+    /*border: 1px solid #00AAFF;*/
     margin: 8px 16px;
     padding: 8px 16px;
     border-radius: 4px;
@@ -3745,14 +3745,30 @@ table {
 }
 
 .markdown-section a {
-    color: #4183c4;
-    text-decoration: none;
-    font-weight: 500;
-    background: 0 0
+    background-color: rgba(0, 170, 255, 0.1);
+    padding: 2px 4px; 
+    box-decoration-break: clone; 
+    display: inline;
+    line-height: normal; 
+    vertical-align: baseline; 
+    margin: 0 2px; 
+    text-decoration: none; 
+    color: #00AAFF; 
+}
+
+/* Ensures the padding doesn't affect the line height and baseline alignment */
+.markdown-section a::before,
+.markdown-section a::after {
+    content: '';
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+    vertical-align: baseline;
+    height: 0;
 }
 
 .markdown-section h2 a {
-    color: #4183c4;
+    color: #00AAFF;
     text-decoration: none;
     font-weight: 700;
     background: 0 0
@@ -4121,7 +4137,7 @@ table {
 }
 
 #book-search-results .search-results .has-results .search-results-item a {
-    color: #4183c4;
+    color: #00AAFF;
     text-decoration: none;
     background: 0 0
 }
@@ -4475,12 +4491,12 @@ body {
 }
 
 .work-timeline ul li:hover {
-    border-left: 0.4em solid #4183c4; 
+    border-left: 0.4em solid #00AAFF; 
 
 }
 
 .work-timeline ul ul li:hover {
-    border-left: 00px solid #4183c4; 
+    border-left: 00px solid #00AAFF; 
 }
 
 .home-item-container {
