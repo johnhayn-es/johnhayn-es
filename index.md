@@ -5,7 +5,7 @@ category: about
 image: '../assets/images/john.png'
 --- 
 
-## Hey. I'm John, Lead Product Designer at [Entertainment Partners][0].
+## Hey. I'm John, Lead Product Designer at [EP][0].
 
 I have thousands of hours experience defining problems, desiging solutions and measuring their impact. 
 * **IxDF certified user experience designer** (with distinction)
@@ -23,7 +23,7 @@ I have been focused on three major projects:
 * I lead the team to conduct more than 50 [on-site and remote user research sessions][5] and mapped nearly 900 user stories over 45 jobs-to-be-done
 * We defined a roadmap and I designed design multiple impactful [timesheets][1] and [payroll][2] features.
 * I was flown to India and used the psonas and job maps to [train our offshore QA team about our customers][5].
-* [Built a dashboard that aggregates our business-wide KPIs][6 and embedded its use into our processes and culture
+* [Built a dashboard that aggregates our business-wide KPIs][6] and embedded its use into our processes and culture
 
 #### In the last few years
 * I raised [£560k of non-dilutive funding to build a machine learning (ML) model][7] that can predict the safety of utilities worksites across the UK
