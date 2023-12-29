@@ -47,9 +47,7 @@ When I first joined the team, very little user research had been undertaken.
 
 Instead, the PMs had focused on categorising inbound feedback into problem statements. While this gave us a solid foundation to start with, I felt uneasy building a completely novel solution solely through the lens of feedback on our existing product. 
 
-I created a [new discovery process]() based on the jobs-to-be-done framework (to identify and prioritise the user needs) and a "definition of done" (to enable us to quantify what differentiated the MVP with the go-to-market version). 
-
-[Image: Discovery process]
+I created a [new discovery process](/ep-discovery) based on the jobs-to-be-done framework (to identify and prioritise the user needs) and a "definition of done" (to enable us to quantify what differentiated the MVP with the go-to-market version). 
 
 After aligning the SVP of Product, I worked to train the PMs on how to implement the process so that we could work in parallel. 
 

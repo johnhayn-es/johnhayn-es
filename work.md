@@ -9,12 +9,6 @@ layout: work
 	* # Entetainment Partners
 	* Visit the [EP website](http://ep.com)
 	* I lead both UX and business intelligence strategy for EPUK, combining product design with hands-on data analysis. I oversee the UK design team and serve as the principal designer for EPUK's Production Payroll service, managing the end-to-end design process.
-	* Notable work:
-		* [Rebuilding our product discovery process]()
-		* [On-site research]()
-		* [Roadmap assessment framework]()
-		* [Timesheets version 2]()
-		* [Digital Payroll]()
 * #### Oct 2022 
 	* ## Senior Designer
 	* ## Entetainment Partners

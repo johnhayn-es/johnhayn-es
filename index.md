@@ -20,7 +20,7 @@ I have been working on three major projects:
 
 ##### In the past 12 months
 * I implemented a new [product discovery process][3] 
-* I lead the team to conduct more than 150 [user research sessions][5]
+* I lead the team to conduct 146 [user research sessions][5]
 * I designed design multiple impactful [timesheets][1] and [payroll][2] features.
 * I was flown to India to [train our offshore QA team about our users][5].
 * [I dashboards to aggregate our business-wide KPIs][6] and embedded them into our processes and culture
