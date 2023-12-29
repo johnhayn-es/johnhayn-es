@@ -3746,7 +3746,7 @@ table {
 
 .markdown-section a {
     background-color: rgba(0, 170, 255, 0.1);
-    padding: 3px 6px;
+    padding: 2px 6px;
     border-radius: 2px; 
     box-decoration-break: clone; 
     display: inline;
@@ -3769,10 +3769,16 @@ table {
 }
 
 .markdown-section h2 a {
-    color: #00AAFF;
-    text-decoration: none;
-    font-weight: 700;
-    background: 0 0
+    background-color: rgba(0, 170, 255, 0.1);
+    padding: 2px 6px;
+    border-radius: 2px; 
+    box-decoration-break: clone; 
+    display: inline;
+    line-height: normal; 
+    vertical-align: baseline; 
+    margin: 0; 
+    text-decoration: none; 
+    color: #00AAFF; 
 }
 
 .markdown-section a:active,
