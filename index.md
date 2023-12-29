@@ -13,9 +13,9 @@ I have thousands of hours experience defining problems, desiging solutions and m
 * **Led the design** and **teams of designers and product folk** for start-ups and larger corporate businesses
 
 ## Recently...
-I have been focused on three major projects:
+I have been working on three major projects:
 1. Rebuilding our [timesheets product][1]
-2. Validating a novel [digital payroll service][2] 
+2. Validating a novel addition to our [payroll service][2] 
 3. Spearheading the [UK's data strategy][6]. 
 
 ##### In the past 12 months
