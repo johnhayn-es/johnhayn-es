@@ -54,7 +54,7 @@ Over the next 3 months:
 * We deconstructed the end-to-end process (contracts > timesheets > payroll) into more than **20 jobs-to-be-done**
 * We conducated **more than 30 hours of primary user research, creating and ranking more than 130 user stories**
 
-![On-site in Bristol visiting a live production]()
+![On-site in Bristol visiting a live production](/images/research--team)
 
 ### The results
 The results  us to break the work into multiple phases

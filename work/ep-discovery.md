@@ -12,9 +12,14 @@ layout: post
 > 📈 [Results](#summary-and-reflections)
 > 💬 [User feedback](#feedback)
 
-# Discovery
+# Business need
 
 # Strategy
+
+# Execution
+
+![On-site in Bristol visiting a live production](/images/research--team)
+![On-site in Bristol visiting a live production](/images/research--team)
 
 # Summary and reflections
 
