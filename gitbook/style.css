@@ -33,6 +33,15 @@ summary {
     /* Styles for the form */
 }
 
+#sticky-quote {
+  position: -webkit-sticky; /* For Safari */
+  position: sticky;
+  top: 0; /* Distance from the top of the viewport */
+  z-index: 10; /* Make sure it's above other content */
+  /* Add any additional styling you want for the blockquote */
+}
+
+
 
 audio,
 canvas,
