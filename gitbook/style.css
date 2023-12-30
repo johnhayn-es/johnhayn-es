@@ -33,7 +33,7 @@ summary {
     /* Styles for the form */
 }
 
-#sticky-quote {
+blockquote p#sticky-quote {
   position: -webkit-sticky; /* For Safari */
   position: sticky;
   top: 0; /* Distance from the top of the viewport */
