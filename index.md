@@ -20,14 +20,14 @@ I have been working on three major projects:
 2. Desiging a novel addition to our [payroll service][2] 
 3. Spearheading the [UK's data strategy][6]. 
 
-##### In the past 12 months
+### In the past 12 months
 * I implemented a new [product discovery process][3], mapping the problem space by documenting 880 user stories across 51 job maps
 * I lead the team to conduct 146 [user research sessions][5]
 * I designed design multiple impactful [timesheets][1] and [payroll][2] features.
 * I flew to India to [train our offshore QA team][5] about our users.
 * [I aggregated our busines-wide KPIs][6] into one report and embedded it into our processes and culture
 
-#### In the last few years
+### In the last few years
 * I raised [£560k of non-dilutive funding to build a ML model][7] that can predict the safety of utilities worksites across the UK
 * [I debuted as a speaker][8] at few events
 * I ran [further and faster than the previous year][9] and ran 5k in less than 21 minutes
