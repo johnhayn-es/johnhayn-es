@@ -39,8 +39,6 @@ After much consideration we settled on the following objectives for this project
 	* Minimise the number of manual overrides required
 * Maximise product differentiation from our competitors (give people a reason to switch to us)
 
-![Image Description](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--notifications--messages+grey.png)
-
 
 # Discovery
 When I first joined the team, very little user research had been undertaken. 
@@ -49,24 +47,21 @@ Instead, the PMs had focused on categorising inbound feedback into problem state
 
 I created a [new discovery process](/ep-discovery) based on the jobs-to-be-done framework (to identify and prioritise the user needs) and a "definition of done" (to enable us to quantify what differentiated the MVP with the go-to-market version). 
 
-![]
-
 After aligning the SVP of Product, I worked to train the PMs on how to implement the process so that we could work in parallel. 
 
 Over the next 3 months: 
 * We identified which of the personas were involved
-* We deconstructed the end-to-end process (contracts > timesheets > payroll) into more than **50 jobs-to-be-done**
+* We deconstructed the end-to-end process (contracts > timesheets > payroll) into more than **20 jobs-to-be-done**
 * We conducated **more than 30 hours of primary user research, creating and ranking more than 130 user stories**
 
-[Image: User interviews on-site in Bristol]
+![On-site in Bristol visiting a live production]()
 
 ### The results
-The results were conclusive
-Enabled us to break the work into multiple phases
+The results  us to break the work into multiple phases
 Created a spreadsheet to toggle features in and out of scope
 Broke work into milestones
 
-[Image: Spreadsheet for scope]
+![Spreadsheet used to calculate scope]()
 
 ### Kicking off the project
 Brought the whole team together 
@@ -84,45 +79,70 @@ As the sole designer working across both teams, this gave me an incredibly short
 
 ### Summary chips
 
+![Summary chips]()
+
 #### User story(s)
 * As a member of crew, when I am completing my timesheet, I want to know exactly what I am claiming for so that I know I will get paid the correct amount.
 * As a member of the production management or finance team, when I am approving a timesheet, I want the totals to be broken down so that I can check for anything that I don't expect
 
 #### Solution
-I designed a new component, "chips", to categorise and summarise the durations and financial totals on a timesheet; these components were then embedded into the individual day and weekly summary views:
+When testing with out existing components, users were getting confused about the information architecture of the summary (eg. which totals related to which category).
 
-* Embedded in a sticky panel that scrolls with the user, enabling them to view the detail of the timesheet and determine what contributes to the totals
+To resolve this, I designed a new component, "chips". Chips enabled us to categorise and summarise the durations and financial totals on a timesheet; these components were then embedded into the individual day and weekly summary views:
+
 * Laid out to ensure that the financial total for each section is always visible and enhanced with progressive disclosure to show the detail
+* Embedded in a sticky panel that scrolls with the user, enabling them to view the detail of the timesheet and determine what contributes to the totals
 * Used accessible labels to highlight when something had been edited by an approver - when clicked, this opens a modal to show which days have been edited
 
 #### Result
+By implementing this feature: 
+* 100% of test participants were correctly able to identify which totals belonged to qhich categories
+* We received multiple instances of positive anecdotal feedback for how timesheet approvers were using the summaries, "for most of the timesheets I don't need to look any further than the summary"
 
 ### Prepopulation of timesheets 
+![Pre-populated timesheet]()
+
 #### User story(s)
 * As a member of crew, when I need to tell the Production Team how many hours I've worked I want to get it done quickly and accurately so that I can get back to my actual job.
 
 #### Solution
+Film and television production is run on a detailed and tight schedule; for the majority of the time, crew will use their timesheets to claim for their contracted hours (only 5-20% of timesheets claim overtime and other penalites each week). Armed with this information, we took the following approach: 
+1. Enable the Production Office to upload the daily schedule
+2. Pre-populate timesheets for crew using a combination of their contract (for the days they are due to work) and the schedule (to determine the hours)
+3. The prepopulation was triggered each time the crew member went to view their timesheet (which was the only way they could submit), ensuring that the hours were always up-to-date (in case something had changed mid-week). 
+4. An alert was added to show the crew member when a timesheet had been pre-populated
 
 #### Result
 By implementing this feature: 
-* we reduced the minimum number of steps required to complete a timesheet from 33 to just 2
+* The minimum number of steps required to complete a timesheet was reduced from 33 to just 2
 * 75% of our timesheets are completed in 5 minutes or less (about 1500 every week)
 * 72% of respondents (215 of 300 crew who completed the survey) agreed that Production Portal minimises the time it takes to complete their timesheet
 
 ### Edited fields
+![Edited fields]()
+
+#### User story(s)
+* As a member of the production management or finance team, when something has been changed on a timesheet, I want to know what was changed (and by whom) so that I can assess whether or not I need to challenge or amend it.
+
+#### Solution
+In the previous version of our timesheets feature, every edit or override made by approvers was added to a chronological timeline - every approver was able to view the entire history of what had changed. In theory, this should solve the problem - but in practice, when navigating between the weekly summary and an individual view of a day, approvers were getting frustrated about needing to remember the information. 
+
+When expanded, the timeline could be a very large (and, due to its size, significantly impact loading times). It wasn't practical to add it to every screen. 
+
+
+
+#### Result
+
+
+### Daily timesheets
+![Summary chips]()
+
 #### User story(s)
 * As a member of the production management or finance team, when something has been changed on a timesheet, I want to know what was changed (and by whom) so that I can assess whether or not I need to challenge or amend it.
 
 #### Solution
 
 #### Result
-
-![Image Description](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--notifications--messages+grey.png)
-
-### Daily timesheets
-
-![Image Description](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--notifications--messages+grey.png)
-
 
 # Summary and reflections
 Overall, this project
