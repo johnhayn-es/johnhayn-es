@@ -3786,7 +3786,8 @@ table {
 .markdown-section a:focus,
 .markdown-section a:hover {
     outline: 0;
-    text-decoration: underline
+    background-color: rgba(0, 170, 255, 1);
+    color: white;
 }
 
 .markdown-section img {
