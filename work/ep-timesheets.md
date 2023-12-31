@@ -52,13 +52,15 @@ Over the next 3 months:
 * We conducated **more than 30 hours of primary user research, creating and ranking more than 130 user stories**
 
 ![On-site in Bristol visiting a live production](/assets/images/research--team.png)
+_My team enjoying a late breakfast before heading onto set._
 
 ### The results
 The results  us to break the work into multiple phases
 Created a spreadsheet to toggle features in and out of scope
 Broke work into milestones
 
-![Spreadsheet used to calculate scope]()
+![Spreadsheet used to calculate scope](/assets/images/research--scope.png)
+_Checking or unchecking a feature updated the matrices to show us which solutions would meet the conditions of the scope of work._
 
 ### Kicking off the project
 Brought the whole team together 
@@ -77,6 +79,10 @@ As the sole designer working across both teams, this gave me an incredibly short
 ### Summary chips
 
 ![Summary chips](/assets/images/timesheets--chips.png)
+_This example shows the documentation from the component library._
+
+![Pre-populated timesheet](/assets/images/timesheets--edited-summary.png)
+_This shows the chips in-situ, scrollling alongside the view of a timesheets day._
 
 #### User story(s)
 * As a member of crew, when I am completing my timesheet, I want to know exactly what I am claiming for so that I know I will get paid the correct amount.
@@ -98,6 +104,7 @@ By implementing this feature:
 
 ### Prepopulation of timesheets 
 ![Pre-populated timesheet](/assets/images/timesheets--week.png)
+_An alert was added to the top of the timesheet page to let the owner know that their timesheet had been prepopulated._
 
 #### User story(s)
 * As a member of crew, when I need to tell the Production Team how many hours I've worked I want to get it done quickly and accurately so that I can get back to my actual job.
