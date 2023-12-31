@@ -51,7 +51,7 @@ Over the next 3 months:
 * We deconstructed the end-to-end process (contracts > timesheets > payroll) into more than **20 jobs-to-be-done**
 * We conducated **more than 30 hours of primary user research, creating and ranking more than 130 user stories**
 
-![On-site in Bristol visiting a live production](/images/research--team)
+![On-site in Bristol visiting a live production](/images/research--team.png)
 
 ### The results
 The results  us to break the work into multiple phases
@@ -76,7 +76,7 @@ As the sole designer working across both teams, this gave me an incredibly short
 
 ### Summary chips
 
-![Summary chips]()
+![Summary chips](/images/timesheets--chips.png)
 
 #### User story(s)
 * As a member of crew, when I am completing my timesheet, I want to know exactly what I am claiming for so that I know I will get paid the correct amount.
@@ -97,7 +97,7 @@ By implementing this feature:
 * We received multiple instances of positive anecdotal feedback for how timesheet approvers were using the summaries, "for most of the timesheets I don't need to look any further than the summary"
 
 ### Prepopulation of timesheets 
-![Pre-populated timesheet]()
+![Pre-populated timesheet](/images/timesheets--week.png)
 
 #### User story(s)
 * As a member of crew, when I need to tell the Production Team how many hours I've worked I want to get it done quickly and accurately so that I can get back to my actual job.
@@ -116,7 +116,7 @@ By implementing this feature:
 * 72% of respondents (215 of 300 crew who completed the survey) agreed that Production Portal minimises the time it takes to complete their timesheet
 
 ### Edited fields
-![Edited fields]()
+![Edited fields](/images/timesheets--edited-fields.png)
 
 #### User story(s)
 * As a member of the production management or finance team, when something has been changed on a timesheet, I want to know what was changed (and by whom) so that I can assess whether or not I need to challenge or amend it.
@@ -132,7 +132,8 @@ When expanded, the timeline could be a very large (and, due to its size, signifi
 
 
 ### Daily timesheets
-![Summary chips]()
+![Daily timesheets](/images/timesheets--daily-entry.png)
+![Daily timesheets timeline](/images/timesheets--daily-timeline.png)
 
 #### User story(s)
 * As a member of the production management or finance team, when something has been changed on a timesheet, I want to know what was changed (and by whom) so that I can assess whether or not I need to challenge or amend it.
