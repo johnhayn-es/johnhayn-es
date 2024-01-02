@@ -7,7 +7,7 @@ image: '../assets/images/john.png'
 
 ## Hey. I'm John, Lead Product Designer at [EP][0].
 
-I have thousands of hours experience defining problems, desiging solutions and measuring their impact. 
+I have thousands of hours experience defining problems, designing solutions and measuring their impact. 
 * **IxDF certified user experience designer** (with distinction)
 * **Qlik certified data analyst** and passionate about building a culture of data-reliance
 * **Led the design** and **teams of designers and product folk** for start-ups and larger corporate businesses
