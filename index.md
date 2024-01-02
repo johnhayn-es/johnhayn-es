@@ -1,6 +1,6 @@
 ---
 layout: home
-title: About me
+title: Recently
 category: about
 image: '../assets/images/john.png'
 --- 
