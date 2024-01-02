@@ -52,6 +52,7 @@ Over the next 3 months:
 * We conducated **more than 30 hours of primary user research, creating and ranking more than 130 user stories**
 
 ![On-site in Bristol visiting a live production](/assets/images/research--team.png)
+
 _My team enjoying a late breakfast before heading onto set._
 
 ### The results
@@ -60,6 +61,7 @@ Created a spreadsheet to toggle features in and out of scope
 Broke work into milestones
 
 ![Spreadsheet used to calculate scope](/assets/images/research--scope.png)
+
 _Checking or unchecking a feature updated the matrices to show us which solutions would meet the conditions of the scope of work._
 
 ### Kicking off the project
@@ -79,9 +81,11 @@ As the sole designer working across both teams, this gave me an incredibly short
 ### Summary chips
 
 ![Summary chips](/assets/images/timesheets--chips.png)
+
 _This example shows the documentation from the component library._
 
 ![Pre-populated timesheet](/assets/images/timesheets--edited-summary.png)
+
 _This shows the chips in-situ, scrollling alongside the view of a timesheets day._
 
 #### User story(s)
