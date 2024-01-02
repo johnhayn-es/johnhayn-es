@@ -13,7 +13,9 @@ In that two-week period:
 
 The result was a development-ready reference design that demonstrated all of the happy and unhappy paths of our new service interface - which scored an average of 4.1 out of 5 indicatiive product satisfaction score.
 
+
 This product is still in development and is due to be released in Q2 2024.
+
 
 > {: #sticky-quote }
 > Skip to:
@@ -26,11 +28,7 @@ This product is still in development and is due to be released in Q2 2024.
 # Background
 At the end of July 2023, Hollywood went on strike. 
 
-Up until this point, our strategy had been to complete the rebuild of our Timesheets feature, before moving on to work almost exclusively on bringing an end-to-end production payroll service to market. 
-
-The strikes forced our hand. Anticipating up to a 60% loss of revenue for the rest of the year, we decided to go all-in and work on both initiatives simultaneous - enabling us to go-to-market quickly after the strikes were broken. 
-
-In order to stand a chance of delivering this in time (the predicted duration of the strikes was 3 months), the initial designs needed to be in the developers hands as quickly as possible.
+Up until this point, our strategy had been to complete the rebuild of our Timesheets feature, before moving on to work almost exclusively on bringing an end-to-end production payroll service to market. The strikes forced our hand. Anticipating up to a 60% loss of revenue for the rest of the year, we decided to go all-in and work on both initiatives simultaneous - enabling us to go-to-market quickly after the strikes were broken. In order to stand a chance of delivering this in time (the predicted duration of the strikes was 3 months), the initial designs needed to be in the developers hands as quickly as possible.
 
 ### Challenges: 
 * Hundreds of freelancers employed by a temporary company
@@ -51,44 +49,37 @@ After much consideration we settled on the following objectives for this project
 	* Increase or maintain the accuracy of each pay run (eg. don't compromise accuracy for speed)
 	* Minimise the number of revisions required
 
-![Image Description](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--notifications--messages+grey.png)
-
 
 # Discovery and design validation 
 Given the urgency of the project, we abandoned our usual and ran the disocvery and design processes in parallel. 
 
-Mapped the jobs-to-be-done and then prioritised the individual user stories to determine the minimum viable scope. We then overlaid the current service design to determine initial scope - payroll handover process
+1. We mapped the jobs-to-be-done and then prioritised the individual user stories to determine the minimum viable scope. We then overlaid the current service design to determine initial scope - payroll handover process
+2. We created an initial design based on existing understanding and then iterated
+3. We lined up 15 remote user interviews with Production Finance teams, over three weeks, from across a range of productions. As there was a tight timeline, I published a deck with the results of each conversation - and a changelog for the prototype - this enabled stakeholders to keep up-to-date with the changes as we progressed.
+4. We conducted the interviews remotely, recording them using Microsfot teams - capturing the video for later on and publishing the 
 
-Created initial design based on existing understanding and then iterated
-
-Becasuse of the tight timeline, I published a deck with the results of each conversation - and a changelog for the prototype - this enabled stakeholders to keep up-to-date with the changes as we progressed.
-
-We lined up 15 remote user interviews with Production Finance teams from across a range of productions 
-
-Used Microsoft teams to record the reactions
-
-Published a three-minute video teaser of the key challenges, feedback and excitement about our prototype - to share with execs and the board
-
-
+<!-- 
 ## UI design
-Here's a short recap of the most impactful features from this period: 
+[Here's a short recap of the most impactful features from this period:][#ui]
 
 ### Hub page
+![Payroll hub](/assets/images/payroll--hub.png)
+
 #### User story(s)
 
 #### Solution
 
 #### Result
-
-![Image Description](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--notifications--messages+grey.png)
 
 ### Advisories
+![Spreadsheet used to calculate scope](/assets/images/payroll--advisories.png)
+
 #### User story(s)
 
 #### Solution
 
 #### Result
-![Image Description](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--notifications--messages+grey.png)
+![Image Description]()
 
 ### Adjustments
 #### User story(s)
@@ -97,7 +88,7 @@ Here's a short recap of the most impactful features from this period:
 
 #### Result
 
-![Image Description](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--notifications--messages+grey.png)
+![Image Description]()
 
 ### Handover to payroll
 #### User story(s)
@@ -105,22 +96,17 @@ Here's a short recap of the most impactful features from this period:
 #### Solution
 
 #### Result
-![Image Description](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--notifications--messages+grey.png)
+![Image Description]() -->
 
 
 # Summary and reflections
 Overall, this project
 
+Published a three-minute video teaser of the key challenges, feedback and excitement about our prototype - to share with execs and the board
+
 ### Wins
-* Met the discovery KPIs 
+* Met the discovery KPIs; an indicative PSAT score of 41. out of 5
 * Created a solid design foundation that has remained largely unchanged
 * Got stakeholders from across the business 
-
-### Challenges
-* Should have found a way to avoid the 80 hour weeks
-
-  ![Image Description](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--notifications--messages+grey.png)
-  ![Image Description](https://johnhaynesportfolio.s3.eu-west-2.amazonaws.com/app--notifications--messages+grey.png)
-
 
 
