@@ -134,33 +134,25 @@ In the previous version of our timesheets feature, every edit or override made b
 When expanded, the timeline could be a very large (and, due to its size, significantly impact loading times). It wasn't practical to add it to every screen. 
 
 #### Result
+This feature was released in a bundle of other functionality, so it's hard to demonstrate a direct and individual impact on any of the KPIs - however:
+* In testing, 100% of the participants preferred designs where the edited fields were used. 
+* The bundled release had the biggest imapct on approval times and approver the PSAT score; the majority of timesheets (75%) are now approved within 2 hours of submission.
 
-
-### Daily timesheets
-![Daily timesheets](/assets/images/timesheets--daily-entry.png)
-![Daily timesheets timeline](/assets/images/timesheets--daily-timeline.png)
-
-#### User story(s)
-* As a member of the production management or finance team, when something has been changed on a timesheet, I want to know what was changed (and by whom) so that I can assess whether or not I need to challenge or amend it.
-
-#### Solution
-
-#### Result
 
 # Summary and reflections
-Overall, this project
+Overall, this project was an excellent way to get reacquainted with the team - and a good vehicle to kick-off the relational research system build. 
 
 ### Wins
 * All of the KPIs were met within 12 months
-	* PSAT score of 4.4 out of 5 
+	* PSAT score of 4.4 out of 5 (target >4)
 	* 75% of timesheets completed in less than 5 minutes
 	* 72% of crew agree that Production Portal minimises the time it take to complete their timesheets
 	* Average time to approve a timesheet is less than 24 hours
 * Implemented a novel product discovery process that has now been adopted across the company (now have nearly 900 user stories documented)
-* Up-skilled the product team and gave them fundamental skills that they 
+* Up-skilled the product team and gave them transferable skills (and a framework/process that they could repeat independently)
 
-### Challenges
-* Should have found a way to avoid the 80 hour weeks
+### Challenges and learnings
+* I should have done more to avoid the four 80hr weeks of design work; the business pivot definitely changed the timelines, but I think two days of up-front prioritisation and analysis would have meant I could have put forward a stronger case for pushing more of the work into a later scope.
 
 
 

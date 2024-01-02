@@ -22,7 +22,7 @@ I have been working on three major projects:
 
 ### In the past 12 months
 * I implemented a new [product discovery process][3], mapping the problem space by documenting 880 user stories across 51 job maps
-* I lead the team to conduct 146 [user research sessions][5]
+* I lead the team to conduct 146 [user research sessions][4]
 * I designed design multiple impactful [timesheets][1] and [payroll][2] features.
 * I flew to India to [train our offshore QA team][5] about our users.
 * [I aggregated our busines-wide KPIs][6] and embedded them into our processes and culture
@@ -36,8 +36,8 @@ I have been working on three major projects:
 [0]: http://www.ep.com
 [1]: /work/ep-timesheets
 [2]: /work/ep-payroll
-[3]: /work/ep-discovery-process
-[4]: /work/on-site-research
+[3]: /work/ep-discovery
+[4]: /work/ep-discovery#research
 [5]: /work/training-offshore-qa
 [6]: /work/ep-data-strategy
 [7]: https://www.fyld.ai/fyld-awarded-500k-ofgem-funding-in-partnership-with-sgn-and-national-grid/
