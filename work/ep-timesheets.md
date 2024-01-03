@@ -108,6 +108,7 @@ By implementing this feature:
 
 ### Prepopulation of timesheets 
 ![Pre-populated timesheet](/assets/images/timesheets--week.png)
+
 _An alert was added to the top of the timesheet page to let the owner know that their timesheet had been prepopulated._
 
 #### User story(s)
