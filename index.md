@@ -38,7 +38,7 @@ I have been working on three major projects:
 [2]: /work/ep-payroll
 [3]: /work/ep-discovery
 [4]: /work/ep-discovery#research
-[5]: /work/training-offshore-qa
+[5]: /work/ep-training-qa
 [6]: /work/ep-data-strategy
 [7]: https://www.fyld.ai/fyld-awarded-500k-ofgem-funding-in-partnership-with-sgn-and-national-grid/
 [8]: /talking

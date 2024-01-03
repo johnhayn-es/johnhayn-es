@@ -7,23 +7,21 @@ layout: post
 ### TL;DR
 
 > Skip to:
-> 💡 [Discovery process](#discovery)
-> 🎯[Strategy](#strategy)
+> 🎯[Strategy and exectuion](#strategy)
 > 📈 [Results](#summary-and-reflections)
-> 💬 [User feedback](#feedback)
-
-# Business need
 
 # Strategy
+## Process
+![The discovery process](/images/discovery--process-diagram)
+![The relational research system](/images/discovery--relational-research)
+![Directory of job maps](/images/discovery--job-maps)
 
-# Execution
 
-![On-site in Bristol visiting a live production](/images/research--team)
-![On-site in Bristol visiting a live production](/images/research--team)
+## Personas
+![Directory](/images/personas--directory)
+![A job map](/images/personas--job-map)
+![Conducting research on-site](/images/personas--job-map)
+![All of the quotes from research appearing in directory on a persona](/images/personas--quotes)
+
 
 # Summary and reflections
-
-This involved: 
-* [Defining the UK's strategic KPIs][8]
-* Operationalised the strategy by building the [MVP dashboards][9] and increasing the data-literacy of the wider team by [publishing regular briefings][10]
-* Certified as a Qlik data analyst, training myself on how to build efficient data models as I migrate our reporting into Qlik
