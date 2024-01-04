@@ -5,7 +5,7 @@ layout: running
 ---
 
 # Met: Run further than I did last year
-I enjoy getting out for a run when I can. See below my results from the last 3 years. You can see more detail on [my Strava profile](https://www.strava.com/athletes/48068424)
+Follow me [on Strava](https://www.strava.com/athletes/48068424)
 
 ## Key result: Surpass last year's cumulative total 
 My plan is to broadly keep up with the average distance-per-week of last year, but ensure that I log some distance on weeks where I didn't run in 2022. I will need to maintain an average distance per week of 13km; that's achievable with just three runs per week. This plan involves consistency and I hope, as a by product, that it encourages discipline in other areas of my life.
