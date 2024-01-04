@@ -1,5 +1,5 @@
 ---
-title: Data strategy
+title: Discovery process
 category: portfolio
 layout: post
 ---
