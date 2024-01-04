@@ -45,15 +45,15 @@ The resulting data can be plotted on a matrix to show which user needs are met. 
 
 The objectives of each scope of work differ depending on the maturity of the product/service, eg. an MVP just needs to make the critical jobs possible, whereas a more mature service may choose to focus on the unmet, high value stories
 
-![The discovery process](/images/discovery--process-diagram.png)
+![The discovery process](/assets/images/discovery--process-diagram.png)
 
 _The discovery process_
 
-![The resulting data](/images/timesheets--scope.png)
+![The resulting data](/assets/images/timesheets--scope.png)
 
 _Displaying the resulting data in a matrix diagram to visualise the assessment_
 
-![Conducting research on-site](/images/personas--job-map.png)
+![Conducting research on-site](/assets/images/personas--job-map.png)
 
 _Conducting on-site research to populate the system_
 
@@ -71,19 +71,19 @@ We created the following databases:
 
 All of this data is linked. By visiting each persona, you can see all of their jobs-to-be-done, every participant that we've spoken to and everything they've told us about their role. 
 
-![The relational research system](/images/discovery--relational-research.png)
+![The relational research system](/assets/images/discovery--relational-research.png)
 
 _The relational research system_
 
-![A job map](/images/personas--job-map.png)
+![A job map](/assets/images/personas--job-map.png)
 
 _Viewing an individual job map from one of our personas_
 
-![All of the quotes from research appearing in directory on a persona](/images/personas--quotes.png)
+![All of the quotes from research appearing in directory on a persona](/assets/images/personas--quotes.png)
 
 _Anyone on the team can go to a persona and search the quotes for keywords to see what research participants have said to us - a great tool for secondary research when ideating something new_ 
 
-# Summary and reflections
+# Summary and reflections2
 ### Wins
 * This process has now become a core part of our team's operating system
 * In no uncertain terms lead to my promotion to a lead role
