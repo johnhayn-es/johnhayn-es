@@ -48,18 +48,19 @@
         {%- include footer.html -%}
 
             <script>
-                document.addEventListener('DOMContentLoaded', (event) => {
-                    document.getElementById('password-form').addEventListener('submit', function(e) {
-                        e.preventDefault();
-                        var password = document.getElementById('password-input').value;
-                        if (password === '2024') {
-                            document.getElementById('password-protect').style.display = 'none';
-                            document.getElementById('content-hider').style.display = 'block';
-                        } else {
-                            alert('Incorrect password');
-                        }
-                    });
+            document.addEventListener('DOMContentLoaded', (event) => {
+                var form = document.getElementById('password-form');
+                form.addEventListener('submit', function(e) {
+                    e.preventDefault(); // This line prevents the default form submission behavior
+                    var password = document.getElementById('password-input').value;
+                    if (password === '2024') {
+                        document.getElementById('password-protect').style.display = 'none';
+                        document.getElementById('content-hider').style.display = 'block';
+                    } else {
+                        alert('Incorrect password');
+                    }
                 });
+            });
             </script>
 
     </body>
