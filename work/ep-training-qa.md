@@ -24,7 +24,7 @@ By the end of a challenging and lively day of training, I'd answered (or reached
 
 Since my trip, I am in regular communications with the team. I've sent Srikanth coins to add to his collection. I've (virtually) celebrated the birth of Ram's child. I've tried (and failed) to answer some of Gowasalya's most detailed follow-up questions. This was a really formative trip and I am very grateful that I got the opportunity to go.
 
-![Training the team](ç/images/india--training.png)
+![Training the team](/assets/images/india--training.png)
 
 _The first slide of an intensive 7 hour training day_
 
