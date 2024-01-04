@@ -18,7 +18,7 @@ This project was no mean feat. In the words of the consultant data strategist at
 > Skip to:
 > 💡 [Discovery process](#discovery)
 > 🎯[Strategy](#strategy)
-> 📈 [Results](#summary-and-reflections)
+<!-- > 📈 [Results](#summary-and-reflections) -->
 
 # Discovery
 This project is perhaps best thought about in two distinct phases of work; the initial discovery and proof-of-concept, then the exectuion of the longer-term strategy.
@@ -63,5 +63,5 @@ Upon completion of the initial phase, the Managing Director of the UK arm tasked
 * Baking the use of the dashboards into key processes with teams
 * Publishing regular deep-dives to engage wider teams with 
 
-# Summary and reflections
+<!-- # Summary and reflections -->
 
