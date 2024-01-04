@@ -79,15 +79,6 @@ As the sole designer working across both teams, this gave me an incredibly short
 [Here's a short recap of the most impactful features from this period:][#ui]
 
 ### Summary chips
-
-![Summary chips](/assets/images/timesheets--chips.png)
-
-_This example shows the documentation from the component library._
-
-![Pre-populated timesheet](/assets/images/timesheets--edited-summary.png)
-
-_This shows the chips in-situ, scrollling alongside the view of a timesheets day._
-
 #### User story(s)
 * As a member of crew, when I am completing my timesheet, I want to know exactly what I am claiming for so that I know I will get paid the correct amount.
 * As a member of the production management or finance team, when I am approving a timesheet, I want the totals to be broken down so that I can check for anything that I don't expect
@@ -101,16 +92,20 @@ To resolve this, I designed a new component, "chips". Chips enabled us to catego
 * Embedded in a sticky panel that scrolls with the user, enabling them to view the detail of the timesheet and determine what contributes to the totals
 * Used accessible labels to highlight when something had been edited by an approver - when clicked, this opens a modal to show which days have been edited
 
+![Summary chips](/assets/images/timesheets--chips.png)
+
+_This example shows the documentation from the component library._
+
+![Pre-populated timesheet](/assets/images/timesheets--edited-summary.png)
+
+_This shows the chips in-situ, scrollling alongside the view of a timesheets day._
+
 #### Result
 By implementing this feature: 
 * 100% of test participants were correctly able to identify which totals belonged to qhich categories
 * We received multiple instances of positive anecdotal feedback for how timesheet approvers were using the summaries, "for most of the timesheets I don't need to look any further than the summary"
 
 ### Prepopulation of timesheets 
-![Pre-populated timesheet](/assets/images/timesheets--week.png)
-
-_An alert was added to the top of the timesheet page to let the owner know that their timesheet had been prepopulated._
-
 #### User story(s)
 * As a member of crew, when I need to tell the Production Team how many hours I've worked I want to get it done quickly and accurately so that I can get back to my actual job.
 
@@ -121,6 +116,10 @@ Film and television production is run on a detailed and tight schedule; for the 
 3. The prepopulation was triggered each time the crew member went to view their timesheet (which was the only way they could submit), ensuring that the hours were always up-to-date (in case something had changed mid-week). 
 4. An alert was added to show the crew member when a timesheet had been pre-populated
 
+![Pre-populated timesheet](/assets/images/timesheets--week.png)
+
+_An alert was added to the top of the timesheet page to let the owner know that their timesheet had been prepopulated._
+
 #### Result
 By implementing this feature: 
 * The minimum number of steps required to complete a timesheet was reduced from 33 to just 2
@@ -128,8 +127,6 @@ By implementing this feature:
 * 72% of respondents (215 of 300 crew who completed the survey) agreed that Production Portal minimises the time it takes to complete their timesheet
 
 ### Edited fields
-![Edited fields](/assets/images/timesheets--edited-fields.png)
-
 #### User story(s)
 * As a member of the production management or finance team, when something has been changed on a timesheet, I want to know what was changed (and by whom) so that I can assess whether or not I need to challenge or amend it.
 
@@ -137,6 +134,8 @@ By implementing this feature:
 In the previous version of our timesheets feature, every edit or override made by approvers was added to a chronological timeline - every approver was able to view the entire history of what had changed. In theory, this should solve the problem - but in practice, when navigating between the weekly summary and an individual view of a day, approvers were getting frustrated about needing to remember the information. 
 
 When expanded, the timeline could be a very large (and, due to its size, significantly impact loading times). It wasn't practical to add it to every screen. 
+
+![Edited fields](/assets/images/timesheets--edited-fields.png)
 
 #### Result
 This feature was released in a bundle of other functionality, so it's hard to demonstrate a direct and individual impact on any of the KPIs - however:

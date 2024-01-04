@@ -53,6 +53,8 @@ After much consideration we settled on the following objectives for this project
 # Discovery and design validation 
 Given the urgency of the project, we abandoned our usual and ran the disocvery and design processes in parallel. 
 
+![Payroll hub](/assets/images/payroll--flow-chart.png)
+
 1. We mapped the jobs-to-be-done and then prioritised the individual user stories to determine the minimum viable scope. We then overlaid the current service design to determine initial scope - payroll handover process
 2. We created an initial design based on existing understanding and then iterated
 3. We lined up 15 remote user interviews with Production Finance teams, over three weeks, from across a range of productions. As there was a tight timeline, I published a deck with the results of each conversation - and a changelog for the prototype - this enabled stakeholders to keep up-to-date with the changes as we progressed.
