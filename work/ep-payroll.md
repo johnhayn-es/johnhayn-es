@@ -53,12 +53,24 @@ After much consideration we settled on the following objectives for this project
 # Discovery and design validation 
 Given the urgency of the project, we abandoned our usual and ran the disocvery and design processes in parallel. 
 
-![Payroll hub](/assets/images/payroll--flow-chart.png)
+![Payroll hub](/assets/images/payroll--flow-chart2805fender-f25-guitar
+.png)
 
 1. We mapped the jobs-to-be-done and then prioritised the individual user stories to determine the minimum viable scope. We then overlaid the current service design to determine initial scope - payroll handover process
 2. We created an initial design based on existing understanding and then iterated
 3. We lined up 15 remote user interviews with Production Finance teams, over three weeks, from across a range of productions. As there was a tight timeline, I published a deck with the results of each conversation - and a changelog for the prototype - this enabled stakeholders to keep up-to-date with the changes as we progressed.
-4. We conducted the interviews remotely, recording them using Microsfot teams - capturing the video for later on and publishing the 
+4. We conducted the interviews remotely, recording them using Microsfot teams - capturing the video for later on and publishing quotes from the transcripts into our deck and research system
+
+By the end of the three weeks: 
+
+* We had achieved an indicative product satisfaction score of 4.1 out of 5 (from 15 production finance teams including BBC, Netflix and LucasFilm)
+* We had quantified the potential time saved
+* All of the key stakeholders were up-to-date with the progress
+
+We also chopped up exceprts from the user interviews into a three minute teaser, which we played during the kick-off meeting, to get the wider team excited by the problem we were planning to solve.
+
+![Payroll hub](/assets/images/payroll--hub.png)
+
 
 <!-- 
 ## UI design
@@ -100,15 +112,19 @@ Given the urgency of the project, we abandoned our usual and ran the disocvery a
 #### Result
 ![Image Description]() -->
 
+<!-- ### Build
+The team assembled to 
+ -->
 
 # Summary and reflections
-Overall, this project
-
-Published a three-minute video teaser of the key challenges, feedback and excitement about our prototype - to share with execs and the board
+This project demonstrated to me what was possible when you have a detailed understanding of the problem-space and maintain an active relationship with your users (if we didn't have so many production accountants on speed-dial, we wouldn't have been able to achieve the result).
 
 ### Wins
-* Met the discovery KPIs; an indicative PSAT score of 41. out of 5
-* Created a solid design foundation that has remained largely unchanged
+* Met the discovery KPIs
+* Created a solid design foundation that has remained largely unchanged since inception
 * Got stakeholders from across the business 
+
+### Challenges
+* Since the initial discovery and validation period, the business focus has changed and, in order to meet other deadlines, this work has been delayed. It's frustrating knowing that we're implementing an inferior solution, even if it's temporary. 
 
 
