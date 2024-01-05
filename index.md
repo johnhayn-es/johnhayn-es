@@ -16,7 +16,7 @@ I believe great design happens at the juncture between compelling stories and un
 
 ## Recently...
 I have been working on three major projects:
-1. Rebuilding our [timesheets product][1]
+1. Minimising the time it takes to [submit a timesheet to <5 minutes][1]
 2. Desiging a novel addition to our [payroll service][2] 
 3. Spearheading the [UK's data strategy][6]. 
 

@@ -13,9 +13,7 @@ In that two-week period:
 
 The result was a development-ready reference design that demonstrated all of the happy and unhappy paths of our new service interface - which scored an average of 4.1 out of 5 indicatiive product satisfaction score.
 
-
 This product is still in development and is due to be released in Q2 2024.
-
 
 > {: #sticky-quote }
 > Skip to:
@@ -53,8 +51,7 @@ After much consideration we settled on the following objectives for this project
 # Discovery and design validation 
 Given the urgency of the project, we abandoned our usual and ran the disocvery and design processes in parallel. 
 
-![Payroll hub](/assets/images/payroll--flow-chart2805fender-f25-guitar
-.png)
+![Payroll hub](/assets/images/payroll--flow-chart.png)
 
 1. We mapped the jobs-to-be-done and then prioritised the individual user stories to determine the minimum viable scope. We then overlaid the current service design to determine initial scope - payroll handover process
 2. We created an initial design based on existing understanding and then iterated
