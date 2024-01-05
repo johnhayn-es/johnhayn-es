@@ -10,13 +10,14 @@ image: '../assets/images/john.png'
 I have thousands of hours experience defining problems, designing solutions and measuring their impact. 
 * **IxDF certified user experience designer** (with distinction)
 * **Qlik certified data analyst** and passionate about building a culture of data-reliance
+* **Hands-on experience with AI**, building and desinging-for predictive machine learning systems
 * **Led the design** and **teams of designers and product folk** for start-ups and larger corporate businesses
 
 I believe great design happens at the juncture between compelling stories and unequivocable data. I am outcome-led; my practice involves working to understand the underlying motivations of users, identifying the most impactful KPIs and then leading teams to build products that measurably impact them. 
 
 ## Recently...
 I have been working on three major projects:
-1. Minimising the time it takes to [submit a timesheet to <5 minutes][1]
+1. Rebuilding our [timesheets product][1]
 2. Desiging a novel addition to our [payroll service][2] 
 3. Spearheading the [UK's data strategy][6]. 
 
