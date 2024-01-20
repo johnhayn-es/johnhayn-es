@@ -7,13 +7,13 @@ image: '../assets/images/john.png'
 
 ## Hey. I'm John, Lead Product Designer at [EP][0].
 
-I have thousands of hours experience defining problems, designing solutions and measuring their impact. 
+I am an experienced design leader with acute generalist skills that enable me to be very hands-on: 
 * **IxDF certified user experience designer** (with distinction)
 * **Qlik certified data analyst** and passionate about building a culture of data-reliance
 * **Hands-on experience with AI**, building and designing-for predictive machine learning systems
-* **Led the design** and **teams of designers and product folk** for start-ups and larger corporate businesses
+* **Led the design** and **product/design teams** for start-ups and larger corporate businesses
 
-I believe great design happens at the juncture between compelling stories and unequivocable data. I am outcome-led; my practice involves working to understand the underlying motivations of users, identifying the most impactful KPIs and then leading teams to build products that measurably impact them. 
+I have thousands of hours of experience defining problems, designing solutions and measuring their impact. I am outcome-led; my practice involves working to understand the underlying motivations of users, identifying the most impactful KPIs and then leading teams to build products that measurably impact them. 
 
 ## Recently...
 I have been working on three major projects:
