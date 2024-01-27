@@ -1,12 +1,12 @@
 - text: About me
   category: site
   url: /
-- text: Work
-  category: site
-  url: /work
-- text: Principles
-  category: site
-  url: /principles
-- text: Fitness
-  category: site
-  url: /running-2024
+# - text: Work
+#   category: site
+#   url: /work
+# - text: Principles
+#   category: site
+#   url: /principles
+# - text: Fitness
+#   category: site
+#   url: /running-2024
