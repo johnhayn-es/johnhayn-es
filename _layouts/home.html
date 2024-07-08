@@ -17,7 +17,7 @@
 
             <div class="book-body">
                 <div class="body-inner">
-                    <div class="book-header" role="navigation">
+                    <!-- <div class="book-header" role="navigation">
                         <h1 style="margin-top: 0;">
                             <i class="fa fa-circle-o-notch fa-spin"></i>
                             {% if page.title %}
@@ -26,7 +26,7 @@
                                 <a href="../" >{{ site.title | escape }}</a>
                             {% endif %}
                         </h1>
-                    </div>
+                    </div> -->
                     <div class="page-wrapper" tabindex="-1" role="main">
                             <img src="{{ '../assets/images/john_hero_image.jpeg' | prepend: site.baseurl }}" alt="Presenting at CRAP talks in London" class="full-width-image">
                         <div class="page-inner">
@@ -42,11 +42,6 @@
                                             {% endif %}
                                             {% endif %}
                                             {{ content }}
-<!--                                         <div class="home-item">
-                                            <span class="image ">
-                                              <img src="{{ page.image }}" alt="{{ page.title }}" />
-                                            </span>
-                                        </div> -->
                                     </section>
                                     {% endif %}
                                 </div>
@@ -54,11 +49,6 @@
                         </div>
                     </div>
                 </div>
-<!--                 {% if reversed_posts %}
-                    <a href="{{site.baseurl}}{{reversed_posts.first.url}}" class="navigation navigation-next navigation-unique" aria-label="Next page: {{reversed_posts.first.title}}">
-                        <i class="fa fa-angle-right"></i>
-                    </a> 
-                {% endif %} -->
             </div>
 
             <!-- {%- include search.html -%} -->
