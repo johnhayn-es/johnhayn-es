@@ -5,43 +5,22 @@ category: about
 image: '../assets/images/john.png'
 --- 
 
-## Hey. I'm John, Lead Product Designer at [EP][0].
+# Hey. I'm John.
 
-I am a hands-on UX leader with acute generalist skills: 
+I have thousands of hours of experience defining problems, designing solutions and measuring their impact. 
+
+Until recently I was the Lead Product Designer at Entertainment Partners, but my role was made redundant - so I'm looking for a new role.
+
+I am highly strategic and outcome-driven; I use KPIs to shape how I plan, execute and measure-the-success-of each initiative that I work on.  I have a vast toolkit of skills and frameworks that enable me to work at pace while maintaining high credibility in the design process. The majority of my recent experience has been leading and collaborating with teams on enterprise B2B financial technology - contracting, timesheets and payroll services used by the like of Netflix, Apple and the BBC.
+
 * **IxDF certified user experience manager** (with distinction)
 * **Qlik certified data analyst** and passionate about building a culture of data-reliance
 * **Hands-on experience with AI**, building and designing-for predictive machine learning systems
-* **Led the design** and **product/design teams** for start-ups and larger corporate businesses
+* **Led the design** and **product/design teams** for start-ups and enterprise B2B Fintech businesses
 
-in short, I have thousands of hours of experience defining problems, designing solutions and measuring their impact. 
+### My [portfolio](https://johnhaynes.notion.site/John-Haynes-product-design-portfolio-0370aab353754c4bbdf62b7bfd7f7b9a) contains examples of my work and the impact that it has had - please contact me via mail@johnhayn.es to gain access. 
 
-## Recently...
-I have been working on three major projects:
-1. Rebuilding our [timesheets product][1]
-2. Desiging a novel addition to our [payroll service][2] 
-3. Spearheading the [UK's data strategy][6]. 
-
-### In the past 12 months
-* I implemented a new [product discovery process][3], mapping the problem space by documenting 880 user stories across 51 job maps
-* I lead the team to conduct 146 [user research sessions][4]
-* I designed design multiple impactful [timesheets][1] and [payroll][2] features.
-* I flew to India to [train our offshore QA team][5] about our users.
-* [I aggregated our busines-wide KPIs][6] and embedded them into our processes and culture
-
-### In the last few years
-* I raised [£560k of non-dilutive funding to build a ML model][7] that can predict the safety of utilities worksites across the UK
-* [I debuted as a speaker][8] at few events
-* I ran [further and faster than the previous year][9] and ran 5k in less than 21 minutes
-
-
-[0]: http://www.ep.com
-[1]: /work/ep-timesheets
-[2]: /work/ep-payroll
-[3]: /work/ep-discovery
-[4]: /work/ep-discovery#research
-[5]: /work/ep-training-qa
-[6]: /work/ep-data-strategy
-[7]: https://www.fyld.ai/fyld-awarded-500k-ofgem-funding-in-partnership-with-sgn-and-national-grid/
-[8]: /talking
-[9]: /running-2023
-[10]: /contact
+In my spare time:
+* I volunteer with TechNative as a Tech Champion, mentoring talented young people to help them break into tech
+* I play guitar in a few bands
+* I enjoy running and going to the gym
