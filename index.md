@@ -18,7 +18,7 @@ I am highly strategic and outcome-driven; I use KPIs to shape how I plan, execut
 * **Hands-on experience with AI**, building and designing-for predictive machine learning systems
 * **Led the design** and **product/design teams** for start-ups and enterprise B2B Fintech businesses
 
-### My [portfolio](https://johnhaynes.notion.site/John-Haynes-product-design-portfolio-0370aab353754c4bbdf62b7bfd7f7b9a) contains examples of my work and the impact that it has had - please contact me via mail@johnhayn.es to gain access. 
+### My portfolio contains examples of my work and the impact that it has had - please contact me via mail@johnhayn.es to gain access. 
 
 In my spare time:
 * I volunteer with TechNative as a Tech Champion, mentoring talented young people to help them break into tech
