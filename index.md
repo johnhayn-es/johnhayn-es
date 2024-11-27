@@ -7,7 +7,7 @@ image: '../assets/images/john.png'
 
 # Hey. I'm John.
 
-I have delivered hundreds of millions in revenue growth by designing valuable, highly satisfying enterprise-level SaaS products that measurably save people time and money.
+### I have delivered hundreds of millions in revenue growth by designing valuable, highly satisfying enterprise-level SaaS products that measurably save people time and money.
 
 
 * **IxDF certified user experience manager** (with distinction)
