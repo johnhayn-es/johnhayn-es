@@ -11,7 +11,7 @@ image: '../assets/images/john.png'
 
 
 * **IxDF certified user experience manager** (with distinction)
-* **Qlik certified data analyst** and passionate about building a culture of data-reliance
+* **Qlik certified data analyst** and passionate about building a culture of data-driven decision making
 * **Hands-on experience with AI**, building and designing-for predictive machine learning systems
 * **Led the design** and **product/design teams** for start-ups and enterprise B2B Fintech businesses
 
