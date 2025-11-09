@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Continuous discovery",
+    "description": "An evolving understanding of your business.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "UX assessments",
+    "description": "Pinpoint the strengths and weaknesses of your servicesudo gem install google-protobuf --platform=ruby.",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Data-driven processes",
+    "description": "Embed a culture of data reliance in your business.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
